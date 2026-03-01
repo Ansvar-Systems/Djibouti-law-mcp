@@ -1,0 +1,17 @@
+schema_version: "1.0"
+jurisdiction: "DJ"
+country: "Djibouti"
+language: "French"
+sources:
+  - name: "journalofficiel.dj"
+    authority: "Government of Djibouti"
+    official_portal: "https://journalofficiel.dj"
+    retrieval_method: "web scraping"
+    update_frequency: "as published"
+    license_or_terms: "government open data"
+    coverage: "pending census"
+data_freshness:
+  last_full_ingest: null
+  last_check: null
+  total_laws: 0
+  total_provisions: 0

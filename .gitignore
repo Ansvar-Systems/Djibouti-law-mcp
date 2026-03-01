@@ -1,0 +1,14 @@
+node_modules/
+dist/
+!data/.gitkeep
+.env
+.env.*
+*.tgz
+coverage/
+.vercel/
+.DS_Store
+data/source/
+data/pdf/
+data/text/
+.claude/
+.serena/
