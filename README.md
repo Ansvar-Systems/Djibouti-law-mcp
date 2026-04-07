@@ -38,12 +38,12 @@ This MCP server makes Djiboutian law **searchable, cross-referenceable, and AI-r
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://djiboutian-law-mcp.vercel.app/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-dj/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add djiboutian-law --transport http https://djiboutian-law-mcp.vercel.app/mcp` |
+| **Claude Code** | `claude mcp add djiboutian-law --transport http https://mcp.ansvar.eu/law-dj/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -54,7 +54,7 @@ This MCP server makes Djiboutian law **searchable, cross-referenceable, and AI-r
   "mcpServers": {
     "djiboutian-law": {
       "type": "url",
-      "url": "https://djiboutian-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-dj/mcp"
     }
   }
 }
@@ -67,7 +67,7 @@ This MCP server makes Djiboutian law **searchable, cross-referenceable, and AI-r
   "github.copilot.chat.mcp.servers": {
     "djiboutian-law": {
       "type": "http",
-      "url": "https://djiboutian-law-mcp.vercel.app/mcp"
+      "url": "https://mcp.ansvar.eu/law-dj/mcp"
     }
   }
 }
