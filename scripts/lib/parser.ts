@@ -52,29 +52,75 @@ export interface ParsedAct {
 
 /* ---------- HTML normalisation ---------- */
 
-/** Decode common HTML entities. */
+/** Named HTML entities we routinely see in JORD content (French letters + punctuation). */
+const NAMED_ENTITIES: Record<string, string> = {
+  nbsp: ' ',
+  amp: '&',
+  lt: '<',
+  gt: '>',
+  quot: '"',
+  apos: "'",
+  // French lowercase accented
+  eacute: 'é',
+  egrave: 'è',
+  ecirc: 'ê',
+  euml: 'ë',
+  agrave: 'à',
+  acirc: 'â',
+  auml: 'ä',
+  iacute: 'í',
+  icirc: 'î',
+  iuml: 'ï',
+  ocirc: 'ô',
+  ouml: 'ö',
+  oelig: 'œ',
+  uacute: 'ú',
+  ugrave: 'ù',
+  ucirc: 'û',
+  uuml: 'ü',
+  ccedil: 'ç',
+  yuml: 'ÿ',
+  // French uppercase accented
+  Eacute: 'É',
+  Egrave: 'È',
+  Ecirc: 'Ê',
+  Agrave: 'À',
+  Acirc: 'Â',
+  Icirc: 'Î',
+  Ocirc: 'Ô',
+  Ucirc: 'Û',
+  OElig: 'Œ',
+  Ccedil: 'Ç',
+  // Punctuation
+  laquo: '«',
+  raquo: '»',
+  rsquo: '’',
+  lsquo: '‘',
+  ldquo: '“',
+  rdquo: '”',
+  ndash: '–',
+  mdash: '—',
+  hellip: '…',
+  deg: '°',
+  middot: '·',
+  bull: '•',
+  trade: '™',
+  copy: '©',
+  reg: '®',
+  sect: '§',
+  para: '¶',
+  times: '×',
+  divide: '÷',
+};
+
+/** Decode named and numeric HTML entities. */
 function decodeEntities(s: string): string {
   return s
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&#8217;/g, '’')
-    .replace(/&#8216;/g, '‘')
-    .replace(/&#8220;/g, '“')
-    .replace(/&#8221;/g, '”')
-    .replace(/&#8211;/g, '–')
-    .replace(/&#8212;/g, '—')
-    .replace(/&rsquo;/g, '’')
-    .replace(/&lsquo;/g, '‘')
-    .replace(/&ldquo;/g, '“')
-    .replace(/&rdquo;/g, '”')
-    .replace(/&laquo;/g, '«')
-    .replace(/&raquo;/g, '»')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'")
-    .replace(/&apos;/g, "'")
-    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCharCode(parseInt(code, 16)))
+    .replace(/&([a-zA-Z]+);/g, (whole, name: string) =>
+      Object.prototype.hasOwnProperty.call(NAMED_ENTITIES, name) ? NAMED_ENTITIES[name]! : whole,
+    );
 }
 
 /** Strip all HTML tags and collapse whitespace, preserving paragraph breaks. */
@@ -82,7 +128,11 @@ export function htmlToText(html: string): string {
   if (!html) return '';
   return decodeEntities(
     html
+      // Block tags get a newline so paragraphs and table rows separate
       .replace(/<\s*(?:br|\/p|\/div|\/h\d|\/li|\/tr)\s*\/?>/gi, '\n')
+      // Table cells become spaces (keep words adjacent; empty cells disappear)
+      .replace(/<\s*\/?(?:td|th)[^>]*>/gi, ' ')
+      // Remove all remaining tags
       .replace(/<[^>]+>/g, ' '),
   )
     .replace(/\r/g, '')

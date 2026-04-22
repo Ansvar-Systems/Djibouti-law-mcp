@@ -30,7 +30,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { fetchJson } from './lib/fetcher.js';
-import { parseAcfDate, slugify, toIsoDate } from './lib/parser.js';
+import { htmlToText, parseAcfDate, slugify, toIsoDate } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -168,12 +168,7 @@ function classifyContent(title: string): 'ingestable' | 'excluded' {
 function toCensusLaw(wp: WpTexteJuridique, natureMap: Map<number, WpNatureTerm>): CensusLaw {
   const natureId = wp['nature-dun-texte']?.[0];
   const nature = natureId !== undefined ? natureMap.get(natureId) : undefined;
-  const title = wp.title.rendered
-    .replace(/<[^>]+>/g, '')
-    .replace(/&rsquo;/g, '’')
-    .replace(/&#8217;/g, '’')
-    .replace(/&amp;/g, '&')
-    .trim();
+  const title = htmlToText(wp.title.rendered).replace(/\s+/g, ' ').trim();
   const id = titleToId(wp.slug, wp.id);
   const ref = wp.acf?.reference?.trim();
   const issued = parseAcfDate(wp.acf?.date) || toIsoDate(wp.date);

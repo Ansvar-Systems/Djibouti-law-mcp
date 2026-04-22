@@ -128,13 +128,7 @@ function parseArgs(): CliArgs {
 }
 
 function cleanTitle(raw: string): string {
-  return raw
-    .replace(/<[^>]+>/g, '')
-    .replace(/&rsquo;/g, '’')
-    .replace(/&#8217;/g, '’')
-    .replace(/&amp;/g, '&')
-    .replace(/\s+/g, ' ')
-    .trim();
+  return htmlToText(raw).replace(/\s+/g, ' ').trim();
 }
 
 function taxonomyName(embedded: WpTexteFull['_embedded'], taxonomy: string): string | undefined {
