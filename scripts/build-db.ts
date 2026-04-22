@@ -408,7 +408,7 @@ function buildDatabase(): void {
 
               const euInsert = insertEuDocument.run(
                 ref.euDocumentId, ref.type, ref.year, ref.number, ref.community,
-                shortName, shortName, eurLexUrl, 'Auto-extracted from Djiboutian statute text',
+                shortName, shortName, eurLexUrl, 'Auto-extracted from Djiboutian act text',
               );
               if (euInsert.changes > 0) totalEuDocuments++;
 

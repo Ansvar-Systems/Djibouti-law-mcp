@@ -57,18 +57,18 @@ export async function getProvision(
       'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
     ).get(resolvedId, refTrimmed) as Record<string, unknown> | undefined;
 
-    // Try with "s" prefix (e.g., "1" -> "s1") — Djiboutian "Section" convention
-    if (!provision) {
-      provision = db.prepare(
-        'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
-      ).get(resolvedId, `s${refTrimmed}`) as Record<string, unknown> | undefined;
-    }
-
-    // Try with "art" prefix (e.g., "1" -> "art1") — for Constitution articles
+    // Try with "art" prefix (e.g., "1" -> "art1") — primary French convention
     if (!provision) {
       provision = db.prepare(
         'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
       ).get(resolvedId, `art${refTrimmed}`) as Record<string, unknown> | undefined;
+    }
+
+    // Legacy "s" (section) prefix, harmless fallback for old citation formats
+    if (!provision) {
+      provision = db.prepare(
+        'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
+      ).get(resolvedId, `s${refTrimmed}`) as Record<string, unknown> | undefined;
     }
 
     // Try section column match
