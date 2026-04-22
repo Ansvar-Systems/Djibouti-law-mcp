@@ -1,0 +1,42 @@
+{
+  "id": "loi-n198-an-07-5eme-l-portant-creation-de-lunion-interparlementaire-des-pays-membres-de-ligad",
+  "type": "statute",
+  "title": "Loi n° 198/AN/07/5ème L portant création de l’Union Interparlementaire des pays membres de l’IGAD.",
+  "short_name": "Loi n° 198/AN/07/5ème L portant création de l’Union Interparlementaire des pays…",
+  "status": "in_force",
+  "reference": "198/AN/07/5ème L",
+  "issued_date": "2007-07-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n198-an-07-5eme-l-portant-creation-de-lunion-interparlementaire-des-pays-membres-de-ligad/",
+  "description": "portant création de l’Union Interparlementaire des pays membres de l’IGAD.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>VU La Constitution du 15 septembre 1992 ;<br />VU L'Article 35 du R&egrave;glement int&eacute;rieur de l'Assembl&eacute;e nationale, notamment en son alin&eacute;a 2 relatif aux propositions de r&eacute;solution et de loi ;<br />VU La D&eacute;claration de Djibouti prise dans le cadre de la Conf&eacute;rence Constitutive des 11 et 12 juin 2001 par les Pr&eacute;sidents des Parlements des pays membres de l'IGAD.</p>",
+  "signature": "<p>Le Pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />ISMA&Iuml;L OMAR GUELLEH</p>",
+  "journal_issue_ids": 58301,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>VU La Constitution du 15 septembre 1992 ;<br />VU L'Article 35 du R&egrave;glement int&eacute;rieur de l'Assembl&eacute;e nationale, notamment en son alin&eacute;a 2 relatif aux propositions de r&eacute;solution et de loi ;<br />VU La D&eacute;claration de Djibouti prise dans le cadre de la Conf&eacute;rence Constitutive des 11 et 12 juin 2001 par les Pr&eacute;sidents des Parlements des pays membres de l'IGAD.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est créée l’Union Interparlementaire des Etats membres de l’IGAD, dont est affilié le Parlement de la République de Djibouti."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente Loi est exécutée comme Loi de l’Etat et publiée au Journal Officiel de la République de Djibouti dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Le Pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />ISMA&Iuml;L OMAR GUELLEH</p>"
+    }
+  ]
+}
