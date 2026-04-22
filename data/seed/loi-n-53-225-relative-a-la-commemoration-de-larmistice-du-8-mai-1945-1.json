@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-53-225-relative-a-la-commemoration-de-larmistice-du-8-mai-1945-1",
+  "type": "statute",
+  "title": "Loi n° 53-225 relative à la commémoration de l’Armistice du 8 mai 1945 (1)",
+  "short_name": "Loi n° 53-225 relative à la commémoration de l’Armistice du 8 mai 1945 (1)",
+  "status": "in_force",
+  "reference": "53-225",
+  "issued_date": "1953-03-20",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-53-225-relative-a-la-commemoration-de-larmistice-du-8-mai-1945-1/",
+  "description": "relative à la commémoration de l’Armistice du 8 mai 1945 (1)",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "",
+  "signature": "<p style=\"margin: 0px;\">Vincent AURIOL.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres,</p>\n<p style=\"margin: 0px; padding-left: 80px;\">Ren&eacute; MAYER.</p>\n<p style=\"margin: 0px; padding-left: 80px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Ministre du Travail et de la S&eacute;curit&eacute; Sociale,</p>\n<p style=\"margin: 0px;\">Paul Bacon.</p>\n<p style=\"margin: 0px;\">Le Ministre des Anciens Combattants</p>\n<p style=\"margin: 0px; padding-left: 40px;\">et Victimes de la guerre,</p>\n<p style=\"margin: 0px; padding-left: 80px;\">Henri BERGASSE.</p>",
+  "journal_issue_ids": [
+    105728
+  ],
+  "provisions": [
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1.— La République française célèbre annuellement la commémoration de l’Armistice du 8 mai 1945.\n\n Art. 2. — Le 8 mai sera jour férié.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Vincent AURIOL.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres,</p>\n<p style=\"margin: 0px; padding-left: 80px;\">Ren&eacute; MAYER.</p>\n<p style=\"margin: 0px; padding-left: 80px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Ministre du Travail et de la S&eacute;curit&eacute; Sociale,</p>\n<p style=\"margin: 0px;\">Paul Bacon.</p>\n<p style=\"margin: 0px;\">Le Ministre des Anciens Combattants</p>\n<p style=\"margin: 0px; padding-left: 40px;\">et Victimes de la guerre,</p>\n<p style=\"margin: 0px; padding-left: 80px;\">Henri BERGASSE.</p>"
+    }
+  ]
+}

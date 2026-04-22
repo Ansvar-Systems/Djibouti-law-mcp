@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-1-262-1918-rendant-applicables-aux-colonies-francaises-les-dispositions-de-larticle-49-de-la-loi-du-29-septembre-4947-portant-ouverture-sur-lexe",
+  "type": "statute",
+  "title": "Loi n° 1-262-1918 rendant applicables aux colonies françaises les dispositions de l’article 49 de la loi du 29 septembre 4947, portant ouverture, sur l’exercice 4917, des crédits provisoires applicables au 4e trimestre 1947.",
+  "short_name": "Loi n° 1-262-1918 rendant applicables aux colonies françaises les dispositions…",
+  "status": "in_force",
+  "reference": "1-262-1918",
+  "issued_date": "1918-05-02",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-1-262-1918-rendant-applicables-aux-colonies-francaises-les-dispositions-de-larticle-49-de-la-loi-du-29-septembre-4947-portant-ouverture-sur-lexercice-4917-des-credits-provisoires/",
+  "description": "rendant applicables aux colonies françaises les dispositions de l'article 49 de la loi du 29 septembre 4947, portant ouverture, sur l'exercice 4917, des crédits provisoires applicables au 4e trimestre 1947.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique Fran&ccedil;aise promulgue la loi dont la teneur suit :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p style=\"margin: 0px;\">Par le President de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre des colonies,</p>\n<p style=\"margin: 0px;\">HENRY SIMON</p>\n<p style=\"margin: 0px;\">Le ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">L. L. KLOTZ.</p>",
+  "journal_issue_ids": [
+    106091
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique Fran&ccedil;aise promulgue la loi dont la teneur suit :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique.— Les dispositions de l’article 19 de la loi du 29 septembre 1917 accordant des majorations supplémentaires aux titulaires de l’allocation militaire principale du fait de leurs enfants au petits enfants mobilisés sont déclarées applicables aux colonies.\n\n La présente loi aura ses effets à compter du 30 septembre 1917.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des Députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p style=\"margin: 0px;\">Par le President de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre des colonies,</p>\n<p style=\"margin: 0px;\">HENRY SIMON</p>\n<p style=\"margin: 0px;\">Le ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">L. L. KLOTZ.</p>"
+    }
+  ]
+}

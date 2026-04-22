@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-14-mars-1941-relatif-au-personnel-des-juridictions-militaires-des-forces-francaises-libres-dans-le-ktoyaume-uni",
+  "type": "statute",
+  "title": "Ordonnance n° 14 mars 1941 relatif au personnel des juridictions militaires des Forces Francaises Libres dans le Ktoyaume-Uni.",
+  "short_name": "Ordonnance n° 14 mars 1941 relatif au personnel des juridictions militaires des…",
+  "status": "in_force",
+  "reference": "14 mars 1941",
+  "issued_date": "1941-03-14",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-14-mars-1941-relatif-au-personnel-des-juridictions-militaires-des-forces-francaises-libres-dans-le-ktoyaume-uni/",
+  "description": "relatif au personnel des juridictions militaires des Forces Francaises Libres dans le Ktoyaume-Uni.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Le G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres,</p>\n<p>Commandant en chef des Forces Fran&ccedil;aises Libres,</p>\n<p>Vu la loi du 9 mars 1928, portant r&eacute;vision du Code de Justice Militaire pour l&rsquo;arm&eacute;e de terre et les lois et d&eacute;crets, ayant forci de loi. qui l&rsquo;ont compl&eacute;t&eacute;e ou modifi&eacute;e.</p>\n<p>Vu les ordres du 19 d&eacute;cembre 1910 portant constitution &icirc;les juridictions militaires des Forces Fran&ccedil;aises Libres dans le Royaume l'ni,</p>",
+  "signature": "<p>C. de Gaulle.</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres,</p>\n<p>Commandant en chef des Forces Fran&ccedil;aises Libres,</p>\n<p>Vu la loi du 9 mars 1928, portant r&eacute;vision du Code de Justice Militaire pour l&rsquo;arm&eacute;e de terre et les lois et d&eacute;crets, ayant forci de loi. qui l&rsquo;ont compl&eacute;t&eacute;e ou modifi&eacute;e.</p>\n<p>Vu les ordres du 19 d&eacute;cembre 1910 portant constitution &icirc;les juridictions militaires des Forces Fran&ccedil;aises Libres dans le Royaume l'ni,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1. Sans préjudice des facilités instituées par l’art. 10 du Code de Justice Militaire, modifié par la loi du 4 mars 1932, chaque fois quelles seront suffisantes, les dispositions des art. 156. 61. alinéas 2 et suivants. et alinéa 3 du Code de Justice Militaire prévoyant les mesures à prendre en cas d’insuffisance d’officiers des cadres et îles grades exigés pour la formation des tribunaux militaires et des tribunaux militaires de cassation, ainsi que l’art. 264. alinea final, relatif au greffier, sont applicables aux juridictions créés par les Ordres du 19 décembre 1940 concernant l’armée de terre et l’armée de l’air.\n\n Art. 2. Le tribunal visera dans chaque jugement article du ( ode de Justice Militaire en vertu duquel sa composition aura été riglée."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. de Gaulle.</p>"
+    }
+  ]
+}

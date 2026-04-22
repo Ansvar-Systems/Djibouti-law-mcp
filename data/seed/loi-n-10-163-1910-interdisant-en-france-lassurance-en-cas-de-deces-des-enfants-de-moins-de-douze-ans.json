@@ -1,0 +1,42 @@
+{
+  "id": "loi-n-10-163-1910-interdisant-en-france-lassurance-en-cas-de-deces-des-enfants-de-moins-de-douze-ans",
+  "type": "statute",
+  "title": "Loi n° 10-163-1910 interdisant en France l’Assurance en cas de décès des enfants de moins de douze ans.",
+  "short_name": "Loi n° 10-163-1910 interdisant en France l’Assurance en cas de décès des…",
+  "status": "in_force",
+  "reference": "10-163-1910",
+  "issued_date": "1904-12-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-10-163-1910-interdisant-en-france-lassurance-en-cas-de-deces-des-enfants-de-moins-de-douze-ans/",
+  "description": "interdisant en France l'Assurance en cas de décès des enfants de moins de douze ans.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">la Loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">Emile LOURBET,</p>\n<p style=\"margin: 0px;\">Le Ministre du Commerce, de l'Industrie,</p>\n<p style=\"margin: 0px;\">des Postes et des T&eacute;l&eacute;graphes,</p>\n<p style=\"margin: 0px;\">G. TROUILLOT.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": 192200,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">la Loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Est considérée comme contraire à l’ordre public toute assurance au décès reposant sur la tête d’enfants de moins de douze ans."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": ", — Sont exceptées les contre assurances contractées en vue d’assurer, en cas de décès, le remboursement des primes versées pour une assurance en cas de vie,\n\n\nLa présente Loi, délibérée et adoptée par le Sénat et par la Chambre des Députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Emile LOURBET,</p>\n<p style=\"margin: 0px;\">Le Ministre du Commerce, de l'Industrie,</p>\n<p style=\"margin: 0px;\">des Postes et des T&eacute;l&eacute;graphes,</p>\n<p style=\"margin: 0px;\">G. TROUILLOT.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

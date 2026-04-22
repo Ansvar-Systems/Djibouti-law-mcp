@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-14-mars-1942-completant-larticle-2-de-la-loi-du-18-juillet-1942-portant-reglementation-de-la-reproduction-des-traits-du-chef-de-letat",
+  "type": "statute",
+  "title": "Loi n° 14 mars 1942 complétant l’article 2 de la loi du 18 juillet 1942 portant réglementation de la reproduction des traits du Chef de l’Etat.",
+  "short_name": "Loi n° 14 mars 1942 complétant l’article 2 de la loi du 18 juillet 1942 portant…",
+  "status": "in_force",
+  "reference": "14 mars 1942",
+  "issued_date": "1942-03-14",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-14-mars-1942-completant-larticle-2-de-la-loi-du-18-juillet-1942-portant-reglementation-de-la-reproduction-des-traits-du-chef-de-letat/",
+  "description": "complétant l’article 2 de la loi du 18 juillet 1942 portant réglementation de la reproduction des traits du Chef de l'Etat.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France,Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Secr&eacute;taire d&rsquo;Etat &agrave; l'aviation.</p>\n<p>Secr&eacute;taire d'Etat aux colonies p. i.,</p>\n<p>BERGERET.&nbsp;</p>",
+  "journal_issue_ids": [
+    105850
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France,Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. L’article 2 de la loi du 18 juil let 1941 portant réglementation de la repro duction des traits du Chef de l’Etat est compiété comme suit :\n\n « En ce qui concerne les territoires relevaut du secrétariat d’Etat aux colonies, l’autorisation pourra être accordée après le visa de la censure locale par le haut -commissaire de France dans le Pacifique et d’haut-commissaire de l’Afrique française dans les territoires placés sous leur autorité, par le gouverneur général à Madagascar, par le gouverneur ou le chef de territoire dans les colonies autonomes. »\n\n Art. 2 Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Secr&eacute;taire d&rsquo;Etat &agrave; l'aviation.</p>\n<p>Secr&eacute;taire d'Etat aux colonies p. i.,</p>\n<p>BERGERET.&nbsp;</p>"
+    }
+  ]
+}

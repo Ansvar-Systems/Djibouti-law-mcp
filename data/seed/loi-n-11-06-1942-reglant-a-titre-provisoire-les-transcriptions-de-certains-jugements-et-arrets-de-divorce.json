@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-11-06-1942-reglant-a-titre-provisoire-les-transcriptions-de-certains-jugements-et-arrets-de-divorce",
+  "type": "statute",
+  "title": "Loi n° 11/06/1942 réglant à titre provisoire les transcriptions de certains jugements et arrêts de divorce.",
+  "short_name": "Loi n° 11/06/1942 réglant à titre provisoire les transcriptions de certains…",
+  "status": "in_force",
+  "reference": "11/06/1942",
+  "issued_date": "1942-06-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-11-06-1942-reglant-a-titre-provisoire-les-transcriptions-de-certains-jugements-et-arrets-de-divorce/",
+  "description": "réglant à titre provisoire les transcriptions de certains jugements et arrêts de divorce.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "",
+  "signature": "<p style=\"margin: 0px;\">PH. P&Eacute;TAIN.</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l'Etat</p>\n<p style=\"margin: 0px;\">fran&ccedil;ais :</p>\n<p style=\"margin: 0px;\">Le Chef du Gouvernement. Ministre</p>\n<p style=\"margin: 0px;\">Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">LAVAL.</p>\n<p style=\"margin: 0px;\">L( Garde des sceaux,</p>\n<p style=\"margin: 0px;\">Ministre Secr&eacute;taire d'Elat &agrave; la justice,</p>\n<p style=\"margin: 0px;\">BARTH&Eacute;L&Eacute;MY.</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat aur colonies,</p>\n<p style=\"margin: 0px;\">BEVI&Eacute;.</p>",
+  "journal_issue_ids": [
+    105857
+  ],
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "— Le présent décret sera publié au Journal officiel et exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">PH. P&Eacute;TAIN.</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l'Etat</p>\n<p style=\"margin: 0px;\">fran&ccedil;ais :</p>\n<p style=\"margin: 0px;\">Le Chef du Gouvernement. Ministre</p>\n<p style=\"margin: 0px;\">Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">LAVAL.</p>\n<p style=\"margin: 0px;\">L( Garde des sceaux,</p>\n<p style=\"margin: 0px;\">Ministre Secr&eacute;taire d'Elat &agrave; la justice,</p>\n<p style=\"margin: 0px;\">BARTH&Eacute;L&Eacute;MY.</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat aur colonies,</p>\n<p style=\"margin: 0px;\">BEVI&Eacute;.</p>"
+    }
+  ]
+}

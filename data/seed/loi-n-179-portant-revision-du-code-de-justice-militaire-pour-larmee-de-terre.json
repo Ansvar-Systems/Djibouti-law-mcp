@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-179-portant-revision-du-code-de-justice-militaire-pour-larmee-de-terre",
+  "type": "statute",
+  "title": "Loi n° 179 portant révision du Code de justice militaire pour l’armée de terre.",
+  "short_name": "Loi n° 179 portant révision du Code de justice militaire pour l’armée de terre.",
+  "status": "in_force",
+  "reference": "179",
+  "issued_date": "1941-03-09",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-179-portant-revision-du-code-de-justice-militaire-pour-larmee-de-terre/",
+  "description": "portant révision du Code de justice militaire pour l'armée de terre.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous. Mar&eacute;chal de France,</p>\n<p>Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le G&eacute;n&eacute;ral d'arm&eacute;e, commandant en chef des forces terrestres,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la guerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>PLATON.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'aviation.</p>\n<p>BERGERET.</p>",
+  "journal_issue_ids": [
+    105865
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous. Mar&eacute;chal de France,</p>\n<p>Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Le premier alinéa de l’article 179 du Code de justice militaire pour l’armée de terre est abrogé et remplacé par le suivant :\n\n « Aux armées. dans les circonscriptions ter ritoriales en temps de guerre et dans les places de guerre assiégées ou investies, l’inculpé peut être traduit directement devant le tribunal militaire, sauf lorsqu’il s’agit d’une in fraction pouvant entraîner la peine de mort. »\n\n Art. 2. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Et"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le G&eacute;n&eacute;ral d'arm&eacute;e, commandant en chef des forces terrestres,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la guerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>PLATON.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'aviation.</p>\n<p>BERGERET.</p>"
+    }
+  ]
+}

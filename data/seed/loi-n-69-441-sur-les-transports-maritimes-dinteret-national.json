@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-69-441-sur-les-transports-maritimes-dinteret-national",
+  "type": "statute",
+  "title": "Loi n° 69-441 sur les transports maritimes d’intérêt national.",
+  "short_name": "Loi n° 69-441 sur les transports maritimes d’intérêt national.",
+  "status": "in_force",
+  "reference": "69-441",
+  "issued_date": "1969-05-20",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-69-441-sur-les-transports-maritimes-dinteret-national/",
+  "description": "sur les transports maritimes d’intérêt national.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L'Assembl&eacute;e Nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du S&eacute;nat, exer&ccedil;ant provisoirement les fonctions du Pr&eacute;sident de la R&eacute;publique, promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">Alain POHER.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident du S&eacute;nat, exer&ccedil;ant provisoirement</p>\n<p style=\"margin: 0px;\">les fonttions du Pr&eacute;sident de la R&eacute;publique :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105527
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L'Assembl&eacute;e Nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du S&eacute;nat, exer&ccedil;ant provisoirement les fonctions du Pr&eacute;sident de la R&eacute;publique, promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Les armateurs de nationalité française sont tenus d’assurer les transports maritimes présentant un caractère d’intérêt national.\n\n Art. 2. — Le caractère d’intérêt national d’un transport est constaté par décision du Ministre chargé de la Marine marchande, notifiée à chaque armateur intéressé.\n\n Art. 3 — Les conditions dans lesquelles s’effectuent les transports susvisés sont déterminées d’un commun accord entre le ministre utilisateur et l’armateur intéressé, après avis du ministre chargé de la Marine marchande.\n\n Cet accord règle, le cas échéant, le remboursement des frais supplémentaires spécialement et raisonnablement engagés par l’armateur pour mettre le ou les navires à la disposition du ministre utilisateur à la date et au lieu prescrit.\n\n Art. 4 — A défaut d’accord amiable ou en cas d’inexécution dudit accord par l’armateur, la réquisition des services de l’armateur où de l’usage des navires nécessaires est décidée par arrêté conjoint du ministre chargé de la Marine marchande et du ministre de l’Economie et des Finances, pour une durée maximale d’un an éventuellement renouvelable, selon les modalités fixées par le titre II de la loi du 11 juillet 1938 sur l’organisation générale de la nation pour le temps de guerre, modifié et complété par l’ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de biens et de services.\n\n Toutefois, au cas où le renouvellement de la réquisition apparaîtrait nécessaire, la possibilité sera offerte à l’armateur, un mois avant l’expiration de la période de réquisition, de recourir à la procédure prévue à l’article 3.\n\n Art. 5 — La présente loi est applicable aux territoires d’outre-mer.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Alain POHER.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident du S&eacute;nat, exer&ccedil;ant provisoirement</p>\n<p style=\"margin: 0px;\">les fonttions du Pr&eacute;sident de la R&eacute;publique :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

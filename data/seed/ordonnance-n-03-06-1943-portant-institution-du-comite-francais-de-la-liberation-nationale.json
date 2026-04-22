@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-03-06-1943-portant-institution-du-comite-francais-de-la-liberation-nationale",
+  "type": "statute",
+  "title": "Ordonnance n° 03/06/1943 portant institution du Comité Français de la Libération nationale.",
+  "short_name": "Ordonnance n° 03/06/1943 portant institution du Comité Français de la…",
+  "status": "in_force",
+  "reference": "03/06/1943",
+  "issued_date": "1943-06-03",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-03-06-1943-portant-institution-du-comite-francais-de-la-liberation-nationale/",
+  "description": "portant institution du Comité Français de la Libération nationale.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral Giraud, agissant en vertu de&nbsp;la d&eacute;claration et des ordonnances du 14 Mars&nbsp;1943,</p>\n<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral de Gaulle, agissant en vertu&nbsp;du mandat &agrave; lui d&eacute;livr&eacute; le 25 Mai 1943 par&nbsp;le Comit&eacute; national fran&ccedil;ais,</p>\n<p style=\"margin: 0px;\">Consid&eacute;rant que, du fait de l'occupation du&nbsp;territoire fran&ccedil;ais par&nbsp;l&rsquo;ennemi, l&rsquo;exercice de&nbsp;la souverainet&eacute; du peuple fran&ccedil;ais fondement&nbsp;de tout pouvoir l&eacute;gal est suspendu ;</p>\n<p style=\"margin: 0px;\">Que le Comit&eacute; national fran&ccedil;ais et le Commandement en Chef civil et militaire ont&nbsp;d&eacute;cid&eacute; d'unifier leur action pour assurer&nbsp;la direction de l&rsquo;effort fran&ccedil;ais dans la guerre,&nbsp;la d&eacute;fense des interets permanents de la&nbsp;France et la gestion des affaires concernant les territoires et les forces relevant jusqu &agrave; pr&eacute;sent de leur autorit&eacute; respective.</p>",
+  "signature": "<p>De GAULLE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GIRAUD.&nbsp;</p>",
+  "journal_issue_ids": [
+    105852
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral Giraud, agissant en vertu de&nbsp;la d&eacute;claration et des ordonnances du 14 Mars&nbsp;1943,</p>\n<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral de Gaulle, agissant en vertu&nbsp;du mandat &agrave; lui d&eacute;livr&eacute; le 25 Mai 1943 par&nbsp;le Comit&eacute; national fran&ccedil;ais,</p>\n<p style=\"margin: 0px;\">Consid&eacute;rant que, du fait de l'occupation du&nbsp;territoire fran&ccedil;ais par&nbsp;l&rsquo;ennemi, l&rsquo;exercice de&nbsp;la souverainet&eacute; du peuple fran&ccedil;ais fondement&nbsp;de tout pouvoir l&eacute;gal est suspendu ;</p>\n<p style=\"margin: 0px;\">Que le Comit&eacute; national fran&ccedil;ais et le Commandement en Chef civil et militaire ont&nbsp;d&eacute;cid&eacute; d'unifier leur action pour assurer&nbsp;la direction de l&rsquo;effort fran&ccedil;ais dans la guerre,&nbsp;la d&eacute;fense des interets permanents de la&nbsp;France et la gestion des affaires concernant les territoires et les forces relevant jusqu &agrave; pr&eacute;sent de leur autorit&eacute; respective.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. il est institue un Pouvoir central français unique qui prend le nom de Comité français de la Libération nationale.\n\n Art. 2. Le Comité français de la Liberation nationale dirige l’effort français dans la guerre, sous toutes ses formes et en tous lieux.\n\n Art. 3. I e Comité français de la Liberation nationale exerce la souveraineté française sur tous les territoires placés hors du pouvoir de l’ennemi ;\n\n il assure la gestion et la défense de tous les interets français dans le monde ;\n\n il assume l’autorité sur les territoires et les forces terrestres, navales et aériennes relevant jusqu’à présent soit du Comité national français soit du Commandement en Chef civil et militaire.\n\n Le Comité conclut les traités et accords avec les puissances étrangères les deux présidents accréditent les représentants diplomatiques auprès des puissances étrangères, les représentants étrangers sont accrédités auprès d’eux.\n\n Art. 4. Conformément aux documents échangés antérieurement entre le Comité National français et le Commandement en Chef civil et militaire et, notamment, la lettre du Général Giraud du 17 Mai 1943 et la réponse du Général de Gaulle du 25 Mai, le Comité français de la Libération nationale exercera ses fonctions jusqu’à la date où l’état de libération du territoire permettra la formation, conformément aux lois de la République, d’un Gouvernement provisoire auquel il remettra ses pouvoirs.\n\n Cette date sera, au plus tard, celle de la libération totale du territoire.\n\n Art. 5. Des décrets détermineront l’organisation et le fonctionnement du Comité Français de la Libération nationale."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>De GAULLE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GIRAUD.&nbsp;</p>"
+    }
+  ]
+}

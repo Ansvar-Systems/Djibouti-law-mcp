@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-16-janvier-1941-loi-relative-a-la-modification-des-regles-applicables-en-matiere-de-rappel-danciennete-pour-services-militaires",
+  "type": "statute",
+  "title": "Loi n° 16 janvier 1941 Loi relative à la modification des règles applicables en matière de rappel d’ancienneté pour services militaires.",
+  "short_name": "Loi n° 16 janvier 1941 Loi relative à la modification des règles applicables en…",
+  "status": "in_force",
+  "reference": "16 janvier 1941",
+  "issued_date": "1941-01-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-16-janvier-1941-loi-relative-a-la-modification-des-regles-applicables-en-matiere-de-rappel-danciennete-pour-services-militaires/",
+  "description": "Loi relative à la modification des règles applicables en matière de rappel d'ancienneté pour services militaires.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.</p>\n<p>&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">PH. P&Eacute;TAIN.</p>\n<p style=\"margin: 0px;\">Par Le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p style=\"margin: 0px;\">Le Ministre Secr&eacute;taire d'Etat aux finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">BOUTHILLIER.</p>",
+  "journal_issue_ids": [
+    105865
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Les dispositions en vertu des quelles est compté, pour une durée équivalente de services civils, dans le calcul de l’ancienneté de service exigée pour l’avancement le temps passé Sous les drapeaux, ne sont pas\n\n applicables aux agents ayant ou non la qualité de fonctionnaires de l’Etat de départements, de communes, d’offices, rétablissements publics ou de colonies, nommés dans un cadre administratif, par dérogation temporaire aux règles normales de recrutement, à un grade ou à une classe comportant un traitement autre que celui afférent à la dernière classe de l’emploi de début de ce cadre,\n\n Art. 2. — Le présent acte, qui aura effet à compter du 17 juillet 1940 sera publié au Jour nal officiel et exécuté comme loi de l’État."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">PH. P&Eacute;TAIN.</p>\n<p style=\"margin: 0px;\">Par Le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p style=\"margin: 0px;\">Le Ministre Secr&eacute;taire d'Etat aux finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">BOUTHILLIER.</p>"
+    }
+  ]
+}

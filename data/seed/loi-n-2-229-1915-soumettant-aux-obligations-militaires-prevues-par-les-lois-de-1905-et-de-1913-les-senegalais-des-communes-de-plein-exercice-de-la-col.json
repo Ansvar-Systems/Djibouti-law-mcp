@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-2-229-1915-soumettant-aux-obligations-militaires-prevues-par-les-lois-de-1905-et-de-1913-les-senegalais-des-communes-de-plein-exercice-de-la-col",
+  "type": "statute",
+  "title": "Loi n° 2-229-1915 soumettant aux obligations militaires prévues par les lois de 1905 et de 1913 les sénégalais des communes de plein exercice de la Colonie.",
+  "short_name": "Loi n° 2-229-1915 soumettant aux obligations militaires prévues par les lois de…",
+  "status": "in_force",
+  "reference": "2-229-1915",
+  "issued_date": "1915-10-19",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-2-229-1915-soumettant-aux-obligations-militaires-prevues-par-les-lois-de-1905-et-de-1913-les-senegalais-des-communes-de-plein-exercice-de-la-colonie/",
+  "description": "soumettant aux obligations militaires prévues par les lois de 1905 et de 1913 les sénégalais des communes de plein exercice de la Colonie.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Ministre de la Guerre,</p>\n<p style=\"margin: 0px;\">A. MILLERAND.</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,&nbsp;</p>\n<p style=\"margin: 0px;\">Gaston DOUMERGUE.</p>",
+  "journal_issue_ids": 192143,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er.- Les originaires des communes de plein exercice du Sénégal doivent le service militaire dans les conditions prévues par la loi du 21 Mars 1905, modifiée par la loi du 7 Août 1913.\n\n Les paragraphes 1, 2,3 et 5 de l’article 90 et l’article 91 de cette loi ne leur sont pas applicables.\n\n Ils sont incorporés dans les troupes françaises et soumis aux mêmes obligations et avantages. Ils pourront éventuellement être constitués en formations spéciales.\n\n Art.2. – Dès la promulgation de la présente loi, les contingents des originaires des communes de plein exercice du Sénégal des classes 1889 à 1917 seront recensés et présentés aux conseils de révision réunis à cet effet. Ils seront immédiatement incorporés en commençant par les plus jeunes classes.\n\n Chacune de ces classes est et reste soumise aux obligations de la classe metropolitaine correspondante.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des Députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Ministre de la Guerre,</p>\n<p style=\"margin: 0px;\">A. MILLERAND.</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,&nbsp;</p>\n<p style=\"margin: 0px;\">Gaston DOUMERGUE.</p>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-le-5-octobre-1941-la-loi-relative-a-la-composition-des-tribunaux-militaires-permanents-jusqua-la-date-de-cessation-legale-du-temps-de-guerre",
+  "type": "statute",
+  "title": "Loi n° le 5 octobre 1941 La loi relative à la composition des tribunaux militaires permanents jusqu’à la date de cessation légale du temps de guerre",
+  "short_name": "Loi n° le 5 octobre 1941 La loi relative à la composition des tribunaux…",
+  "status": "in_force",
+  "reference": "le 5 octobre 1941",
+  "issued_date": "1941-10-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-le-5-octobre-1941-la-loi-relative-a-la-composition-des-tribunaux-militaires-permanents-jusqua-la-date-de-cessation-legale-du-temps-de-guerre/",
+  "description": "La loi relative à la composition des tribunaux militaires permanents jusqu'à la date de cessation légale du temps de guerre",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte,</p>\n<p>Vice-Pr&eacute;sident du Conseil,</p>\n<p>Ministre de la d&eacute;fense nationale.</p>\n<p>DARLAN.</p>\n<p>Le G&eacute;n&eacute;ral d'arm&eacute;e,</p>\n<p>Commandant en chef des forces terrestres,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la gerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Garde des Sceaux.</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>BARTH&Eacute;LEMY.</p>\n<p>Le Secr&eacute;taire d'&Eacute;tat aux colonies,</p>\n<p>Platon.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'aviation,</p>\n<p>BERGERET.</p>",
+  "journal_issue_ids": [
+    105869
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1 er . — Jusqu’à la date de cessation légale du temps de guerre les tribunaux militaires permanents seront composés suivant le grade de l’inculpé, conformément au tableau inséré dans l’article 156 du Code de justice militaire pour l’armée de terre.\n\n Art. 2. — Pendant cette même période les tribunaux militaires permanents appelés à juger des membres de l’armée de l’air ou à connaître des poursuites dirigées à la fois contre des justiciables des tribunaux de l’armée de terre et des militaires de l’armée de l’air useront composés dans les conditions fixées par l’article 28 de la loi du 2 juillet 1934 complété par le décret du 30 octobre 1935. en ce qui concerne les tribunaux militaires aux armées.\n\n Art. 3. — Le présent décret est applicable en Algérie, aux colonies et dans les territoires Font re-mer.\n\n Art. 4. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’État."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte,</p>\n<p>Vice-Pr&eacute;sident du Conseil,</p>\n<p>Ministre de la d&eacute;fense nationale.</p>\n<p>DARLAN.</p>\n<p>Le G&eacute;n&eacute;ral d'arm&eacute;e,</p>\n<p>Commandant en chef des forces terrestres,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la gerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Garde des Sceaux.</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>BARTH&Eacute;LEMY.</p>\n<p>Le Secr&eacute;taire d'&Eacute;tat aux colonies,</p>\n<p>Platon.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'aviation,</p>\n<p>BERGERET.</p>"
+    }
+  ]
+}

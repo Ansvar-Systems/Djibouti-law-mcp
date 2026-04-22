@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-21-octobre-1941-21-octobre-1941",
+  "type": "statute",
+  "title": "Loi n° 21 octobre 1941 21 octobre 1941",
+  "short_name": "Loi n° 21 octobre 1941 21 octobre 1941",
+  "status": "in_force",
+  "reference": "21 octobre 1941",
+  "issued_date": "1941-10-21",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-21-octobre-1941-21-octobre-1941/",
+  "description": "21 octobre 1941",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>Ch. Platon.</p>\n<p>&nbsp;</p>",
+  "journal_issue_ids": [
+    105870
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1 er . — Jusqu’à la date de cessation lé gale du temps de guerre, par dérogation temporaire aux dispositions légales en vigueur concernant la détermination des tribunaux militaires appelés à connaître des poursuites intentées contre les justiciables de ces juridictions. le Ministre de la guerre pourra, lorsque les circonstances l’exigeront, désigner l’autorité militaire qui aura qualité pour délivrer l’ordre d’informer et le tribunal militaire devant avoir connaissance de l’affaire.\n\n Art. 2. — Le Secrétaire d’État à l’aviation, après avis du personnel de l’armée de l’air et après entente avec le Ministre de la guerre, a les pouvoirs dévolus à ce dernier par l’article premier de la présente loi.\n\n Art. 3. — Le présent décret sera publié au Journal officiel et exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>Ch. Platon.</p>\n<p>&nbsp;</p>"
+    }
+  ]
+}

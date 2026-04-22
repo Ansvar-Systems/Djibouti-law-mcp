@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-817-promulgation-n-817-du-8-juin-1962",
+  "type": "statute",
+  "title": "Loi n° 817 promulgation n° 817 du 8 juin 1962",
+  "short_name": "Loi n° 817 promulgation n° 817 du 8 juin 1962",
+  "status": "in_force",
+  "reference": "817",
+  "issued_date": "1962-06-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-817-promulgation-n-817-du-8-juin-1962/",
+  "description": "promulgation n° 817 du 8 juin 1962",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouverneur chef du Territoire de la C&ocirc;te Francaise des Somalis, Officier de la L&eacute;gion d&rsquo;honneur,</p>\n<p>Vu l'ordonnance organique du 18 septembre 1844, rendue applicable au Territoire par d&eacute;cret du 18 juin 1884,</p>\n<p>&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">Pour le Chef de Territoire et par d&eacute;l&eacute;gation :</p>\n<p style=\"margin: 0px;\">L'Administrateur en Chef</p>\n<p style=\"margin: 0px;\">charg&eacute; de l'exp&eacute;dition des Affaires courantes</p>\n<p style=\"margin: 0px;\">du Secr&eacute;tariat G&eacute;n&eacute;ral,</p>\n<p style=\"margin: 0px;\">Pierre GABIRAULT.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105690
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouverneur chef du Territoire de la C&ocirc;te Francaise des Somalis, Officier de la L&eacute;gion d&rsquo;honneur,</p>\n<p>Vu l'ordonnance organique du 18 septembre 1844, rendue applicable au Territoire par d&eacute;cret du 18 juin 1884,</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art.1er – Est promulguée dans le Territoire de la Côte Française des Somalis la loi n° 62-621 du 2 juin 1962, fixant le régime d’importation, de vente, de cession, de transport, de port, de détention et d’exportation des armes, articles d’armement, munitions et matériels de guerre en Côte Francaise des Somalis (J.OR.F. du 3 juin 1962, p. 5347).\n\n Art. 2. — Le présent arrêté qui fera l’objet de mesurés de publicité extraordinaire et urgente sera enregistré et communiqué partout où besoïn sera."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Pour le Chef de Territoire et par d&eacute;l&eacute;gation :</p>\n<p style=\"margin: 0px;\">L'Administrateur en Chef</p>\n<p style=\"margin: 0px;\">charg&eacute; de l'exp&eacute;dition des Affaires courantes</p>\n<p style=\"margin: 0px;\">du Secr&eacute;tariat G&eacute;n&eacute;ral,</p>\n<p style=\"margin: 0px;\">Pierre GABIRAULT.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-04-12-1944-reprimant-la-destruction-de-certains-documents",
+  "type": "statute",
+  "title": "Ordonnance n° 04/12/1944 réprimant la destruction de certains documents.",
+  "short_name": "Ordonnance n° 04/12/1944 réprimant la destruction de certains documents.",
+  "status": "in_force",
+  "reference": "04/12/1944",
+  "issued_date": "1944-12-04",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-04-12-1944-reprimant-la-destruction-de-certains-documents/",
+  "description": "réprimant la destruction de certains documents.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu l'ordonnance deu 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4 septembre 1944 ;</p>\n<p style=\"margin: 0px;\">Vu les articles 75 &agrave; 86 du code p&eacute;nal modifi&eacute;s par le d&eacute;cret-loi du 29 juillet 1939 ;</p>\n<p style=\"margin: 0px;\">Vu l'article 439 du code p&eacute;nal;</p>\n<p style=\"margin: 0px;\">Vu le d&eacute;cret du 22 novembre 1944 relatif &agrave; l'exercice de la pr&eacute;sidence du Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise pendant l'absence du G&eacute;n&eacute;ral de Gaulle;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entendu,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">Le Commissaire d'Etat charg&eacute; de</p>\n<p style=\"margin: 0px;\">l'int&eacute;rim de la pr&eacute;sidence du Comit&eacute;,</p>\n<p style=\"margin: 0px;\">Jules JEANNENEY.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux,</p>\n<p style=\"margin: 0px;\">Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">Fran&ccedil;ois DE MENTHON.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105827
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu l'ordonnance deu 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4 septembre 1944 ;</p>\n<p style=\"margin: 0px;\">Vu les articles 75 &agrave; 86 du code p&eacute;nal modifi&eacute;s par le d&eacute;cret-loi du 29 juillet 1939 ;</p>\n<p style=\"margin: 0px;\">Vu l'article 439 du code p&eacute;nal;</p>\n<p style=\"margin: 0px;\">Vu le d&eacute;cret du 22 novembre 1944 relatif &agrave; l'exercice de la pr&eacute;sidence du Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise pendant l'absence du G&eacute;n&eacute;ral de Gaulle;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entendu,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Le premier alinéa de l’article 85 du code pénal est complété par un paragraphe . ain\n\n\n« 4° Qui sciemment détruira, soustraira, recèlera, dissimulera ou altèrera un document public ou privé de nature à faciliter la recherche du crime ou dudélit, la découverte des preuves ou le châtiment de ses auteurs. »\n\n\nArt. 2. — Le premier alinéa de l’article 439 du code pénal est abrogé et remplacé par dispositision suivantes :\n\n\n« les Quiconque aura volontairement brûlé ou détruit, d’une manière quelconque, des registres, minutes ou actes originaux de l’autorité publique, des titres, billets, lettres de changes, effets de commerce ou de banque, contenant ou opérant obligation, disposition ou décharge.\n\n\n« Quiconque aura sciemment, détruit, sous-trait, recélé, dissimulé ou altéré un document public ou privé de nature à faciliter la recherche des crimes ou délits, la découverte des preuves ou le châtiment de leurs auteurs sera sans préjudice des peines plus graves prévues, puni ainsi qu’il suit.»\n\n\nLe reste sans changement.\n\n\nArt 3. — La présente ordonnance sera publiée au Journal Officiel de la République Française et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Le Commissaire d'Etat charg&eacute; de</p>\n<p style=\"margin: 0px;\">l'int&eacute;rim de la pr&eacute;sidence du Comit&eacute;,</p>\n<p style=\"margin: 0px;\">Jules JEANNENEY.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux,</p>\n<p style=\"margin: 0px;\">Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">Fran&ccedil;ois DE MENTHON.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

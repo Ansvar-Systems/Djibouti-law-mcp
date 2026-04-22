@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-38-etendant-aux-membres-de-la-marine-marchande-le-regime-des-pensions-de-guerre-de-la-france-combattante",
+  "type": "statute",
+  "title": "Ordonnance n° 38 étendant aux membres de la Marine Marchande le régime des pensions de guerre de la France Combattante.",
+  "short_name": "Ordonnance n° 38 étendant aux membres de la Marine Marchande le régime des…",
+  "status": "in_force",
+  "reference": "38",
+  "issued_date": "1943-01-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-38-etendant-aux-membres-de-la-marine-marchande-le-regime-des-pensions-de-guerre-de-la-france-combattante/",
+  "description": "étendant aux membres de la Marine Marchande le régime des pensions de guerre de la France Combattante.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 16 du 24 septembre&nbsp;1941, portant organisation nouvelle des Pouvoirs Publics de la France Libre ;</p>\n<p style=\"margin: 0px;\">Vu la loi du 31 Mars 1919, portant&nbsp;institution de pensions militaires, ensemble les&nbsp;textes qui l'ont compl&eacute;t&eacute;e ou modifi&eacute;e, et&nbsp;notamment&nbsp;l&rsquo;article 50 de la dite loi ;</p>\n<p style=\"margin: 0px;\">Vu l'Ordonnance n. 19 du 11 novembre 1941, relative au r&eacute;gime des pensions de guerre de la France Libre ;</p>\n<p style=\"margin: 0px;\">Sur le rapport du Commissaire National&nbsp;aux&nbsp;Finances, &agrave; l&rsquo;Economie et &agrave; la Marine Marchande.</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; dans sa s&eacute;ance du 5 janvier 1943.</p>",
+  "signature": "<p style=\"margin: 0px;\">C. de Gaulle</p>\n<p style=\"margin: 0px;\">Par le Chef de la France Combattante,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire National aux Finances,</p>\n<p style=\"margin: 0px;\">&agrave; l'Economie et &agrave; la Marine Marchande :</p>\n<p style=\"margin: 0px;\">A. Diethelm</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105844
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 16 du 24 septembre&nbsp;1941, portant organisation nouvelle des Pouvoirs Publics de la France Libre ;</p>\n<p style=\"margin: 0px;\">Vu la loi du 31 Mars 1919, portant&nbsp;institution de pensions militaires, ensemble les&nbsp;textes qui l'ont compl&eacute;t&eacute;e ou modifi&eacute;e, et&nbsp;notamment&nbsp;l&rsquo;article 50 de la dite loi ;</p>\n<p style=\"margin: 0px;\">Vu l'Ordonnance n. 19 du 11 novembre 1941, relative au r&eacute;gime des pensions de guerre de la France Libre ;</p>\n<p style=\"margin: 0px;\">Sur le rapport du Commissaire National&nbsp;aux&nbsp;Finances, &agrave; l&rsquo;Economie et &agrave; la Marine Marchande.</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; dans sa s&eacute;ance du 5 janvier 1943.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Le droit aux pensions de guerre selon la législation en vigueur au 16 Juin 1940, c’est-à-dire conformément à la loi du 31 Mars 1919 et à la législation subséquente, est reconnu aux membres de la Marine Marchande de la France Combattante.\n\n Art.2 En conséquence, le régime prosoire défini par l’Ordonnance n.19 du 11 Novembre pour\n\n les membres des forces françaises libres, est étendu aux membres de la Marine Marchande de la France Combattante, notamment en ce qui concerne le taux des pensions et avantages accessoires, les conditions de concession et de payement, la forme des demandes, la procédure, les délais de\n\n recours.\n\n Art. 3. Le Commissaire National aux Finances, à l’Economie et à la Marine Marchande est chargé de l’exécution de la présente Ordonnance qui sera publié au Journal Officiel de la France Combattante."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">C. de Gaulle</p>\n<p style=\"margin: 0px;\">Par le Chef de la France Combattante,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire National aux Finances,</p>\n<p style=\"margin: 0px;\">&agrave; l'Economie et &agrave; la Marine Marchande :</p>\n<p style=\"margin: 0px;\">A. Diethelm</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

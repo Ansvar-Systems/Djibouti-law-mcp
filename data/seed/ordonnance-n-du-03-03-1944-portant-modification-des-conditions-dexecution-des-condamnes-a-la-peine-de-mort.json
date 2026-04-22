@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-du-03-03-1944-portant-modification-des-conditions-dexecution-des-condamnes-a-la-peine-de-mort",
+  "type": "statute",
+  "title": "Ordonnance n° du 03/03/1944 portant modification des conditions d’exécution des condamnés à la peine de mort.",
+  "short_name": "Ordonnance n° du 03/03/1944 portant modification des conditions d’exécution des…",
+  "status": "in_force",
+  "reference": "du 03/03/1944",
+  "issued_date": "1944-03-03",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-du-03-03-1944-portant-modification-des-conditions-dexecution-des-condamnes-a-la-peine-de-mort/",
+  "description": "portant modification des conditions d'exécution des condamnés à la peine de mort.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le Comit&eacute; fran&ccedil;ais de la lib&eacute;ration nationale, Sur rapport du Commissaire &agrave; la justice et du Commissaire aux coloniess :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; francais de la lib&eacute;ration nationale :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'article 12 du Code p&eacute;nal et le d&eacute;cret du 20 mars 1792:</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entend.</p>",
+  "signature": "<p style=\"margin: 0px;\">DE GAULLE.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Comit&eacute; francais de la lib&eacute;ration</p>\n<p style=\"margin: 0px;\">nationale :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Commissaire &agrave; la justice,</p>\n<p style=\"margin: 0px;\">Fran&ccedil;ois DE MENTHON.</p>\n<p style=\"margin: 0px;\">Le Comanissaire aux colonies,</p>\n<p style=\"margin: 0px;\">R, PL&Eacute;VEN.</p>\n<p style=\"margin: 0px;\">Le Commissaire &agrave; la guerre et &agrave; l'air,</p>\n<p style=\"margin: 0px;\">Commissaire &agrave; la marine p. t..</p>\n<p style=\"margin: 0px;\">Andr&eacute; LE TROCQUER.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105802
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le Comit&eacute; fran&ccedil;ais de la lib&eacute;ration nationale, Sur rapport du Commissaire &agrave; la justice et du Commissaire aux coloniess :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; francais de la lib&eacute;ration nationale :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'article 12 du Code p&eacute;nal et le d&eacute;cret du 20 mars 1792:</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entend.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er, — Dans tous les cas où, par suite des circonstances de guerre ou des difficultés de communications, il n’existera pas de bois de justice aux lieux fixés par les arrêtés de condamnation pour l’exécution des condamnés à la peine de mort, ceux-ci seront fusillés.\n\n Art, 2. — La présente ordonnance sera publiée au Journal officiel de la République francaise et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">DE GAULLE.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Comit&eacute; francais de la lib&eacute;ration</p>\n<p style=\"margin: 0px;\">nationale :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Commissaire &agrave; la justice,</p>\n<p style=\"margin: 0px;\">Fran&ccedil;ois DE MENTHON.</p>\n<p style=\"margin: 0px;\">Le Comanissaire aux colonies,</p>\n<p style=\"margin: 0px;\">R, PL&Eacute;VEN.</p>\n<p style=\"margin: 0px;\">Le Commissaire &agrave; la guerre et &agrave; l'air,</p>\n<p style=\"margin: 0px;\">Commissaire &agrave; la marine p. t..</p>\n<p style=\"margin: 0px;\">Andr&eacute; LE TROCQUER.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

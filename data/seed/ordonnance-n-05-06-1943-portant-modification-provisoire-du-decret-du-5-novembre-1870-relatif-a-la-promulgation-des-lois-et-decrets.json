@@ -1,0 +1,32 @@
+{
+  "id": "ordonnance-n-05-06-1943-portant-modification-provisoire-du-decret-du-5-novembre-1870-relatif-a-la-promulgation-des-lois-et-decrets",
+  "type": "statute",
+  "title": "Ordonnance n° 05/06/1943 portant modification provisoire du décret du 5 Novembre 1870 relatif à la promulgation des lois et décrets.",
+  "short_name": "Ordonnance n° 05/06/1943 portant modification provisoire du décret du 5…",
+  "status": "in_force",
+  "reference": "05/06/1943",
+  "issued_date": "1943-06-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-05-06-1943-portant-modification-provisoire-du-decret-du-5-novembre-1870-relatif-a-la-promulgation-des-lois-et-decrets/",
+  "description": "portant modification provisoire du décret du 5 Novembre 1870 relatif à la promulgation des lois et décrets.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "",
+  "signature": "<p>De GAULLE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Giraud.</p>",
+  "journal_issue_ids": [
+    105852
+  ],
+  "provisions": [
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Provisoirement et jusqu’à nouvel ordre, dans l’article 2, alinéa 1er du décret du 5 Novembre 1870 les mots « à Paris sont remplacés par les mots « dans la ville où est établi le siège du comité français de la Libération nationale. »\n\n Art. 2. — La présente ordonnance sera exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>De GAULLE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Giraud.</p>"
+    }
+  ]
+}

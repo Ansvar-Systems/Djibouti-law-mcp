@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-56-relative-a-linterruption-de-la-prescription-en-matiere-penale",
+  "type": "statute",
+  "title": "Ordonnance n° 56 relative à l’interruption de la prescription en matière pénale.",
+  "short_name": "Ordonnance n° 56 relative à l’interruption de la prescription en matière pénale.",
+  "status": "in_force",
+  "reference": "56",
+  "issued_date": "1943-05-27",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-56-relative-a-linterruption-de-la-prescription-en-matiere-penale/",
+  "description": "relative à l’interruption de la prescription en matière pénale.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu le manifeste du 27 Octobre 1940, en&nbsp;semble la d&eacute;claration organique du 16 Novembre 1940,</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;Ordonnance n. 16 du 24 Septembre&nbsp;1941, portant organisation nouvelle des pouvoirs publics de la France Libre,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; le 27 Mai 1943,</p>",
+  "signature": "<p style=\"margin: 0px;\">C. DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Chef des Fran&ccedil;ais Libres,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire National&nbsp;&agrave;&nbsp;la Jistice et &agrave;</p>\n<p style=\"margin: 0px;\">l'Instruction publique,</p>\n<p style=\"margin: 0px;\">R. Cassis</p>",
+  "journal_issue_ids": [
+    105852
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu le manifeste du 27 Octobre 1940, en&nbsp;semble la d&eacute;claration organique du 16 Novembre 1940,</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;Ordonnance n. 16 du 24 Septembre&nbsp;1941, portant organisation nouvelle des pouvoirs publics de la France Libre,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; le 27 Mai 1943,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — La prescription de l’action publique et de l’action civile résultant des crimes ou des délits est interrompue jusqu’au jour où le territoire national sera complètement libéré de l’occupation ennemie, dans tous les cas ou l’instruction ou la poursuite auront été rendues impossibles, entravées ou différées, en raison de l’occupation allemande ou de l’assujettissement de la France a l’organisme dit « Gouvernement de l’Etat Français”.\n\n Art. 2. Le Commissaire National à la Justice et à l’instruction publique est char gé de lexécution de la présente Ordonnance qui sera publiée ai Journal Officiel de la France Combattante."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">C. DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Chef des Fran&ccedil;ais Libres,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire National&nbsp;&agrave;&nbsp;la Jistice et &agrave;</p>\n<p style=\"margin: 0px;\">l'Instruction publique,</p>\n<p style=\"margin: 0px;\">R. Cassis</p>"
+    }
+  ]
+}

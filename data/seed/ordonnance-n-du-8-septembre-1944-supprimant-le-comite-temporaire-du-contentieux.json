@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-du-8-septembre-1944-supprimant-le-comite-temporaire-du-contentieux",
+  "type": "statute",
+  "title": "Ordonnance n° DU 8 SEPTEMBRE 1944 supprimant le Comité temporaire du Contentieux",
+  "short_name": "Ordonnance n° DU 8 SEPTEMBRE 1944 supprimant le Comité temporaire du Contentieux",
+  "status": "in_force",
+  "reference": "DU 8 SEPTEMBRE 1944",
+  "issued_date": "1944-09-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-du-8-septembre-1944-supprimant-le-comite-temporaire-du-contentieux/",
+  "description": "supprimant le Comité temporaire du Contentieux",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des Seaux, Ministre de la Justice,</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances du&nbsp;3 juin et du 4 septembre 1944.</p>\n<p>Vu l'ordonnance du 17 septembre 1943 instituant un Comit&eacute; temporaire du Contentieux,</p>",
+  "signature": "<p>DE GAULLE.</p>\n<p>Par le Gouvernement provisoire&nbsp;de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Garde des Sceaux, Ministre de la Justice,</p>\n<p>Fran&ccedil;ois DE MENTHON.</p>",
+  "journal_issue_ids": [
+    105824
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des Seaux, Ministre de la Justice,</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances du&nbsp;3 juin et du 4 septembre 1944.</p>\n<p>Vu l'ordonnance du 17 septembre 1943 instituant un Comit&eacute; temporaire du Contentieux,</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Le Comité temporaire du Contentieux institué par l’ordonnance du 17 septembre 1943 est supprimé à la date du 2 septembre 1944.\n\n\nLes attributions qui lui avaient été dévolues provisoirement par l’article 1er de cette ordonnance reviennent au conseil d’Etat statuant au contentieux.\n\n\nTous les recours portés devant la juridiction supprimée et non jugés à la date susdite du 2 septembre 1944 seront transférés sans délai et sans frais au conseil d’Etat statuant au contentieux, seul compétant désormais pour en connaître.\n\n\nArt. 2. — Le président et les membres de la juridiction supprimée seront remis à la disposition de leur administration d’origine.\n\n\nJusqu’à ce moment, ils continueront à percevoir les traitements et indemnités de tous ordres à eux attribués à la date du 2 septembre 1944. »\n\n\nArt. 3. — Le recours en cassation pour violation de la loi prévu à l’article 3 de l’ordonnance susdite du 17 septembre 1943 sera réglementé par un texte ultérieur.\n\n\nrt. 4. — Les minutes des arrêtés rendus par le Comité temporaire du Contentieux les archives de cette juridiction seront, les six mois u de la promulgation de la sente ordonnance et par les soins du si tair: de la juridiction supprimée, transfére au secrétariat du conseil d’État.\n\n\nArt. 5. — La présente ordonnance sera publiée au Journal Officiel de la République Française et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>DE GAULLE.</p>\n<p>Par le Gouvernement provisoire&nbsp;de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Garde des Sceaux, Ministre de la Justice,</p>\n<p>Fran&ccedil;ois DE MENTHON.</p>"
+    }
+  ]
+}

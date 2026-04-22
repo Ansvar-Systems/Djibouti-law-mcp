@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-le-6-juillet-1943-sur-le-maintien-du-benefice-des-traitements-et-salaires-pour-la-journee-de-conge-du-14-juillet",
+  "type": "statute",
+  "title": "Ordonnance n° le 6 juillet 1943. sur le maintien du bénéfice des traitements et salaires pour la journée de congé du 14 juillet.",
+  "short_name": "Ordonnance n° le 6 juillet 1943. sur le maintien du bénéfice des traitements et…",
+  "status": "in_force",
+  "reference": "le 6 juillet 1943.",
+  "issued_date": "1943-07-06",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-le-6-juillet-1943-sur-le-maintien-du-benefice-des-traitements-et-salaires-pour-la-journee-de-conge-du-14-juillet/",
+  "description": "sur le maintien du bénéfice des traitements et salaires pour la journée de congé du 14 juillet.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Comit&eacute; Fran&ccedil;ais de la Lib&eacute;ration Nationale, Sur proposition du Commisaire au travail et a la pr&eacute;voyance sociale, Ordonne :</p>",
+  "signature": "<p>General de GAULLE, Par le Comit&eacute; de la Lib&eacute;ration Nationale,</p>\n<p>Le Commissaire au Cravail et &agrave; la pr&eacute;voyance sociale</p>",
+  "journal_issue_ids": [
+    105846
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Comit&eacute; Fran&ccedil;ais de la Lib&eacute;ration Nationale, Sur proposition du Commisaire au travail et a la pr&eacute;voyance sociale, Ordonne :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Le Quatorze Juillet 1943 sera un jour de conge pavé dans les adminisstrations publiques, les établissements concé dés et les entreprises privées, le congé du quatorze juillet ne sera pas récupéré.\n\n Art. 2. Les traitements et salaires men suels ou hebdomadaires ne subiront aucune réduction les ouvriers ou employés rémunérés à la journée auront droit à la charge de leur employeur dune journée de salaire.\n\n Art. 3. — Toutefois le travail ne pourra être interrompu dans les entreprises ou éta blissements qui travaillent pour la Défense National ou dont le fonctionnement est nécessairement continu en raison de la na ture de leur activité, les agents, ouvriers et employés qui travailleront le quatorze juillet auront droit à la charge de leur employeur à une indemnité compensatrice égale à leur salaire du 14 juillet.\n\n Art. 4. — La présente ordonnance s’ap plique à 1 ALGERIE et à tous les territoires relevant du Commissariat aux Colonies.\n\n Art.5. — La présente ordonnance sera exé cutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>General de GAULLE, Par le Comit&eacute; de la Lib&eacute;ration Nationale,</p>\n<p>Le Commissaire au Cravail et &agrave; la pr&eacute;voyance sociale</p>"
+    }
+  ]
+}

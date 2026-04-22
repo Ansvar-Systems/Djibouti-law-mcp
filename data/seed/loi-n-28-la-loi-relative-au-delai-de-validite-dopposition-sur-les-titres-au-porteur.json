@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-28-la-loi-relative-au-delai-de-validite-dopposition-sur-les-titres-au-porteur",
+  "type": "statute",
+  "title": "Loi n° 28 La loi relative au délai de validité d’opposition sur les titres au porteur",
+  "short_name": "Loi n° 28 La loi relative au délai de validité d’opposition sur les titres au…",
+  "status": "in_force",
+  "reference": "28",
+  "issued_date": "1942-07-28",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-28-la-loi-relative-au-delai-de-validite-dopposition-sur-les-titres-au-porteur/",
+  "description": "La loi relative au délai de validité d'opposition sur les titres au porteur",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Nous, Mar&eacute;chal de France, Chef de d'Etat&nbsp;francais,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Conseil des Ministres entendue</p>",
+  "signature": "<p style=\"margin: 0px;\">p.h.petain</p>\n<p style=\"margin: 0px;\">par le marechal france ,chef l'etat francais:</p>\n<p style=\"margin: 0px;\">le garde sceaux ministre secretaire d'etat &agrave; la justice</p>\n<p style=\"margin: 0px;\">BARTH&Eacute;LEMNY.</p>\n<p style=\"margin: 0px;\">Le Ministre Nccre&eacute;taire d'Etat</p>\n<p style=\"margin: 0px;\">AUX financer,</p>\n<p style=\"margin: 0px;\">CATHALA</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire Etat aux colonies,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">BREVIE</p>",
+  "journal_issue_ids": [
+    105858
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Nous, Mar&eacute;chal de France, Chef de d'Etat&nbsp;francais,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Conseil des Ministres entendue</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": ", — Le présent décret sera publié au journall officiel et exécuté comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">p.h.petain</p>\n<p style=\"margin: 0px;\">par le marechal france ,chef l'etat francais:</p>\n<p style=\"margin: 0px;\">le garde sceaux ministre secretaire d'etat &agrave; la justice</p>\n<p style=\"margin: 0px;\">BARTH&Eacute;LEMNY.</p>\n<p style=\"margin: 0px;\">Le Ministre Nccre&eacute;taire d'Etat</p>\n<p style=\"margin: 0px;\">AUX financer,</p>\n<p style=\"margin: 0px;\">CATHALA</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire Etat aux colonies,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">BREVIE</p>"
+    }
+  ]
+}

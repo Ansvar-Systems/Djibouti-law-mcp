@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-01-198-1913-completant-la-loi-du-21-mars-1905-sur-le-recrutement-de-larmee",
+  "type": "statute",
+  "title": "Loi n° 01-198-1913 complétant la loi du 21 mars 1905 sur le recrutement de l’armée.",
+  "short_name": "Loi n° 01-198-1913 complétant la loi du 21 mars 1905 sur le recrutement de…",
+  "status": "in_force",
+  "reference": "01-198-1913",
+  "issued_date": "1913-03-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-01-198-1913-completant-la-loi-du-21-mars-1905-sur-le-recrutement-de-larmee/",
+  "description": "complétant la loi du 21 mars 1905 sur le recrutement de l'armée.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s on adopt&eacute;.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit:</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Ministre de la Guerre,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Eug. ETIENNE.</p>",
+  "journal_issue_ids": 192161,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s on adopt&eacute;.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit:</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — IL est ajouté à l’’articte 50 de la loi du 21 mars 1905, la disposition suivante qui prendra place entre les alinéas 6 et avias ds cd article.\n\n Par analogie avec les dispositions qui précèdent, mais sans compter dans le quatre pour cent de l’effectif (4 p. 100) qu’elles mentionnent, les jeunes gens âgés d’au moins dix-huit ans, habitant la France ou l’étranger, qui déclareront vouloir s’établir à l’étranger, hors d’Europe et des pays limitrophes de la Méditerranée, seront admis à contracter, au moment de l’incorporation de la classe, l’engagement spécial de trois ans, dit de devancement d’appel.\n\n « Ils auront la faculté d’être mis en congé après deux années de service, s’ils ont obtenu de leur chef de corps un certificat de bonne conduite, sous la réserve qu’ils justifieront dans les six mois suivant leur libération, de leur établissement effectif à l’étranger hors d’Europe des pays limitrophes de la Méditerranée par un certificat de l’agent diplomatique francaise.\n\n Ce certificat devra être renouvelé et parvenir chaque année au bureau de recrutement durant cinq ans.\n\n Le délai de cinq ans écoulé, ces jeunesgens seront libérés de leur troisième année mais assujettis à toutes les obligations de leur classe s’ils rentrent en France.\n\n “ Pendant la durée de leur établissement quinquennal à l’étranger ils ne pourront sé journer en France plus de trois mois et sous la réserve d’aviser de leur absence l’agent diplomatique français. ”\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des Députés, sera exécutée comme loi de l’Etat.de service,"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Ministre de la Guerre,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Eug. ETIENNE.</p>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-43-261-1918-la-taxation-des-beurres-des-fromages-et-des-tourteaux-alimentaires",
+  "type": "statute",
+  "title": "Loi n° 43-261-1918 La taxation des beurres, des fromages et des tourteaux alimentaires.",
+  "short_name": "Loi n° 43-261-1918 La taxation des beurres, des fromages et des tourteaux…",
+  "status": "in_force",
+  "reference": "43-261-1918",
+  "issued_date": "1918-10-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-43-261-1918-la-taxation-des-beurres-des-fromages-et-des-tourteaux-alimentaires/",
+  "description": "La taxation des beurres, des fromages et des tourteaux alimentaires.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">La taxation des beurres, des fromages et des tourteaux alimentaires.</p>\n<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promuigue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre de l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">MALVY.</p>\n<p style=\"margin: 0px;\">Le ministre du commerce de l'industrie,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">des postes et des t&eacute;l&eacute;graphes.,</p>\n<p style=\"margin: 0px;\">&nbsp;CL&Eacute;MENTEL.</p>\n<p style=\"margin: 0px;\">Le ministre de l'agriculture.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">JULES M&Eacute;LINE.</p>",
+  "journal_issue_ids": [
+    106088
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">La taxation des beurres, des fromages et des tourteaux alimentaires.</p>\n<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promuigue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique.— Pendant la durée des hostilités et les trois mois qui suivront leur cessation, les beurres, les fromages et les tourteaux alimentaires pourront être soumis à la taxation et à la réquisition.\n\n Le présente loi délibérée et adoptée par le Sénat et par la Chambre des députés sera exécutée comme loi de PEtat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre de l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">MALVY.</p>\n<p style=\"margin: 0px;\">Le ministre du commerce de l'industrie,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">des postes et des t&eacute;l&eacute;graphes.,</p>\n<p style=\"margin: 0px;\">&nbsp;CL&Eacute;MENTEL.</p>\n<p style=\"margin: 0px;\">Le ministre de l'agriculture.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">JULES M&Eacute;LINE.</p>"
+    }
+  ]
+}

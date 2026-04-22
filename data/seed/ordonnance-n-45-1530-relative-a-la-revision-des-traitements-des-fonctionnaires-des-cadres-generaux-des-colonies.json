@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-45-1530-relative-a-la-revision-des-traitements-des-fonctionnaires-des-cadres-generaux-des-colonies",
+  "type": "statute",
+  "title": "Ordonnance n° 45-1530 relative à la révision des traitements des fonctionnaires des cadres généraux des colonies.",
+  "short_name": "Ordonnance n° 45-1530 relative à la révision des traitements des fonctionnaires…",
+  "status": "in_force",
+  "reference": "45-1530",
+  "issued_date": "1945-07-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-45-1530-relative-a-la-revision-des-traitements-des-fonctionnaires-des-cadres-generaux-des-colonies/",
+  "description": "relative à la révision des traitements des fonctionnaires des cadres généraux des colonies.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des&nbsp;3 juin et 4 septembre 1944 ;&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;article 15 de l&rsquo;ordonnance n&deg; 45-14 du 6 janvier 1945 portant r&eacute;forme des traitements des fonctionnaires de l&rsquo;Etat et am&eacute;&nbsp;nagements des pensions civiles et militaires;</p>\n<p style=\"margin: 0px;\">Le comit&eacute; juridique entendu,</p>",
+  "signature": "<p style=\"margin: 0px;\">Ch. DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,</p>\n<p style=\"margin: 0px;\">P. GIACOBBI.</p>\n<p style=\"margin: 0px;\">Le Ministre des Finances,</p>\n<p style=\"margin: 0px;\">R. PLEVEN.</p>",
+  "journal_issue_ids": [
+    105829
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des&nbsp;3 juin et 4 septembre 1944 ;&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;article 15 de l&rsquo;ordonnance n&deg; 45-14 du 6 janvier 1945 portant r&eacute;forme des traitements des fonctionnaires de l&rsquo;Etat et am&eacute;&nbsp;nagements des pensions civiles et militaires;</p>\n<p style=\"margin: 0px;\">Le comit&eacute; juridique entendu,</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Est expressivement constatée la nullité de l’article 70 de l’acte dit loi du 31 décembre 1942 portant fixation du budget de l’exercice 1943.\n\n\nToutefois, cette nullité ne porte pas atteinte aux effets résultant de l’application dudit texte antérieur à la publication de la présente ordonnance.\n\n\nArt. 2. — Les traitements et indemnités des personnels des cadres généraux des colonies sont fixés par décret pris sur le rapport du ministre des colonies, après avis conforme du ministre des finances.\n\n\nArt. 3. — La présente ordonnance sera publiée au Journal Officiel de la République française et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Ch. DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,</p>\n<p style=\"margin: 0px;\">P. GIACOBBI.</p>\n<p style=\"margin: 0px;\">Le Ministre des Finances,</p>\n<p style=\"margin: 0px;\">R. PLEVEN.</p>"
+    }
+  ]
+}

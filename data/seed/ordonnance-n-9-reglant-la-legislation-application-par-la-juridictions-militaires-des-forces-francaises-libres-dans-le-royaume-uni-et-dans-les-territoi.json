@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-9-reglant-la-legislation-application-par-la-juridictions-militaires-des-forces-francaises-libres-dans-le-royaume-uni-et-dans-les-territoi",
+  "type": "statute",
+  "title": "Ordonnance n° 9 réglant la législation application par la juridictions militaires des Forces Françaises Libres dans le Royaume-Uni et dans les territoires soumis à l’autorité du Gouvernement de S.M. Britannique dans le Royaume-Uni.",
+  "short_name": "Ordonnance n° 9 réglant la législation application par la juridictions…",
+  "status": "in_force",
+  "reference": "9",
+  "issued_date": "1941-01-15",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-9-reglant-la-legislation-application-par-la-juridictions-militaires-des-forces-francaises-libres-dans-le-royaume-uni-et-dans-les-territoires-soumis-a-lautorite-du-gouverne/",
+  "description": "réglant la législation application par la juridictions militaires des Forces Françaises Libres dans le Royaume-Uni et dans les territoires soumis à l’autorité du Gouvernement de S.M. Britannique dans le Royaume-Uni.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Au nom de Peuple et de l'Empire Fran&ccedil;ais.</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu notre Ordonnance No. 1, du 27 octobre 1940, article 2 ;</p>\n<p>Vu l/Ulicd Forces .ici. 1940, article 1 2 et 1 assentiment donn&eacute; &agrave; la pr&eacute;sente ordonnance conform&eacute;ment a cette disposition par l&rsquo;Amiraut&eacute; britannique, le Secr&eacute;taire d Etat du D&eacute;partement de la Guerre et le Secr&eacute;taire d&lsquo;Etat &eacute;lu D&eacute;partement de l'Air ;</p>",
+  "signature": "<p>C. de Gaulle.</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Au nom de Peuple et de l'Empire Fran&ccedil;ais.</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu notre Ordonnance No. 1, du 27 octobre 1940, article 2 ;</p>\n<p>Vu l/Ulicd Forces .ici. 1940, article 1 2 et 1 assentiment donn&eacute; &agrave; la pr&eacute;sente ordonnance conform&eacute;ment a cette disposition par l&rsquo;Amiraut&eacute; britannique, le Secr&eacute;taire d Etat du D&eacute;partement de la Guerre et le Secr&eacute;taire d&lsquo;Etat &eacute;lu D&eacute;partement de l'Air ;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1. Les juridictions militaires de 1 Armée de terre, de l’Armée de mer et de 1 Aimée de l Air, siégeant dans le Royaume-Uni et dans les territoires soumis à 1 autorité du Gouvernement de Sa Majesté britannique dans le Royaume-Uni, appliqueront la législation en vigueur au 23 juin 1940, sous réserve :\n\n 1o. des modifications rendues nécessaires par les circonstances ;\n\n 2o. des effets de 1 accord tondu le 15 janvier 1941 avec le Gouvernement de Sa Majesté britannique dans le Royaume-Uni, relativement aux juridictions dont relève le personnel des Forces Françaises Libres, ainsi que de tous autres accords ou arrangements conclus avec les autorités britanniques en cette matière.\n\n Art. 2. La présente ordonnance sera publiée au Journal Officiel de la France Libre."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. de Gaulle.</p>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-28-creant-une-inspection-generale-des-forces-francaises-libres",
+  "type": "statute",
+  "title": "Ordonnance n° 28 créant une Inspection Générale des Forces Françaises Libres",
+  "short_name": "Ordonnance n° 28 créant une Inspection Générale des Forces Françaises Libres",
+  "status": "in_force",
+  "reference": "28",
+  "issued_date": "1942-05-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-28-creant-une-inspection-generale-des-forces-francaises-libres/",
+  "description": "créant une Inspection Générale des Forces Françaises Libres",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Le G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National.</p>\n<p>Vu l'Ordonnance No. 16. du 24 septembre 1941, portant organisation nouvelle des pouvoirs publics de la France Libre ;</p>\n<p>Vu la loi du 11 juillet 1938. sur l&rsquo;organisation g&eacute;n&eacute;rale de la nation pour le temps de guerre,</p>\n<p>Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; le 29 avril 1942.</p>\n<p>&nbsp;</p>",
+  "signature": "<p>C. DE GAULLE.</p>\n<p>Par le Chef des Fran&ccedil;ais Libres.</p>\n<p>President du Comit&eacute; National :</p>\n<p>Le Commissaire National &agrave; la Guerre,</p>\n<p>P. L. LEGENTILHOMME.</p>\n<p>le Commissaire National &agrave; la Marine,</p>\n<p>P. AUBOYNEAU.</p>\n<p>Le Commissaire National &agrave; l'Air.</p>\n<p>M. VALIN.</p>\n<p>&nbsp;</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National.</p>\n<p>Vu l'Ordonnance No. 16. du 24 septembre 1941, portant organisation nouvelle des pouvoirs publics de la France Libre ;</p>\n<p>Vu la loi du 11 juillet 1938. sur l&rsquo;organisation g&eacute;n&eacute;rale de la nation pour le temps de guerre,</p>\n<p>Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; le 29 avril 1942.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Il est créé une Inspection Générale des Force’ Françaises Libres de Terre, de Mer et de l’Air.\n\n Art. 2. – Elle comprend un ou plusieurs Inspecteurs Généraux nommé’ par décret par mi les Officiers Généraux de Terre, de Mer et de l’Air.\n\n Art. 3. Chaque Inspecteur est assisté d’un Etat-Major restreint qui pourri être complété selon la nature des missions d’inspection qui lui sont confiées.\n\n Art. 4. Les inspecteurs Généraux relèvent directement du Général de Gaulle, Commandant Suprême des Forces Françaises Libres. Ils effectuent en son nom des inspections des forces armées et des inspections de la défense des colonies françaises libres et des autres territoires que les Forces Françaises Libres ont pour mission de défendre.\n\n Le programme de chaque inspection et la mission de l’Inspecteur Général intéressé sont fixés par le Général de Gaulle sur la proposition du Haut-Comité militaire.\n\n Art. 5. Pour l’exécution de leurs inspections. les Inspecteurs Généraux reçoivent les prérogatives, respectivement, de Général d’Armée, d’Amiral ou de Général d’Armée Aérienne, selon qu’ils appartiennent à l’Armée de Terre, à l’Armée de Mer ou à l’Armée de l’Air.\n\n Art. 6. Les Inspecteurs Généraux pourront être chargés en outre. dans des conditions fixées par décret rendu sur la proposition du Haut-Comité Militaire, d’assurer la coordination supérieure des Forces Terrestres. Maritimes ou Aériennes que la situation impose de rassembler sous une même autorité. sur un théâtre d’opérations donné.\n\n Art. 7. Les Inpecteurs Généraux ont le titre de Commandant en Chef et ont droit aux honneurs y afférant.\n\n Ils ont en outre les prérogatives attachées à ce titre dans les cas prévus à l’article 6.\n\n Art. 8. Le Commissaire National à la Guerre, le Commissaire National à la Marine et le Commissaire National à l’Air sont chargés, chacun en ce qui le concerne, de l’exécution de la présente Ordonnance qui sera publiée au journal Officiel de la France Libre."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE.</p>\n<p>Par le Chef des Fran&ccedil;ais Libres.</p>\n<p>President du Comit&eacute; National :</p>\n<p>Le Commissaire National &agrave; la Guerre,</p>\n<p>P. L. LEGENTILHOMME.</p>\n<p>le Commissaire National &agrave; la Marine,</p>\n<p>P. AUBOYNEAU.</p>\n<p>Le Commissaire National &agrave; l'Air.</p>\n<p>M. VALIN.</p>\n<p>&nbsp;</p>"
+    }
+  ]
+}

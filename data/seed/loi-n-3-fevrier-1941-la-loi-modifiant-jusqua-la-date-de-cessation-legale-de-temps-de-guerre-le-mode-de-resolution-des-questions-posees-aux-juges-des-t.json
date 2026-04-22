@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-3-fevrier-1941-la-loi-modifiant-jusqua-la-date-de-cessation-legale-de-temps-de-guerre-le-mode-de-resolution-des-questions-posees-aux-juges-des-t",
+  "type": "statute",
+  "title": "Loi n° 3 février 1941 La loi modifiant jusqu’à la date de cessation légale de temps de guerre le mode de résolution des questions posées aux juges des tribunaux militaires permanents",
+  "short_name": "Loi n° 3 février 1941 La loi modifiant jusqu’à la date de cessation légale de…",
+  "status": "in_force",
+  "reference": "3 février 1941",
+  "issued_date": "1941-02-03",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-3-fevrier-1941-la-loi-modifiant-jusqua-la-date-de-cessation-legale-de-temps-de-guerre-le-mode-de-resolution-des-questions-posees-aux-juges-des-tribunaux-militaires-permanents/",
+  "description": "La loi modifiant jusqu'à la date de cessation légale de temps de guerre le mode de résolution des questions posées aux juges des tribunaux militaires permanents",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous. Mar&eacute;chal de France,</p>\n<p>Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">PH. P&Eacute;tain.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais ;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral d'arm&eacute;e, Commandant en chef des forces terrestres.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Ministre Secr&eacute;taire d'Etat &agrave; la guerre,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">HUNTZIGER.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Platon.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat &agrave; l'aviation.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">BERGERET.</p>",
+  "journal_issue_ids": [
+    105865
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous. Mar&eacute;chal de France,</p>\n<p>Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu.&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er . L’application des dispositions de l’article 90 du Code de justice militaire, aux termes desquelles les questions posées ailX ju ges ne pourront être résolues contre l’inculpé qu’a la majorité de cinq voix contre deux, est suspendue jusqu’a la date de la cessation légale du temps «le guerre.\n\n Les votes auront lieu, quel qu’en soit l’objet, à la majorité des voix.\n\n Art. 2. Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Éta"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">PH. P&Eacute;tain.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais ;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le G&eacute;n&eacute;ral d'arm&eacute;e, Commandant en chef des forces terrestres.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Ministre Secr&eacute;taire d'Etat &agrave; la guerre,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">HUNTZIGER.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Platon.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire d'Etat &agrave; l'aviation.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">BERGERET.</p>"
+    }
+  ]
+}

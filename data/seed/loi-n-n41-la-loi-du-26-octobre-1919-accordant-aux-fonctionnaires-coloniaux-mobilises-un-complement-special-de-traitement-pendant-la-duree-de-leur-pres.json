@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-n41-la-loi-du-26-octobre-1919-accordant-aux-fonctionnaires-coloniaux-mobilises-un-complement-special-de-traitement-pendant-la-duree-de-leur-pres",
+  "type": "statute",
+  "title": "Loi n° n°41 la loi du 26 octobre 1919 accordant aux fonctionnaires coloniaux mobilisés un complément spécial de traitement pendant la durée de leur présence sous les drapeaux.",
+  "short_name": "Loi n° n°41 la loi du 26 octobre 1919 accordant aux fonctionnaires coloniaux…",
+  "status": "in_force",
+  "reference": "n°41",
+  "issued_date": "1919-10-26",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-n41-la-loi-du-26-octobre-1919-accordant-aux-fonctionnaires-coloniaux-mobilises-un-complement-special-de-traitement-pendant-la-duree-de-leur-presence-sous-les-drapeaux/",
+  "description": "la loi du 26 octobre 1919 accordant aux fonctionnaires coloniaux mobilisés un complément spécial de traitement pendant la durée de leur présence sous les drapeaux.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat etla Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">R.Poicare</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministres des finace</p>\n<p style=\"margin: 0px;\">L.L.Klotz</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">henry simon</p>",
+  "journal_issue_ids": [
+    106083
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat etla Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. der, — Les fonctionnaires coloniaux mobilisés ou engagés volontaires pour la durée de la guerre ont droit, pendant la durée de leur présence effective sous les drapeaux, à un complément spécial de traitement.\n\n Ce complément sera calculé de manière à assurer en principe à l’intéressé, déduction faite des émoluments de toute nature perçus par lui, un traitement global égal à celui qu’il aurait reçu s’il était resté à son poste: aux colonies, abstraction faite des indemnités de fonctions et des frais de représentation.\n\n Ledit complément ne pourra en aucun cas être supérieur à 4,000 frs. par an, ni à 15,000 frs. au total, il n’est dû ni aux sursitaires, ni aux officiers placés hors cadres ou en congé sans solde et est subordonné, d’une façon général, à la perception d’une solde militaire.\n\n Art. 2. — Ont droit également audit complément.\n\n 1° Les fonctionnaires coloniaux retenus dans les régions envahies ;\n\n 2e Les agents ayant obtenu une pension ou une gratification de réforme pour blessures reçues ou infirmités contractées aux armées et maintenus en France en congé de convalescence ;\n\n 3° Dans les conditions prévues par les lois en vigueur, les veuves et orphelins de fonctionnaires coloniaux tués à l’ennemi ou décédés sous les drapeaux.\n\n Art. 3. — Le complément spécial institué par la présente loi sera à la charge des budgets locaux et généraux des colonies en ce qui concerne les fonctionnaires dont le traitement normal est imputé sur lesdits budgets et sur le budget du ministère des colonies au titre des dépenses exceptionnelles en ce qui concerne les fonctionnaires du service pénitentiaire,\n\n Art. 4. — Un règlement d’administration publique, rendu sur la proposition des ministres des finances et des colonies, déterminera les conditions d’application de la présente loi.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R.Poicare</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministres des finace</p>\n<p style=\"margin: 0px;\">L.L.Klotz</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">henry simon</p>"
+    }
+  ]
+}

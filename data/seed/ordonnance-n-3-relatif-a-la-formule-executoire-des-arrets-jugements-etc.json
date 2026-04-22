@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-3-relatif-a-la-formule-executoire-des-arrets-jugements-etc",
+  "type": "statute",
+  "title": "Ordonnance n° 3 relatif à la formule exécutoire des arrêts, jugements, etc.",
+  "short_name": "Ordonnance n° 3 relatif à la formule exécutoire des arrêts, jugements, etc.",
+  "status": "in_force",
+  "reference": "3",
+  "issued_date": "1942-11-09",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-3-relatif-a-la-formule-executoire-des-arrets-jugements-etc/",
+  "description": "relatif à la formule exécutoire des arrêts, jugements, etc.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Au nom du Peuple et de l'Empire Fran&ccedil;ais,</p>\n<p>Nous. G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu le d&eacute;cret du 2 septembre 1871. relatif a la formule de promulgation des lois et a la formule ex&eacute;cutoire des arr&ecirc;ts, jugements,</p>\n<p>Vu le d&eacute;cret du 16 juillet 1940, relatif &agrave; la formule ex&eacute;cutoire.</p>\n<p>Vu l'Ordonnance no. 1. organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l'Empire,</p>",
+  "signature": "<p>C. DE GAULLE.</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Au nom du Peuple et de l'Empire Fran&ccedil;ais,</p>\n<p>Nous. G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu le d&eacute;cret du 2 septembre 1871. relatif a la formule de promulgation des lois et a la formule ex&eacute;cutoire des arr&ecirc;ts, jugements,</p>\n<p>Vu le d&eacute;cret du 16 juillet 1940, relatif &agrave; la formule ex&eacute;cutoire.</p>\n<p>Vu l'Ordonnance no. 1. organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l'Empire,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1. Est et demeure rapporté le décret du 16 juillet 1940. relatif à la formule exécutoire.\n\n Art. 2. – Les expéditions des arrêts, jugements, mandats de justice, ainsi que les grosses et expéditions des contrats et tous autres actes susceptibles de la formule exécutoire prévue au décret du 2 septembre 1871 relatif à la formation de promulgation des lois et à la formule exécutoire des arrêts, jugements, etc…\n\n Art. 3. — Les porteurs de grosses et expéditions d actes revêtus de la formule prescrite par le décret du 16 juillet 1940 pourront les faire mettre à exécution sans faire ajouter la formule indiquée à l’article 2.\n\n Art. 4. La présente Ordonnance sera promulguée au Journal Officiel de l’Empire et, provisoirement, au Journal Officiel de l’Afrique Equatoriale Française, et exécutée comme Loi de l’État."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE.</p>"
+    }
+  ]
+}

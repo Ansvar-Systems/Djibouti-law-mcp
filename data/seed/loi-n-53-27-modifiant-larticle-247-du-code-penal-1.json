@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-53-27-modifiant-larticle-247-du-code-penal-1",
+  "type": "statute",
+  "title": "Loi n° 53-27 modifiant l’article 247 du Code pénal (1)",
+  "short_name": "Loi n° 53-27 modifiant l’article 247 du Code pénal (1)",
+  "status": "in_force",
+  "reference": "53-27",
+  "issued_date": "1953-01-28",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-53-27-modifiant-larticle-247-du-code-penal-1/",
+  "description": "modifiant l’article 247 du Code pénal (1)",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L&rsquo;Assemblce Nationale et le Conseil de la R&eacute;publique ont d&eacute;lib&eacute;r&eacute;,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L'Assembl&eacute;e Nationale a adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi don tla teneur suit:</p>",
+  "signature": "<p style=\"margin: 0px;\">VINCENT AURIOL.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres,</p>\n<p style=\"margin: 0px;\">Ren&eacute; Mayer.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux.&hellip;Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L&eacute;on MARTINAUD-DEPLAT</p>\n<p style=\"margin: 0px;\">Le Ministre de la France d&rsquo;Outre-Mer,</p>\n<p style=\"margin: 0px;\">Louis JACQUINOT</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105729
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L&rsquo;Assemblce Nationale et le Conseil de la R&eacute;publique ont d&eacute;lib&eacute;r&eacute;,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L'Assembl&eacute;e Nationale a adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi don tla teneur suit:</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er— Le premier almeuﬁ de l’article 247 du Code pénal est modifié comme suit:\n\n Les peines ci-dessus établies contre les conducteurs ou les gardiens.\n\n (Le reste sans changement.)\n\n Art. 2. — La présente loi est applicable aux Territoires d’Outre-Mer, au Cameroun et au Togo.\n\n La présente loi sera exécutée comme loi de l’État."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">VINCENT AURIOL.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres,</p>\n<p style=\"margin: 0px;\">Ren&eacute; Mayer.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux.&hellip;Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L&eacute;on MARTINAUD-DEPLAT</p>\n<p style=\"margin: 0px;\">Le Ministre de la France d&rsquo;Outre-Mer,</p>\n<p style=\"margin: 0px;\">Louis JACQUINOT</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}
