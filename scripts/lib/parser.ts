@@ -95,7 +95,7 @@ export function htmlToText(html: string): string {
 /* ---------- Article extraction ---------- */
 
 const ARTICLE_RE =
-  /^\s*Article\s+(premier|[0-9]+(?:\s*(?:er|bis|ter|quater))?(?:[\s–—\-][0-9]+)?)\s*[.:–—\-]?\s*(.*)$/i;
+  /^\s*Article\s+(premier|[0-9]+(?:\s*(?:er|bis|ter|quater))?(?:-[0-9]+)*)\s*[.:–—]?\s*(.*)$/i;
 const TITRE_RE = /^\s*TITRE\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;
 const CHAPITRE_RE = /^\s*CHAPITRE\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;
 const SECTION_RE = /^\s*SECTION\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;

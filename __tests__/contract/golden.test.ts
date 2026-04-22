@@ -159,7 +159,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
     db.pragma('foreign_keys = ON');
 
     const server = new Server(
-      { name: 'djiboutian-law-test', version: '0.0.0' },
+      { name: 'djibouti-law-test', version: '0.0.0' },
       { capabilities: { tools: {} } },
     );
     registerTools(server, db);

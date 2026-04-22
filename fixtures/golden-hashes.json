@@ -1,1 +1,6 @@
-{ "hashes": {} }
+{
+  "version": "1.0",
+  "jurisdiction": "DJ",
+  "source": "journalofficiel.dj",
+  "provisions": []
+}
