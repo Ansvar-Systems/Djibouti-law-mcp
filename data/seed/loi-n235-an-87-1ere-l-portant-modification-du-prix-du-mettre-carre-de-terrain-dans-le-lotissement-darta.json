@@ -1,0 +1,42 @@
+{
+  "id": "loi-n235-an-87-1ere-l-portant-modification-du-prix-du-mettre-carre-de-terrain-dans-le-lotissement-darta",
+  "type": "statute",
+  "title": "Loi n° 235/AN/87/1ère L portant modification du prix du mettre carré de terrain dans le lotissement d’Arta.",
+  "short_name": "Loi n° 235/AN/87/1ère L portant modification du prix du mettre carré de terrain…",
+  "status": "in_force",
+  "reference": "235/AN/87/1ère L",
+  "issued_date": "1987-01-25",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n235-an-87-1ere-l-portant-modification-du-prix-du-mettre-carre-de-terrain-dans-le-lotissement-darta/",
+  "description": "portant modification du prix du mettre carré de terrain dans le lotissement d'Arta.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">LA LOI DONT LA TENEUR SUIT :</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU les lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU l'ordonnance n&deg; LR/77-008 en date du 30 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le d&eacute;cret n&deg; 86-100/PRE du 2 octobre 1986 portant nomination des membres du Gouvernement.</span></p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par Le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff;\">HASSAN GOULED APTIDON</span></p>",
+  "journal_issue_ids": 58166,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">LA LOI DONT LA TENEUR SUIT :</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU les lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU l'ordonnance n&deg; LR/77-008 en date du 30 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le d&eacute;cret n&deg; 86-100/PRE du 2 octobre 1986 portant nomination des membres du Gouvernement.</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le prix du mètre carré de terrain au Lotissement d’Arta est porté de 200 FD à 500 FD."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera publiée au Journal Officiel de la République, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par Le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff;\">HASSAN GOULED APTIDON</span></p>"
+    }
+  ]
+}

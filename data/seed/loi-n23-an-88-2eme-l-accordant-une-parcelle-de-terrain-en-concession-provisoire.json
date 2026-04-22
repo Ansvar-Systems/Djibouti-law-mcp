@@ -1,0 +1,54 @@
+{
+  "id": "loi-n23-an-88-2eme-l-accordant-une-parcelle-de-terrain-en-concession-provisoire",
+  "type": "statute",
+  "title": "Loi n° 23/AN/88/2ème L accordant une parcelle de terrain en concession provisoire.",
+  "short_name": "Loi n° 23/AN/88/2ème L accordant une parcelle de terrain en concession…",
+  "status": "in_force",
+  "reference": "23/AN/88/2ème L",
+  "issued_date": "1988-01-28",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n23-an-88-2eme-l-accordant-une-parcelle-de-terrain-en-concession-provisoire/",
+  "description": "accordant une parcelle de terrain en concession provisoire.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU les Lois constitutionnelles n&deg;LR/77-001 et 77-002 du 27 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU l'Ordonnance n&deg;77-008 en date du 30 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le D&eacute;cret n&deg;87-098/PRE du 23 novembre 1987 portant nomination des membres Gouvernement ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le D&eacute;cret du 29 juillet 1924 fixant et organisant le domaine priv&eacute; dans le territoire, ensemble l'arr&ecirc;t&eacute; d'application du 8 d&eacute;cembre 1925.</span></p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Chef du Gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">HASSAN GOULED APTIDON.</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "journal_issue_ids": 58145,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU les Lois constitutionnelles n&deg;LR/77-001 et 77-002 du 27 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU l'Ordonnance n&deg;77-008 en date du 30 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le D&eacute;cret n&deg;87-098/PRE du 23 novembre 1987 portant nomination des membres Gouvernement ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU le D&eacute;cret du 29 juillet 1924 fixant et organisant le domaine priv&eacute; dans le territoire, ensemble l'arr&ecirc;t&eacute; d'application du 8 d&eacute;cembre 1925.</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est fait concession provisoire à titre gratuite à la Société de Croissant Rouge, une parcelle de terrain bâti, d’une superficie de 5118 mètres carrés environ, sur laquelle existe le dispensaire du Croissant Rouge, situé à BALBALA en face de la route d’Arta."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le concessionnaire devra se soumettre impérativement aux clauses et conditions du Cahier de charges adopté par délibération n°467/6è L du 27 mai 1968, modifiés et complétés par délibération n°39/8è L du 27 mai 1974."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les formalités d’Enregistrement et du Timbre seront remplies au nom et à la diligence du concessionnaire dans les délais réglementaires."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente Loi sera publiée au Journal Officiel de la République de Djibouti dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Chef du Gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">HASSAN GOULED APTIDON.</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    }
+  ]
+}

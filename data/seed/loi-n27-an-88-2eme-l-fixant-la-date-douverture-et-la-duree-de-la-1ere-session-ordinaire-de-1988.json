@@ -1,0 +1,48 @@
+{
+  "id": "loi-n27-an-88-2eme-l-fixant-la-date-douverture-et-la-duree-de-la-1ere-session-ordinaire-de-1988",
+  "type": "statute",
+  "title": "Loi n° 27/AN/88/2ème L Fixant la date d’Ouverture et la durée de la 1ère Session Ordinaire de 1988",
+  "short_name": "Loi n° 27/AN/88/2ème L Fixant la date d’Ouverture et la durée de la 1ère…",
+  "status": "in_force",
+  "reference": "27/AN/88/2ème L",
+  "issued_date": "1988-04-07",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n27-an-88-2eme-l-fixant-la-date-douverture-et-la-duree-de-la-1ere-session-ordinaire-de-1988/",
+  "description": "Fixant la date d'Ouverture et la durée de la 1ère Session Ordinaire de 1988",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU Les lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 juin 1977;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU La loi Organique n&deg;2/AN/81 du 24 octobre 1981 portant l'&Eacute;lection des D&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU La loi n&deg;67-521 du 3 juillet 1967 et notamment en son article 28.</span></p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">chef du gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff;\">HASSAN GOULED APTIDON</span></p>",
+  "journal_issue_ids": 58149,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU Les lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 juin 1977;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU La loi Organique n&deg;2/AN/81 du 24 octobre 1981 portant l'&Eacute;lection des D&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000ff;\">VU La loi n&deg;67-521 du 3 juillet 1967 et notamment en son article 28.</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’Ouverture de la 1ère Session Ordinaire de 1988 de l’Assemblée Nationale est fixée au 11 avril 1988 à 9h00."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette Session ne pourra dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente Loi sera publiée au Journal Officiel de la République dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">chef du gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff;\">HASSAN GOULED APTIDON</span></p>"
+    }
+  ]
+}

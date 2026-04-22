@@ -1,0 +1,36 @@
+{
+  "id": "loi-n17-an-87-2e-l-du-19-novembre-1987-fixant-la-date-douverture-et-la-duree-de-la-2e-session-ordinaire-1987-dite-session-budgetaire",
+  "type": "statute",
+  "title": "Loi n° 17/AN/87/2e L du 19 novembre 1987 fixant la date d’ouverture et la durée de la 2e session ordinaire 1987 dite «session budgétaire».",
+  "short_name": "Loi n° 17/AN/87/2e L du 19 novembre 1987 fixant la date d’ouverture et la durée…",
+  "status": "in_force",
+  "reference": "17/AN/87/2e L",
+  "issued_date": "1987-11-19",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n17-an-87-2e-l-du-19-novembre-1987-fixant-la-date-douverture-et-la-duree-de-la-2e-session-ordinaire-1987-dite-session-budgetaire/",
+  "description": "du 19 novembre 1987 fixant la date d'ouverture et la durée de la 2e session ordinaire 1987 dite «session budgétaire».",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s LR / 77-001 et LR / 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi organique n&deg; 2 /AN /81 du 24 octobre 1981 portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi n&deg; 67-521 du 3 juillet 1967 et notamment en son article 28.</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58181,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s LR / 77-001 et LR / 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi organique n&deg; 2 /AN /81 du 24 octobre 1981 portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi n&deg; 67-521 du 3 juillet 1967 et notamment en son article 28.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 2e session ordinaire de 1987 dite «session budgétaire» de l’Assemblée Nationale est fixée au 26 novembre 1987 à 9 h.\n\n\nArticle deux : La durée de cette session ne pourra dépasser deux mois.\n\n\nArticle trois : La présente loi sera publiée au journal officiel de la République de Djibouti, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

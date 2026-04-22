@@ -1,0 +1,48 @@
+{
+  "id": "loi-n200-an-86-1ere-l-fixant-la-date-douverture-et-la-duree-de-la-premiere-session-ordinaire-de-1986",
+  "type": "statute",
+  "title": "Loi n° 200/AN/86/1ère L Fixant la date d’ouverture et la durée de la première session ordinaire de 1986.",
+  "short_name": "Loi n° 200/AN/86/1ère L Fixant la date d’ouverture et la durée de la première…",
+  "status": "in_force",
+  "reference": "200/AN/86/1ère L",
+  "issued_date": "1986-03-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n200-an-86-1ere-l-fixant-la-date-douverture-et-la-duree-de-la-premiere-session-ordinaire-de-1986/",
+  "description": "Fixant la date d'ouverture et la durée de la première session ordinaire de 1986.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU la loi constitutionnelle n&deg;LR/77-001 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi constitutionnelle n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/loi-nlr-77-002-du-27-juin-1977-dite-loi-constitutionnelle-n2/'>LR/77-002 </a>du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi n&deg;67-521 du 3 juillet 1967 et notamment en son article.</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON.</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">&nbsp;</p>",
+  "journal_issue_ids": 58187,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU la loi constitutionnelle n&deg;LR/77-001 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi constitutionnelle n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/loi-nlr-77-002-du-27-juin-1977-dite-loi-constitutionnelle-n2/'>LR/77-002 </a>du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi n&deg;67-521 du 3 juillet 1967 et notamment en son article.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 1ère session ordinaire 1986 de l’Assemblée Nationale est fixée au 14 avril 1986 à 9H00."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette session ne pourra dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera publiée au Journal Officiel de la République, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON.</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">&nbsp;</p>"
+    }
+  ]
+}
