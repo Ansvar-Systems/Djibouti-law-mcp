@@ -1,0 +1,30 @@
+{
+  "id": "loi-n26-78-portant-sur-les-instruments-de-mesure",
+  "type": "statute",
+  "title": "Loi n° 26/78 Portant sur les instruments de mesure.",
+  "short_name": "Loi n° 26/78 Portant sur les instruments de mesure.",
+  "status": "in_force",
+  "reference": "26/78",
+  "issued_date": "1978-05-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n26-78-portant-sur-les-instruments-de-mesure/",
+  "description": "Portant sur les instruments de mesure.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT&nbsp;:</p>",
+  "signature": "",
+  "journal_issue_ids": 58255,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT&nbsp;:</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "L’article 6 de la délibération n° 353/7e L du 18 mai 1973 est abrogé et remplacé par les dispositions suivantes :  » Ceux qui auront utilisé des instrumente de mesures qui ne sont pas conformes aux types autorisés seront passibles des peines de deuxième catégorie.\n\n Seront également passibles de mêmes peines ceux qui n’auront pas présenté leurs instruments de mesure à la vérification annuelle ou ceux qui utilisant des balances automatiques ne signalent pas au bureau des poids et mesures le fonctionnement défectueux de celles-ci.\n\n En cas de récidive, seront applicables les peines de troisième catégorie."
+    }
+  ]
+}

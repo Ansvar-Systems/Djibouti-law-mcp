@@ -1,0 +1,36 @@
+{
+  "id": "loi-n7-78-portant-approbation-de-ladhesion-de-la-republique-a-lorganisation-des-nations-unies-pour-lalimentation-et-lagriculture",
+  "type": "statute",
+  "title": "Loi n° 7/78 portant approbation de l’adhésion de la République à l’Organisation des Nations Unies pour l’Alimentation et l’Agriculture.",
+  "short_name": "Loi n° 7/78 portant approbation de l’adhésion de la République à l’Organisation…",
+  "status": "in_force",
+  "reference": "7/78",
+  "issued_date": "1978-02-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n7-78-portant-approbation-de-ladhesion-de-la-republique-a-lorganisation-des-nations-unies-pour-lalimentation-et-lagriculture/",
+  "description": "portant approbation de l'adhésion de la République à l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L’adhésion de la République de Djibouti à l’Organisation des Nations Unies pour l’Alimentation et l’Agriculture est approuvée."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera exécutée comme loi d’État et publiée au Journal officiel de la République de Djibouti."
+    }
+  ]
+}

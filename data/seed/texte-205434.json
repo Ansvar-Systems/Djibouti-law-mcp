@@ -1,0 +1,38 @@
+{
+  "id": "texte-205434",
+  "type": "statute",
+  "title": "Loi n° 77-51 autorisant le Gouvernement à modifier par ordonnances les circonscriptions pour l’élection de membres de la chambre des députés du Territoire français des Afars et des Issas.",
+  "short_name": "Loi n° 77-51 autorisant le Gouvernement à modifier par ordonnances les…",
+  "status": "in_force",
+  "reference": "77-51",
+  "issued_date": "1977-01-20",
+  "url": "https://www.journalofficiel.dj/texte-juridique/",
+  "description": "autorisant le Gouvernement à modifier par ordonnances les circonscriptions pour l'élection de membres de la chambre des députés du Territoire français des Afars et des Issas.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Conseil constitutionnel a d&eacute;clar&eacute; conforme &agrave; la Constitution,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">VALERY GISCARD D&rsquo;ESTAING</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">RAYMOND BARRE.</p>\n<p style=\"margin: 0px;\">Le ministre d'Etat, ministre de l'int&eacute;rieur,</p>\n<p style=\"margin: 0px;\">MICHEL PONIATOWSKI.</p>",
+  "journal_issue_ids": [
+    205425
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Conseil constitutionnel a d&eacute;clar&eacute; conforme &agrave; la Constitution,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. unique. — Le Gouvernement est autorisé à modifier par ordonnances, avant le 1er octobre 1977, la composition des sections électorales et la répartition des sièges de députés entre lesdites sections, telles qu’elles sont déterminées par l’article 2 de la loi 63-759 du 30 juillet 1963 modifiée par la loi n° 72-1224 du 29 décembre 1972 et relative à la composition et au fonctionnement de l’assemblée territoriale du Territoire français des Afars et des Issas.\n\n Un projet de loi de ratification de ces ordonnances sera déposé devant le Parlement au plus tard le 1er décembre 1977.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">VALERY GISCARD D&rsquo;ESTAING</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">RAYMOND BARRE.</p>\n<p style=\"margin: 0px;\">Le ministre d'Etat, ministre de l'int&eacute;rieur,</p>\n<p style=\"margin: 0px;\">MICHEL PONIATOWSKI.</p>"
+    }
+  ]
+}

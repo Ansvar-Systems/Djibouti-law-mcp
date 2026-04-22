@@ -1,0 +1,36 @@
+{
+  "id": "loi-n21-78-portant-statut-de-la-force-nationale-de-securite",
+  "type": "statute",
+  "title": "Loi n° 21/78 Portant statut de la Force nationale de sécurité.",
+  "short_name": "Loi n° 21/78 Portant statut de la Force nationale de sécurité.",
+  "status": "in_force",
+  "reference": "21/78",
+  "issued_date": "1978-03-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n21-78-portant-statut-de-la-force-nationale-de-securite/",
+  "description": "Portant statut de la Force nationale de sécurité.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58252,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La Force nationale de sécurité est organisée, son personnel est géré, conformément aux dispositions du statut ci-annexé."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera enregistrée et publiée Journal officiel de la République de Djibouti."
+    }
+  ]
+}

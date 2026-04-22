@@ -1,0 +1,54 @@
+{
+  "id": "ordonnance-n77-037-pr-modifiant-le-regime-des-amendes",
+  "type": "statute",
+  "title": "Ordonnance n° 77-037/PR modifiant le régime des amendes.",
+  "short_name": "Ordonnance n° 77-037/PR modifiant le régime des amendes.",
+  "status": "in_force",
+  "reference": "77-037/PR",
+  "issued_date": "1977-10-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-037-pr-modifiant-le-regime-des-amendes/",
+  "description": "modifiant le régime des amendes.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p class=\"MsoNoSpacing\">VU les lois constitutionnelles n&deg;s LR/77-001 et 002 du 27 juin 1977,</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">VU la n&eacute;cessit&eacute; de modifier le r&eacute;gime des amendes, Apr&egrave;s d&eacute;lib&eacute;ration du Conseil des ministres,</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">VU l'urgence,</p>",
+  "signature": "<p class=\"MsoNoSpacing\">Pour. le Pr&eacute;sident de la R&eacute;publique,</p>\n<p class=\"MsoNoSpacing\">et par ordre: le Premier ministre,</p>\n<p>AHMED DINI AHMED.</p>",
+  "journal_issue_ids": 58241,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"MsoNoSpacing\">VU les lois constitutionnelles n&deg;s LR/77-001 et 002 du 27 juin 1977,</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">VU la n&eacute;cessit&eacute; de modifier le r&eacute;gime des amendes, Apr&egrave;s d&eacute;lib&eacute;ration du Conseil des ministres,</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">VU l'urgence,</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– Le montant des amendes mentionnées aux codes, lois, délibérations, ordonnances, décrets et arrêtés en vigueur sur le territoire de la République, est réputé exprimé en francs Djibouti.\n\n\nToutefois, lorsque dans ces textes le montant des amendes est libellé en francs français, le montant exprimé en francs Djibouti est obtenu en multipliant ces amendes par cent."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– Les juges doivent, dans leurs décisions, exprimer le montant des amendes et condamnations pécuniaires en francs Djibouti."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "– Toutes dispositions contraires à la présente ordonnance sont abrogées."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "– La présente ordonnance sera exécutée comme loi d’État et publiée suivant la procédure d’urgence ainsi qu’au c Journal officiel» de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p class=\"MsoNoSpacing\">Pour. le Pr&eacute;sident de la R&eacute;publique,</p>\n<p class=\"MsoNoSpacing\">et par ordre: le Premier ministre,</p>\n<p>AHMED DINI AHMED.</p>"
+    }
+  ]
+}

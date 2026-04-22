@@ -1,0 +1,31 @@
+{
+  "id": "loi-n11-78-portant-organisation-du-ministere-des-affaires-etrangeres",
+  "type": "statute",
+  "title": "Loi n° 11/78 portant organisation du Ministère des Affaires Étrangères.",
+  "short_name": "Loi n° 11/78 portant organisation du Ministère des Affaires Étrangères.",
+  "status": "in_force",
+  "reference": "11/78",
+  "issued_date": "1978-02-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n11-78-portant-organisation-du-ministere-des-affaires-etrangeres/",
+  "description": "portant organisation du Ministère des Affaires Étrangères.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "chapter": "CHAPITRE II",
+      "content": ": Les ambassades et les représentations ou missions permanentes sont chargées, sous l’autorité du ministre des Affaires étrangères, d’une mission générale de représentation, d’information de l’administration centrale et, le cas échéant, de négociations.\n\n\nArt. 11. : Les ambassadeurs, conseillers et secrétaires d’ambassades sont nommés par décret en Conseil des Ministres ; les secrétaires et conseillers de chancellerie sont nommés par arrêté.\n\n\nArt.12. : Les consulats généraux, consulats et consulats honoraires sont placés sous l’autorité des chefs de missions diplomatiques dans la juridiction de laquelle ils se trouvent. Ils exercent, conformément aux usages internationaux et, le cas échéant, d’accords bilatéraux dans ce domaine, une fonction de protection des nationaux djiboutiens résidant en territoire étranger.\n\n\nArt.13. : Les consuls généraux, les consuls sont nommés par décret en Conseil des Ministres, les vice-consuls sont nommés par arrêté.\n\n\nArt. 14. : La présente loi sera exécutée comme loi d’État et publiée au « Journal officiel » de la République de Djibouti."
+    }
+  ]
+}

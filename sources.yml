@@ -40,7 +40,7 @@ data_freshness:
   automated_checks: true
   check_frequency: "daily"
   last_verified: "2026-04-22"
-  last_full_ingest: "2026-04-22 (partial, ~1,970/2,747 acts; resume via `npm run ingest`)"
+  last_full_ingest: "2026-04-22 (partial, ~2,130/2,747 acts; resume via `npm run ingest`)"
   last_check: "2026-04-22"
-  total_laws: 1970
-  total_provisions: 24266
+  total_laws: 2130
+  total_provisions: 25315

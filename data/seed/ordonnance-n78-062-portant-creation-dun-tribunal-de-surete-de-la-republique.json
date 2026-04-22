@@ -1,0 +1,114 @@
+{
+  "id": "ordonnance-n78-062-portant-creation-dun-tribunal-de-surete-de-la-republique",
+  "type": "statute",
+  "title": "Ordonnance n° 78-062 portant création d’un Tribunal de Sûreté de la République.",
+  "short_name": "Ordonnance n° 78-062 portant création d’un Tribunal de Sûreté de la République.",
+  "status": "in_force",
+  "reference": "78-062",
+  "issued_date": "1978-08-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n78-062-portant-creation-dun-tribunal-de-surete-de-la-republique/",
+  "description": "portant création d'un Tribunal de Sûreté de la République.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Vu les lois constitutionnelles n&deg; 77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">Vu le rapport de Monsieur le Ministre de la Justice ;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu</p>",
+  "signature": "",
+  "journal_issue_ids": 58256,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Vu les lois constitutionnelles n&deg; 77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">Vu le rapport de Monsieur le Ministre de la Justice ;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est créé un Tribunal de Sûreté de la République.\n\n\nDE LA COMPÉTENCE"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Le Tribunal de Sûreté de la République est chargé de juger :\n\n\n– Les crimes et délits contre la Sûreté de l’État tels qu’ils sont définis par les textes en vigueur.\n\n\n– Les crimes et délits de droit commun portant une grave atteinte à l’ordre public et aux intérêts de la République.\n\n\nDans le second cas, la procédure résultant de la présente ordonnance est déclarée applicable par un décret du président de la République pris en Conseil des Ministres. Ce décret peut être pris à tout moment de la procédure et même dès l’enquête préliminaire. Il est porté à la connaissance des personnes poursuivies par les soins du commissaire de la nation près le Tribunal de Sûreté. Il est sans recours.\n\n\nDE LA COMPÉTENCE"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Le Tribunal de Sûreté de la République est composé de l’ensemble des magistrats titulaires nationaux assisté d’un nombre égal d’assesseurs tirés au sort annuellement sur la liste des assesseurs de la Cour Criminelle. Le président qui peut ne pas être au magistrat professionnel est nommé pour un an par décret par le président de la République en Conseil des Ministres. En cas de partage des voix la sienne est prépondérante. Les fonctions du ministère public sont remplies par un commissaire de la nation également nommé pour un an, ainsi que ses adjoints éventuels, par décret du président de la République en Conseil des Ministres. Le greffe du Tribunal de Sûreté est tenu par le greffier en chef de la Cour d’Appel ou l’un de ses adjoints.\n\n\nDE LA PROCÉDURE DES ENQUÊTES ET DE L’INSTRUCTION"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les officiers de police judiciaire saisis des faits sont subordonnés pour l’enquête au commissaire de la nation ou au juge d’instruction si une information est ouverte."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La garde à vue est contrôlée par le commissaire de la nation."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "Des perquisitions de nuit peuvent avoir lieu sur ordre écrit du commissaire de la nation ou du juge d’instruction quand celui-ci est saisi."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "Le juge d’instruction du Tribunal de Djibouti est compétent. Toutefois, il ne peut ouvrir une information que sur réquisition du commissaire de la nation."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "En cas de crime, la procédure applicable est celle du Tribunal Correctionnel. Toutefois, l’expertise mentale est obligatoire. En cas de délit, les procédures d’instruction de citation directe ou de flagrant délit sont applicables."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "content": "Les attributions de la Chambre des mises en accusation sont exercées par le président du Tribunal de Sûreté statuant seul."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "content": "Lorsque l’enquête est close par le commissaire de la nation ou l’instruction terminée par le juge d’instruction, la procédure est mise en possession du commissaire. Celui-ci notifie cette clôture aux personnes poursuivies et rend compte au président de la République. Un décret de mise en accusation est alors pris par le président de la République en Conseil des Ministres. Ce décret précise les inculpations retenues. Ce décret notifié par le commissaire de la nation aux personnes poursuivies est sans recours. Il saisit de plein droit le Tribunal de Sûreté qui doit se réunir dans le délai d’un mois de sa promulgation. Si le décret de mise en accusation n’est pas pris dans le délai de 3 mois de la clôture, des mesures d’information, l’affaire est classée et les personnes poursuivies remises en liberté si elles sont détenues.\n\n\nDU JUGEMENT"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "content": "La procédure suivie devant le Tribunal de Sûreté est celle applicable en matière de police correctionnelle."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "Aucun recours devant aucune juridiction ne peut être exercé contre les décisions du Tribunal de Sûreté de la République.\n\n\nDE L’ÉTAT DE SÛRETÉ"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "content": "En cas de déclaration de l’état de sûreté, la procédure de flagrant délit est applicable quels que soient les faits."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "La présente ordonnance est applicable dès sa promulgation. Elle abroge toutes les dispositions législatives et réglementaires contraires."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "content": "La présente ordonnance sera publiée au Journal Officiel de la République de Djibouti."
+    }
+  ]
+}

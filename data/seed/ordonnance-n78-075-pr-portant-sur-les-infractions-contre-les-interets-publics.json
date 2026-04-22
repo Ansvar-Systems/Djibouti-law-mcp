@@ -1,0 +1,48 @@
+{
+  "id": "ordonnance-n78-075-pr-portant-sur-les-infractions-contre-les-interets-publics",
+  "type": "statute",
+  "title": "Ordonnance n° 78-075/PR portant sur les infractions contre les intérêts publics.",
+  "short_name": "Ordonnance n° 78-075/PR portant sur les infractions contre les intérêts publics.",
+  "status": "in_force",
+  "reference": "78-075/PR",
+  "issued_date": "1978-10-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n78-075-pr-portant-sur-les-infractions-contre-les-interets-publics/",
+  "description": "portant sur les infractions contre les intérêts publics.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance LR/77-008 du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu .</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "journal_issue_ids": 58258,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance LR/77-008 du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu .</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Des délais de paiement pourront être accordés aux personnes qui auront spontanément, avant toutes poursuites engagées contre elles, fait la déclaration des faits visés ci-dessus à l’administration compétente ou au secrétariat général du Gouvernement."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Il sera procédé à un contrôle administratif général à partir du ler novembre 1978 et les infractions qui seront découvertes seront poursuivies selon les rigueurs de la loi."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente ordonnance sera publiée selon la procédure d’urgence et exécutée dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    }
+  ]
+}

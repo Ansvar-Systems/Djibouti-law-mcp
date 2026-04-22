@@ -1,0 +1,54 @@
+{
+  "id": "loi-n12-78-portant-modification-du-code-general-des-impots",
+  "type": "statute",
+  "title": "Loi n° 12/78 portant modification du Code général des Impôts.",
+  "short_name": "Loi n° 12/78 portant modification du Code général des Impôts.",
+  "status": "in_force",
+  "reference": "12/78",
+  "issued_date": "1978-02-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n12-78-portant-modification-du-code-general-des-impots/",
+  "description": "portant modification du Code général des Impôts.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "22.02 : « Les commerçants imposés à la contribution des patentes en qualité d’importateurs, sont tenus de déposer avant le 31 janvier de chaque année, au service des Contributions directes, la déclaration du montant des importations réalisés au cours de l’année précédente ».\n\n\nArt. 6. : Il est inséré au chapitre II du titre II, section II du Code général des Impôts un article nouveau : 12.22.03, ainsi libellé :"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "content": "22.03 : « Les contribuables imposés à la contribution des patentes en qualité d’entrepreneurs de travaux publics et privés, sont tenus de déposer avant le 31 janvier de chaque année, au service des Contributions directes, la déclaration du montant des travaux effectués au cours de l’année précédente ».\n\n\nArt. 7. : Les dispositions de l’article 14.22.01 sont abrogées et remplacées par les dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "22.01: « Les contribuables astreints, en application des paragraphes 1 et 2 de l’article 15.21.02 du présent code, au paiement d’une patente par anticipation, qui n’auront pas satisfait à leurs obligations dans les délais impartis sont passibles :\n\n\n1° d’une majoration de 20 % du montant des droits dus en cas de règlement à la première demande du service des Contributions directes ;\n\n\n2° d’une majoration de 100 % du montant des droits dus en cas de non paiement après mise en demeure modifiée par le service des Contributions directes ».\n\n\nArt. 8. : Les dispositions de l’article 14.22.02, 1re et 2e lignes sont modifiées ainsi qu’il suit :\n\n\nAu lieu de : « Les patentables soumis aux obligations définies à l’article 12.22.01 du présent code…»\n\n\nLire : «Les patentables soumis aux obligations définies aux articles 12.22.01 et 15.21.01 du présent code… ».\n\n\nArt. 9. : Les dispositions de l’article 14.30.03 du Code général des Impôts sont abrogées et remplacées par les dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "30.03 : « La non-observation des dispositions de l’article 12.30.1 du présent code entraîne la fermeture immédiate de l’établissement jusqu’à présentation du titre de licence, sans préjudice d’une pénalité égale à 10 % des droits dus.\n\n\nSi le titre de licence n’a pas été délivré à son titulaire pour cause de non paiement, la pénalité est portée à :\n\n\n– 25 % des droits dus en cas de règlement immédiat de ces droits.\n\n\n– 100 % des droits dus à défaut du règlement des droits de licence après mise en demeure du service des Contributions directes ».\n\n\nArt. 10. : Il est inséré au titre IV du Code général des Impôts un chapitre IV intitulé «pénalités générales» comprenant un nouvel article 14.40.01."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "content": "40.01 : «Il est alloué à tout agent du service des Contributions directes ayant participé à la constatation d’une infraction, une prime pouvant atteindre 20 % du montant des amendes et pénalités perçues.»"
+    }
+  ]
+}

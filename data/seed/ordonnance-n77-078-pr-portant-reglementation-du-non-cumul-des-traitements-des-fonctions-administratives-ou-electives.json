@@ -1,0 +1,66 @@
+{
+  "id": "ordonnance-n77-078-pr-portant-reglementation-du-non-cumul-des-traitements-des-fonctions-administratives-ou-electives",
+  "type": "statute",
+  "title": "Ordonnance n° 77-078/PR Portant réglementation du non-cumul des traitements des fonctions administratives ou électives.",
+  "short_name": "Ordonnance n° 77-078/PR Portant réglementation du non-cumul des traitements des…",
+  "status": "in_force",
+  "reference": "77-078/PR",
+  "issued_date": "1977-01-19",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-078-pr-portant-reglementation-du-non-cumul-des-traitements-des-fonctions-administratives-ou-electives/",
+  "description": "Portant réglementation du non-cumul des traitements des fonctions administratives ou électives.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p class=\"MsoNormal\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT,</p>\n<p style=\"margin-bottom: -20px;\">Vu les lois constitutionnelles n&deg; 1 et 2 en date du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">Le conseil des Ministres entendu 13 d&eacute;cembre 1977 ;</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Chef du Gouvernement</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Hassan Gouled Aptidon</p>",
+  "journal_issue_ids": 58245,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"MsoNormal\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT,</p>\n<p style=\"margin-bottom: -20px;\">Vu les lois constitutionnelles n&deg; 1 et 2 en date du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">Le conseil des Ministres entendu 13 d&eacute;cembre 1977 ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les fonctionnaires et agents de cadre de l’administration, offices, régies, et établissements publics, nommés membres du gouvernement ou élus pour exercer un mandat électif sont placés en position de détachement à, partir de leur nomination ou élection"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les fonctionnaires et agents de l’administration, offices, régies et établissements publics, nommés membres du gouvernement ou exerçant un mandat électif dispose d’un délais de un mois à partir de la date de leur nomination ou leur élection pour opter entre l’exercice de leur fonction gouvernementale ou élective et leur emploi dans l’administration.\n\n\nDans le cas où cette déclaration n’est pas souscrite dans ce délai ils sont sensés avoir opté pour l’exercice de leur fonction gouvernementale ou élective."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Placés dans la position de détachement, ces fonctionnaires et agents perçoivent les indemnités prévues pour leur fonction gouvernementale ou élective, déduction faite des retenues pour pension.\n\n\nEn aucun cas, ils ne peuvent cumuler leur traitement de fonctionnaire ou d’agent avec les indemnités prévues ci-dessus."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Dans le cas ou leur rémunération de fonctionnaire ou d’agent est supérieure au montant des indemnités afférentes à la fonction gouvernementale ou élective, il sera alloué aux intéressés une indemnité différentielle."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "Les dispositions des articles 2 et 3 de la présente ordonnance sont applicables aux agents de l’administration non fonctionnaires, nommés ministre ou élus pour exercer un mandat électif.\n\n\nCes derniers sont placés en position de suspension d’engagement pendant toute la durée de l’exercice de leur fonction gouvernementale ou élective."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "La présente ordonnance sera exécutée comme loi d’État et publiée suivant la procédure d’urgence au  » Journal officiel  » de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Chef du Gouvernement</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Hassan Gouled Aptidon</p>"
+    }
+  ]
+}

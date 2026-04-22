@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-72-624-completant-larticle-462-du-code-penal-j-o-r-f-n-160-du-9-juillet-1972-p-7179",
+  "type": "statute",
+  "title": "Loi n° 72-624 complétant l’article 462 du code pénal (J.O.R.F. n° 160 du 9 juillet 1972, p. 7179, )",
+  "short_name": "Loi n° 72-624 complétant l’article 462 du code pénal (J.O.R.F. n° 160 du 9…",
+  "status": "in_force",
+  "reference": "72-624",
+  "issued_date": "1972-07-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-72-624-completant-larticle-462-du-code-penal-j-o-r-f-n-160-du-9-juillet-1972-p-7179/",
+  "description": "complétant l’article 462 du code pénal (J.O.R.F. n° 160 du 9 juillet 1972, p. 7179, )",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;, A a a</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">Georges POMPIDOU,.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">Jacques CHABAN-DELMAS.</p>\n<p style=\"margin: 0px;\">Le ministre d'Etat</p>\n<p style=\"margin: 0px;\">charg&eacute; des d&eacute;partements et territoires d'outre-mer,</p>\n<p style=\"margin: 0px;\">Pierre MESSMER.</p>\n<p style=\"margin: 0px;\">Le garde des sceaux, ministre de la justice,</p>\n<p style=\"margin: 0px;\">Ren&eacute; PLEVEN.</p>\n<p style=\"margin: 0px;\">Le ministre des transports,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Jean CHAMANT.</p>",
+  "journal_issue_ids": [
+    105614
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;, A a a</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1. — L’article 462 du code pénal est complété comme suit :\n\n « Un aéronef est considéré comme en vol depuis le moment où, l’embarquement étant terminé, toutes ses portes extérieures ont été fermées jusqu’au moment où l’une de ces portes est ouvefte en vue du débarquement. En cas d’atterrissage forcé, le vol est censé se poursuivre jusqu’à ce que l’autorité compétente prenne en charge l’aéronef ainsi que les personnes et biens à bord. >\n\n Art. 2. — La présente loi est applicable dans les territoires d’outre-mer.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Georges POMPIDOU,.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">Jacques CHABAN-DELMAS.</p>\n<p style=\"margin: 0px;\">Le ministre d'Etat</p>\n<p style=\"margin: 0px;\">charg&eacute; des d&eacute;partements et territoires d'outre-mer,</p>\n<p style=\"margin: 0px;\">Pierre MESSMER.</p>\n<p style=\"margin: 0px;\">Le garde des sceaux, ministre de la justice,</p>\n<p style=\"margin: 0px;\">Ren&eacute; PLEVEN.</p>\n<p style=\"margin: 0px;\">Le ministre des transports,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Jean CHAMANT.</p>"
+    }
+  ]
+}

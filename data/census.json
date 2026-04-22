@@ -38422,9 +38422,9 @@
       "issued_date": "1979-12-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58752
     },
     {
@@ -38441,9 +38441,9 @@
       "issued_date": "1979-12-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58752
     },
     {
@@ -38460,9 +38460,9 @@
       "issued_date": "1979-12-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58752
     },
     {
@@ -38479,9 +38479,9 @@
       "issued_date": "1979-12-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58752
     },
     {
@@ -38498,9 +38498,9 @@
       "issued_date": "1979-12-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58264
     },
     {
@@ -38517,9 +38517,9 @@
       "issued_date": "1979-11-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58264
     },
     {
@@ -38536,9 +38536,9 @@
       "issued_date": "1979-11-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58263
     },
     {
@@ -38555,9 +38555,9 @@
       "issued_date": "1979-10-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38574,9 +38574,9 @@
       "issued_date": "1979-09-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38593,9 +38593,9 @@
       "issued_date": "1979-09-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38612,9 +38612,9 @@
       "issued_date": "1979-09-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38631,9 +38631,9 @@
       "issued_date": "1979-09-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 1,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38650,9 +38650,9 @@
       "issued_date": "1979-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38669,9 +38669,9 @@
       "issued_date": "1979-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58262
     },
     {
@@ -38688,9 +38688,9 @@
       "issued_date": "1979-06-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38707,9 +38707,9 @@
       "issued_date": "1979-06-06",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 19,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38726,9 +38726,9 @@
       "issued_date": "1979-05-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38745,9 +38745,9 @@
       "issued_date": "1979-05-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 11,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38764,9 +38764,9 @@
       "issued_date": "1979-05-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38783,9 +38783,9 @@
       "issued_date": "1979-05-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 22,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58261
     },
     {
@@ -38802,9 +38802,9 @@
       "issued_date": "1979-05-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 40,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58260
     },
     {
@@ -38821,9 +38821,9 @@
       "issued_date": "1979-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 24,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58260
     },
     {
@@ -38840,9 +38840,9 @@
       "issued_date": "1979-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 17,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58260
     },
     {
@@ -38859,9 +38859,9 @@
       "issued_date": "1979-02-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38878,9 +38878,9 @@
       "issued_date": "1979-01-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 27,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38897,9 +38897,9 @@
       "issued_date": "1979-01-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 11,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38916,9 +38916,9 @@
       "issued_date": "1979-01-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38935,9 +38935,9 @@
       "issued_date": "1979-01-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 13,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38954,9 +38954,9 @@
       "issued_date": "1979-01-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38973,9 +38973,9 @@
       "issued_date": "1979-01-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -38992,9 +38992,9 @@
       "issued_date": "1979-01-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -39011,9 +39011,9 @@
       "issued_date": "1979-01-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58259
     },
     {
@@ -39030,9 +39030,9 @@
       "issued_date": "1979-01-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58273
     },
     {
@@ -39049,9 +39049,9 @@
       "issued_date": "1979-01-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58273
     },
     {
@@ -39068,9 +39068,9 @@
       "issued_date": "1978-11-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58258
     },
     {
@@ -39087,9 +39087,9 @@
       "issued_date": "1978-11-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58258
     },
     {
@@ -39106,9 +39106,9 @@
       "issued_date": "1978-10-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58258
     },
     {
@@ -39125,9 +39125,9 @@
       "issued_date": "1978-09-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39144,9 +39144,9 @@
       "issued_date": "1978-08-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39163,9 +39163,9 @@
       "issued_date": "1978-08-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39182,9 +39182,9 @@
       "issued_date": "1978-06-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39201,9 +39201,9 @@
       "issued_date": "1978-06-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39220,9 +39220,9 @@
       "issued_date": "1978-06-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39239,9 +39239,9 @@
       "issued_date": "1978-06-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58256
     },
     {
@@ -39258,9 +39258,9 @@
       "issued_date": "1978-05-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58255
     },
     {
@@ -39277,9 +39277,9 @@
       "issued_date": "1978-05-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 47,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58255
     },
     {
@@ -39296,9 +39296,9 @@
       "issued_date": "1978-04-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58252
     },
     {
@@ -39315,9 +39315,9 @@
       "issued_date": "1978-03-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 25,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58252
     },
     {
@@ -39334,9 +39334,9 @@
       "issued_date": "1978-03-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58252
     },
     {
@@ -39353,9 +39353,9 @@
       "issued_date": "1978-03-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58252
     },
     {
@@ -39372,9 +39372,9 @@
       "issued_date": "1978-03-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58250
     },
     {
@@ -39391,9 +39391,9 @@
       "issued_date": "1978-03-12",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58250
     },
     {
@@ -39410,9 +39410,9 @@
       "issued_date": "1978-03-12",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58250
     },
     {
@@ -39429,9 +39429,9 @@
       "issued_date": "1978-03-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39448,9 +39448,9 @@
       "issued_date": "1978-03-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58250
     },
     {
@@ -39467,9 +39467,9 @@
       "issued_date": "1978-03-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58250
     },
     {
@@ -39486,9 +39486,9 @@
       "issued_date": "1978-02-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39505,9 +39505,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39524,9 +39524,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39543,9 +39543,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39562,9 +39562,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39581,9 +39581,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39600,9 +39600,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39619,9 +39619,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39638,9 +39638,9 @@
       "issued_date": "1978-02-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58249
     },
     {
@@ -39657,9 +39657,9 @@
       "issued_date": "1977-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58246
     },
     {
@@ -39676,9 +39676,9 @@
       "issued_date": "1977-12-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58245
     },
     {
@@ -39695,9 +39695,9 @@
       "issued_date": "1977-12-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58245
     },
     {
@@ -39714,9 +39714,9 @@
       "issued_date": "1977-12-13",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58245
     },
     {
@@ -39733,9 +39733,9 @@
       "issued_date": "1977-12-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39752,9 +39752,9 @@
       "issued_date": "1977-11-26",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39771,9 +39771,9 @@
       "issued_date": "1977-11-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39790,9 +39790,9 @@
       "issued_date": "1977-11-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39809,9 +39809,9 @@
       "issued_date": "1977-11-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39828,9 +39828,9 @@
       "issued_date": "1977-11-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39847,9 +39847,9 @@
       "issued_date": "1977-11-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 22,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58244
     },
     {
@@ -39866,9 +39866,9 @@
       "issued_date": "1977-11-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58243
     },
     {
@@ -39885,9 +39885,9 @@
       "issued_date": "1977-11-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58243
     },
     {
@@ -39904,9 +39904,9 @@
       "issued_date": "1977-11-06",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58242
     },
     {
@@ -39923,9 +39923,9 @@
       "issued_date": "1977-10-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58242
     },
     {
@@ -39942,9 +39942,9 @@
       "issued_date": "1977-10-26",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 27,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58242
     },
     {
@@ -39961,9 +39961,9 @@
       "issued_date": "1977-10-18",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58241
     },
     {
@@ -39980,9 +39980,9 @@
       "issued_date": "1977-10-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58241
     },
     {
@@ -39999,9 +39999,9 @@
       "issued_date": "1977-10-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58241
     },
     {
@@ -40018,9 +40018,9 @@
       "issued_date": "1977-10-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58240
     },
     {
@@ -40037,9 +40037,9 @@
       "issued_date": "1977-10-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58241
     },
     {
@@ -40056,9 +40056,9 @@
       "issued_date": "1977-10-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58240
     },
     {
@@ -40075,9 +40075,9 @@
       "issued_date": "1977-09-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58239
     },
     {
@@ -40094,9 +40094,9 @@
       "issued_date": "1977-09-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58239
     },
     {
@@ -40113,9 +40113,9 @@
       "issued_date": "1977-09-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 11,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58239
     },
     {
@@ -40132,9 +40132,9 @@
       "issued_date": "1977-09-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58239
     },
     {
@@ -40151,9 +40151,9 @@
       "issued_date": "1977-08-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58237
     },
     {
@@ -40170,9 +40170,9 @@
       "issued_date": "1977-08-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58237
     },
     {
@@ -40189,9 +40189,9 @@
       "issued_date": "1977-08-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58237
     },
     {
@@ -40208,9 +40208,9 @@
       "issued_date": "1977-08-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58236
     },
     {
@@ -40227,9 +40227,9 @@
       "issued_date": "1977-07-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58236
     },
     {
@@ -40246,9 +40246,9 @@
       "issued_date": "1977-07-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58236
     },
     {
@@ -40265,9 +40265,9 @@
       "issued_date": "1977-07-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58236
     },
     {
@@ -40284,9 +40284,9 @@
       "issued_date": "1977-07-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58236
     },
     {
@@ -40303,9 +40303,9 @@
       "issued_date": "1977-06-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58234
     },
     {
@@ -40322,9 +40322,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58232
     },
     {
@@ -40341,9 +40341,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 1,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58233
     },
     {
@@ -40360,9 +40360,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58233
     },
     {
@@ -40379,9 +40379,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58233
     },
     {
@@ -40398,9 +40398,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58234
     },
     {
@@ -40417,9 +40417,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58232
     },
     {
@@ -40436,9 +40436,9 @@
       "issued_date": "1977-06-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58232
     },
     {
@@ -40455,9 +40455,9 @@
       "issued_date": "1977-06-20",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58233
     },
     {
@@ -40474,9 +40474,9 @@
       "issued_date": "1977-01-20",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         205425
       ]
@@ -40495,9 +40495,9 @@
       "issued_date": "1977-01-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 58245
     },
     {
@@ -40514,9 +40514,9 @@
       "issued_date": "1976-12-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         205425
       ]
@@ -40535,9 +40535,9 @@
       "issued_date": "1976-12-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         205425
       ]
@@ -40556,9 +40556,9 @@
       "issued_date": "1975-07-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105560
       ]
@@ -40577,9 +40577,9 @@
       "issued_date": "1975-07-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105560
       ]
@@ -40598,9 +40598,9 @@
       "issued_date": "1975-04-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105555
       ]
@@ -40619,9 +40619,9 @@
       "issued_date": "1975-04-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105565
       ]
@@ -40640,9 +40640,9 @@
       "issued_date": "1974-12-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105428
       ]
@@ -40661,9 +40661,9 @@
       "issued_date": "1974-12-26",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         106111
       ]
@@ -40682,9 +40682,9 @@
       "issued_date": "1974-12-26",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         106111
       ]
@@ -40703,9 +40703,9 @@
       "issued_date": "1974-12-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105428
       ]
@@ -40724,9 +40724,9 @@
       "issued_date": "1974-12-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105421
       ]
@@ -40745,9 +40745,9 @@
       "issued_date": "1974-10-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105421
       ]
@@ -40766,9 +40766,9 @@
       "issued_date": "1974-10-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 1,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105421
       ]
@@ -40787,9 +40787,9 @@
       "issued_date": "1974-08-07",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105582
       ]
@@ -40808,9 +40808,9 @@
       "issued_date": "1973-12-23",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 2,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": [
         105411
       ]

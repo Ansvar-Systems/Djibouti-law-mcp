@@ -1,0 +1,48 @@
+{
+  "id": "loi-n19-78-modifiant-la-deliberation-n-471-6e-l-du-24-mai-1968-portant-organisation-du-port-de-commerce-de-djibouti",
+  "type": "statute",
+  "title": "Loi n° 19/78 Modifiant la délibération n° 471/6e L du 24 mai 1968 portant organisation du Port de Commerce de Djibouti.",
+  "short_name": "Loi n° 19/78 Modifiant la délibération n° 471/6e L du 24 mai 1968 portant…",
+  "status": "in_force",
+  "reference": "19/78",
+  "issued_date": "1978-03-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n19-78-modifiant-la-deliberation-n-471-6e-l-du-24-mai-1968-portant-organisation-du-port-de-commerce-de-djibouti/",
+  "description": "Modifiant la délibération n° 471/6e L du 24 mai 1968 portant organisation du Port de Commerce de Djibouti.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58252,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Supprimer : le service médical Ajouter : le bureau d’études, de statistiques et de documentation."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "Supprimer le texte de cet article et le remplacer par le suivant :\n\n\n– le bureau d’études, de statistiques et de documentation est chargé sous l’autorité du directeur du Port, de procéder aux études, de recueillir et d’exploiter la documentation et d’établir les statistiques nécessaires à la gestion du Port de Commerce et à l’orientation de sa politique économique et commerciale."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est supprimé le dernier alinéa de l’article 2 de la délibération n° 69/7e L du 23 décembre 1969 abrogeant la\n\n\ndélibération n° 7/7e L du 19 décembre 1968 et complétant l’article 5 de la délibération n° 471/6e L du 24 mai 1968 portant organisation du Port de Commerce de Djibouti."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera enregistrée et publiée au  » Journal officiel de la République de Djibouti »."
+    }
+  ]
+}

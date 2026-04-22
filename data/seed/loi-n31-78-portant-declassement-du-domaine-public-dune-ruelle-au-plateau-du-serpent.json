@@ -1,0 +1,42 @@
+{
+  "id": "loi-n31-78-portant-declassement-du-domaine-public-dune-ruelle-au-plateau-du-serpent",
+  "type": "statute",
+  "title": "Loi n° 31/78 Portant déclassement du Domaine public d’une ruelle au plateau du Serpent.",
+  "short_name": "Loi n° 31/78 Portant déclassement du Domaine public d’une ruelle au plateau du…",
+  "status": "in_force",
+  "reference": "31/78",
+  "issued_date": "1978-06-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n31-78-portant-declassement-du-domaine-public-dune-ruelle-au-plateau-du-serpent/",
+  "description": "Portant déclassement du Domaine public d'une ruelle au plateau du Serpent.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58256,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est déclarée n’avoir désormais aucune utilité pour les services publics, une ruelle d’une superficie de 660 m2 faisant partie du domaine public de la rue dénommée « rue de Manille entre le boulevard Maréchal-Lyautey et la mer, telle au surplus qu’elle figure au plan."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La dite ruelle est en conséquence déclassée du domaine public et incorporée au domaine privé d’État."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera publiée au «Journal officiel »de la République de Djibouti."
+    }
+  ]
+}

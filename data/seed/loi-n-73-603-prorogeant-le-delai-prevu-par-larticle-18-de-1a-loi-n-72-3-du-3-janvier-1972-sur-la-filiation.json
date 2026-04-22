@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-73-603-prorogeant-le-delai-prevu-par-larticle-18-de-1a-loi-n-72-3-du-3-janvier-1972-sur-la-filiation",
+  "type": "statute",
+  "title": "Loi n° 73-603 prorogeant le délai prévu par l’article 18 de 1a loi n° 72-3 du 3 janvier 1972 sur la filiation.",
+  "short_name": "Loi n° 73-603 prorogeant le délai prévu par l’article 18 de 1a loi n° 72-3 du 3…",
+  "status": "in_force",
+  "reference": "73-603",
+  "issued_date": "1973-07-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-73-603-prorogeant-le-delai-prevu-par-larticle-18-de-1a-loi-n-72-3-du-3-janvier-1972-sur-la-filiation/",
+  "description": "prorogeant le délai prévu par l’article 18 de 1a loi n° 72-3 du 3 janvier 1972 sur la filiation.",
+  "nature": "Loi",
+  "institution": "HAUT-COMMISSARIAT",
+  "visas": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">GEORGES POMPIDOU.</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">PIERRE MESSMER.</p>\n<p style=\"margin: 0px;\">Le garde des sceaux, ministre de la justice,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">JEAN TAITTINGER.</p>",
+  "journal_issue_ids": [
+    105507
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — Le délai d’un an prévu par l’article 18 de la loi n° 72-3 du 3 janvier 1972 est porté à trois ans.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">GEORGES POMPIDOU.</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Premier ministre,</p>\n<p style=\"margin: 0px;\">PIERRE MESSMER.</p>\n<p style=\"margin: 0px;\">Le garde des sceaux, ministre de la justice,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">JEAN TAITTINGER.</p>"
+    }
+  ]
+}

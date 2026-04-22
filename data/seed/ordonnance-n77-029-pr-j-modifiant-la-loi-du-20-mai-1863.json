@@ -1,0 +1,54 @@
+{
+  "id": "ordonnance-n77-029-pr-j-modifiant-la-loi-du-20-mai-1863",
+  "type": "statute",
+  "title": "Ordonnance n° 77-029/PR/J modifiant la loi du 20 mai 1863.",
+  "short_name": "Ordonnance n° 77-029/PR/J modifiant la loi du 20 mai 1863.",
+  "status": "in_force",
+  "reference": "77-029/PR/J",
+  "issued_date": "1977-09-15",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-029-pr-j-modifiant-la-loi-du-20-mai-1863/",
+  "description": "modifiant la loi du 20 mai 1863.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p class=\"MsoNoSpacing\">VU les lois constitutionnelles n&deg;s LR/ 77-001 et 002 du 27 juin 1977 ;</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">Consid&eacute;rant la n&eacute;cessit&eacute; de assouplir la proc&eacute;dure en mati&egrave;re de flagrant d&eacute;lit ;</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">LE Conseil des Ministre entendu.</p>",
+  "signature": "<p class=\"MsoNoSpacing\">P. le pr&eacute;sident de la R&eacute;publique</p>\n<p class=\"MsoNoSpacing\">et par ordre, le Premier ministre</p>\n<p>AHMED DINI AHMED.</p>",
+  "journal_issue_ids": 58239,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"MsoNoSpacing\">VU les lois constitutionnelles n&deg;s LR/ 77-001 et 002 du 27 juin 1977 ;</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">Consid&eacute;rant la n&eacute;cessit&eacute; de assouplir la proc&eacute;dure en mati&egrave;re de flagrant d&eacute;lit ;</p>\n<p class=\"MsoNoSpacing\" style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\">LE Conseil des Ministre entendu.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– L’article 1er de la loi du 20 mai 1863 est ainsi complété : « Il en sera de même lorsque, dans le délai d’un mois suivant la commission des faits, à la suite d’une enquête préliminaire, une infraction correctionnelle passible d’une peine d’emprisonnement paraît établie à la charge d’un inculpé, soit par son aveu, soit par l’existence d’indices matériels »."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– L’article 7 de la même loi est ainsi complétée : « Toutefois, la procédure prévue par la présente loi est applicable à tous les délits passibles d’une peine d’emprisonnement relatifs aux réunions, aux attroupements et d’une manière générale à toutes les manifestations sur la voie publique ou dans un lieu public »."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "– Toutes dispositions contraires à la présente ordonnance sont abrogées."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "– La présente ordonnance sera exécutée comme loi d’État et publiée suivant la procédure d’urgence ainsi qu’au Journal officiel de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p class=\"MsoNoSpacing\">P. le pr&eacute;sident de la R&eacute;publique</p>\n<p class=\"MsoNoSpacing\">et par ordre, le Premier ministre</p>\n<p>AHMED DINI AHMED.</p>"
+    }
+  ]
+}

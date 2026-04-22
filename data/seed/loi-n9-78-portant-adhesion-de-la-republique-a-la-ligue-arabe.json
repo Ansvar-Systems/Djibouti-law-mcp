@@ -1,0 +1,36 @@
+{
+  "id": "loi-n9-78-portant-adhesion-de-la-republique-a-la-ligue-arabe",
+  "type": "statute",
+  "title": "Loi n° 9/78 portant adhésion de la République à la Ligue Arabe.",
+  "short_name": "Loi n° 9/78 portant adhésion de la République à la Ligue Arabe.",
+  "status": "in_force",
+  "reference": "9/78",
+  "issued_date": "1978-02-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n9-78-portant-adhesion-de-la-republique-a-la-ligue-arabe/",
+  "description": "portant adhésion de la République à la Ligue Arabe.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Est approuvée également le rapport du ministre des Affaires Étrangères."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera exécutée comme loi d’État et publiée au Journal Officiel de la République de Djibouti."
+    }
+  ]
+}

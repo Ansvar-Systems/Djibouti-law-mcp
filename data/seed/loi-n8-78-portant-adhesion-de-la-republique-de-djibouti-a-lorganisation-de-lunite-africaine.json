@@ -1,0 +1,36 @@
+{
+  "id": "loi-n8-78-portant-adhesion-de-la-republique-de-djibouti-a-lorganisation-de-lunite-africaine",
+  "type": "statute",
+  "title": "Loi n° 8/78 portant adhésion de la République de Djibouti à l’Organisation de l’Unité Africaine.",
+  "short_name": "Loi n° 8/78 portant adhésion de la République de Djibouti à l’Organisation de…",
+  "status": "in_force",
+  "reference": "8/78",
+  "issued_date": "1978-02-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n8-78-portant-adhesion-de-la-republique-de-djibouti-a-lorganisation-de-lunite-africaine/",
+  "description": "portant adhésion de la République de Djibouti à l'Organisation de l'Unité Africaine.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L’adhésion de la République de Djibouti à l’Organisation de l’unité Africaine est approuvée."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera exécutée comme loi d’État ."
+    }
+  ]
+}
