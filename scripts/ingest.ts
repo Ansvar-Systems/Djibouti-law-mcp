@@ -1,62 +1,64 @@
 #!/usr/bin/env tsx
 /**
- * Djibouti Law MCP -- Census-Driven Ingestion Pipeline (PDF-based)
+ * Djibouti Law MCP — Census-Driven Ingestion Pipeline
  *
- * Reads data/census.json and fetches + parses every ingestable Act
- * from lawdjiboutian.com. Djiboutian proclamations are published as PDFs.
+ * Reads data/census.json and fetches every ingestable texte-juridique from the
+ * JORD WordPress REST API. Output is one seed JSON per act in data/seed/.
  *
  * Pipeline per act:
- *   1. Download PDF from the resolved URL
- *   2. Extract text using pdftotext (poppler-utils)
- *   3. Parse extracted text to identify articles, definitions, structure
- *   4. Write seed JSON for the database builder
+ *   1. GET /wp/v2/texte-juridique/{wp_id}?_embed (full record with content HTML)
+ *   2. Normalise HTML → plain text (French, UTF-8)
+ *   3. Parse TITRE/CHAPITRE/SECTION/Article structure into provisions
+ *   4. Write data/seed/{id}.json for the database builder
  *
  * Features:
- *   - Resume support: skips Acts that already have a seed JSON file
- *   - Census update: writes provision counts + ingestion dates back to census.json
- *   - Rate limiting: 500ms minimum between requests (via fetcher.ts)
- *   - PDF text extraction via pdftotext (must be installed)
+ *   - Resume: skips acts whose seed JSON already exists (unless --force)
+ *   - Rate-limited (500ms minimum between HTTP requests)
+ *   - Progress persisted: writes census.json updates every 25 acts
  *
  * Usage:
- *   npm run ingest                    # Full census-driven ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached PDFs (re-parse only)
- *   npm run ingest -- --force         # Re-ingest even if seed exists
- *
- * Data source: lawdjiboutian.com (Federal Negarit Gazette)
- * Format: PDF (bilingual Amharic/English)
- * License: Government Open Data
+ *   npm run ingest                     # full census-driven ingestion
+ *   npm run ingest -- --limit 20       # test run of 20 acts
+ *   npm run ingest -- --force          # re-ingest even if seed exists
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { execSync } from 'child_process';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parsePdfText, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchJson } from './lib/fetcher.js';
+import {
+  htmlToText,
+  parseProvisions,
+  buildShortName,
+  toIsoDate,
+  parseAcfDate,
+  type ParsedAct,
+  type ParsedProvision,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const PDF_DIR = path.resolve(__dirname, '../data/pdf');
-const TEXT_DIR = path.resolve(__dirname, '../data/text');
+const BASE = 'https://www.journalofficiel.dj/wp-json/wp/v2';
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
-/* ---------- Types ---------- */
-
-interface CensusLawEntry {
+interface CensusLaw {
   id: string;
+  wp_id: number;
   title: string;
   identifier: string;
   url: string;
-  pdf_url: string | null;
+  nature: string;
+  nature_slug: string;
+  institution_ids: number[];
+  issued_date: string;
   status: 'in_force' | 'amended' | 'repealed';
-  category: string;
   classification: 'ingestable' | 'excluded' | 'inaccessible';
   ingested: boolean;
   provision_count: number;
   ingestion_date: string | null;
+  journal_officiel_ids: number[];
 }
 
 interface CensusFile {
@@ -66,353 +68,258 @@ interface CensusFile {
   portal: string;
   census_date: string;
   agent: string;
+  natures_covered: { slug: string; name: string; count: number }[];
   summary: {
     total_laws: number;
     ingestable: number;
-    ocr_needed: number;
-    inaccessible: number;
     excluded: number;
+    inaccessible: number;
+    ingested: number;
   };
-  laws: CensusLawEntry[];
+  laws: CensusLaw[];
 }
 
-/* ---------- Helpers ---------- */
+interface WpTexteFull {
+  id: number;
+  date: string;
+  modified: string;
+  slug: string;
+  link: string;
+  title: { rendered: string };
+  content: { rendered: string; protected?: boolean };
+  'nature-dun-texte'?: number[];
+  institution?: number[];
+  acf?: {
+    reference?: string;
+    date?: string;
+    comment?: string;
+    visas?: string;
+    signature?: string;
+    journal_officiel?: number[];
+  };
+  _embedded?: {
+    'wp:term'?: Array<Array<{ id: number; slug: string; name: string; taxonomy: string }>>;
+  };
+}
 
-function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean } {
+interface CliArgs {
+  limit: number | null;
+  force: boolean;
+  filter: string | null;
+}
+
+function parseArgs(): CliArgs {
   const args = process.argv.slice(2);
   let limit: number | null = null;
-  let skipFetch = false;
   let force = false;
-
+  let filter: string | null = null;
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
+      limit = parseInt(args[i + 1]!, 10);
       i++;
-    } else if (args[i] === '--skip-fetch') {
-      skipFetch = true;
     } else if (args[i] === '--force') {
       force = true;
+    } else if (args[i] === '--filter' && args[i + 1]) {
+      filter = args[i + 1]!;
+      i++;
     }
   }
-
-  return { limit, skipFetch, force };
+  return { limit, force, filter };
 }
 
-/** Check that pdftotext is available */
-function checkPdftotext(): boolean {
-  try {
-    execSync('pdftotext -v 2>&1', { encoding: 'utf-8' });
-    return true;
-  } catch {
-    return false;
+function cleanTitle(raw: string): string {
+  return raw
+    .replace(/<[^>]+>/g, '')
+    .replace(/&rsquo;/g, '’')
+    .replace(/&#8217;/g, '’')
+    .replace(/&amp;/g, '&')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function taxonomyName(embedded: WpTexteFull['_embedded'], taxonomy: string): string | undefined {
+  const terms = embedded?.['wp:term'];
+  if (!terms) return undefined;
+  for (const group of terms) {
+    for (const term of group) {
+      if (term.taxonomy === taxonomy) return term.name;
+    }
   }
+  return undefined;
 }
 
-/** Extract text from PDF using pdftotext */
-function extractPdfText(pdfPath: string, textPath: string): string {
-  try {
-    // Redirect stderr to /dev/null -- Ethiopic ligature warnings from
-    // bilingual Amharic/English PDFs can exceed Node's default maxBuffer
-    execSync(`pdftotext "${pdfPath}" "${textPath}" 2>/dev/null`, {
-      encoding: 'utf-8',
-      timeout: 30000,
+async function fetchTexte(wpId: number): Promise<WpTexteFull> {
+  const { data } = await fetchJson<WpTexteFull>(`${BASE}/texte-juridique/${wpId}?_embed=1`);
+  return data;
+}
+
+function buildAct(law: CensusLaw, wp: WpTexteFull): { act: ParsedAct; provisions: ParsedProvision[] } {
+  const title = cleanTitle(wp.title.rendered) || law.title;
+  const visas = wp.acf?.visas?.trim();
+  const signature = wp.acf?.signature?.trim();
+  const description = wp.acf?.comment ? htmlToText(wp.acf.comment) : undefined;
+
+  const bodyText = htmlToText(wp.content?.rendered ?? '');
+  let provisions = parseProvisions(bodyText);
+
+  // If no Article markers were found, fall back to a single "body" provision
+  // so the act is still searchable in FTS. This happens for short decisions
+  // that use a narrative DÉCIDE block rather than numbered articles.
+  if (provisions.length === 0 && bodyText) {
+    provisions = [
+      {
+        provision_ref: 'body',
+        section: 'body',
+        title: 'Corps du texte',
+        content: bodyText,
+      },
+    ];
+  }
+
+  // Prepend a synthetic "visas" provision if we have it — it's legally meaningful
+  // (gives the legal bases the act rests on).
+  if (visas) {
+    provisions.unshift({
+      provision_ref: 'visas',
+      section: 'visas',
+      title: 'Visas',
+      content: visas,
     });
-    return fs.readFileSync(textPath, 'utf-8');
-  } catch (error) {
-    const msg = error instanceof Error ? error.message : String(error);
-    throw new Error(`pdftotext failed for ${pdfPath}: ${msg}`);
-  }
-}
-
-/** Download a PDF file */
-async function downloadPdf(url: string, outputPath: string): Promise<{ status: number; size: number }> {
-  const result = await fetchWithRateLimit(url);
-  if (result.status !== 200) {
-    return { status: result.status, size: 0 };
   }
 
-  // Check if it's actually a PDF (not an HTML error page)
-  if (result.contentType.includes('text/html') && result.body.includes('<!DOCTYPE')) {
-    return { status: 404, size: 0 };
+  if (signature) {
+    provisions.push({
+      provision_ref: 'signature',
+      section: 'signature',
+      title: 'Signature',
+      content: signature,
+    });
   }
 
-  // Write the raw response body as binary
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'djiboutian-law-mcp/1.0 (https://github.com/Ansvar-Systems/djiboutian-law-mcp; hello@ansvar.ai)',
-    },
-    redirect: 'follow',
-  });
+  const institution = taxonomyName(wp._embedded, 'institution');
+  const nature = taxonomyName(wp._embedded, 'nature-dun-texte') ?? law.nature;
 
-  if (!response.ok) {
-    return { status: response.status, size: 0 };
-  }
+  const issued = parseAcfDate(wp.acf?.date) || toIsoDate(wp.date) || law.issued_date;
 
-  const buffer = Buffer.from(await response.arrayBuffer());
-  fs.writeFileSync(outputPath, buffer);
-
-  // Verify it's actually a PDF
-  if (buffer.length < 100 || !buffer.subarray(0, 5).toString().startsWith('%PDF')) {
-    fs.unlinkSync(outputPath);
-    return { status: 415, size: 0 }; // Unsupported Media Type
-  }
-
-  return { status: 200, size: buffer.length };
-}
-
-/**
- * Convert a census entry to an ActIndexEntry for the parser.
- */
-function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
-  return {
+  const act: ParsedAct = {
     id: law.id,
-    title: law.title,
-    titleEn: law.title,
-    shortName: law.title.length > 60 ? law.title.substring(0, 57) + '...' : law.title,
-    status: law.status === 'in_force' ? 'in_force' : law.status === 'amended' ? 'amended' : 'repealed',
-    issuedDate: '',
-    inForceDate: '',
-    url: law.url,
+    type: 'statute',
+    title,
+    short_name: buildShortName(title, 80),
+    status: law.status,
+    reference: wp.acf?.reference?.trim() || law.identifier,
+    issued_date: issued,
+    url: wp.link || law.url,
+    description,
+    nature,
+    institution,
+    visas,
+    signature,
+    journal_issue_ids: wp.acf?.journal_officiel ?? law.journal_officiel_ids,
+    provisions,
   };
+
+  return { act, provisions };
 }
 
-/* ---------- Main ---------- */
+function writeSeed(act: ParsedAct): void {
+  const outPath = path.join(SEED_DIR, `${act.id}.json`);
+  fs.writeFileSync(outPath, JSON.stringify(act, null, 2), 'utf-8');
+}
 
 async function main(): Promise<void> {
-  const { limit, skipFetch, force } = parseArgs();
+  const { limit, force, filter } = parseArgs();
 
-  console.log('Djibouti Law MCP -- Ingestion Pipeline (PDF-based)');
-  console.log('===================================================\n');
-  console.log(`  Source: lawdjiboutian.com (Federal Negarit Gazette)`);
-  console.log(`  Format: PDF (bilingual Amharic/English)`);
-  console.log(`  License: Government Open Data`);
+  console.log('Djibouti Law MCP -- Ingestion Pipeline (JORD WP REST API)');
+  console.log('=========================================================');
+  if (limit !== null) console.log(`  --limit ${limit}`);
+  if (force) console.log(`  --force`);
+  if (filter) console.log(`  --filter ${filter}`);
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
-  if (force) console.log(`  --force (re-ingest all)`);
+  if (!fs.existsSync(SEED_DIR)) fs.mkdirSync(SEED_DIR, { recursive: true });
 
-  // Check pdftotext
-  if (!checkPdftotext()) {
-    console.error('\nERROR: pdftotext not found. Install poppler-utils:');
-    console.error('  sudo apt-get install poppler-utils');
-    process.exit(1);
-  }
-
-  // Load census
   if (!fs.existsSync(CENSUS_PATH)) {
-    console.error(`\nERROR: Census file not found at ${CENSUS_PATH}`);
-    console.error('Run "npx tsx scripts/census.ts" first.');
+    console.error(`ERROR: census not found at ${CENSUS_PATH}. Run npm run census first.`);
     process.exit(1);
   }
 
-  const census: CensusFile = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
-  const ingestable = census.laws.filter(l => l.classification === 'ingestable');
-  const acts = limit ? ingestable.slice(0, limit) : ingestable;
+  const census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8')) as CensusFile;
 
-  console.log(`\n  Census: ${census.summary.total_laws} total, ${ingestable.length} ingestable`);
-  console.log(`  Processing: ${acts.length} acts\n`);
+  let candidates = census.laws.filter((l) => l.classification === 'ingestable');
+  if (filter) {
+    const needle = filter.toLowerCase();
+    candidates = candidates.filter(
+      (l) => l.title.toLowerCase().includes(needle) || l.nature_slug.includes(needle),
+    );
+  }
+  if (!force) candidates = candidates.filter((l) => !l.ingested);
+  if (limit !== null) candidates = candidates.slice(0, limit);
 
-  fs.mkdirSync(PDF_DIR, { recursive: true });
-  fs.mkdirSync(TEXT_DIR, { recursive: true });
-  fs.mkdirSync(SEED_DIR, { recursive: true });
+  console.log(`\nIngesting ${candidates.length} act(s)...`);
 
-  let processed = 0;
-  let ingested = 0;
-  let skipped = 0;
+  let ok = 0;
   let failed = 0;
   let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+  const today = new Date().toISOString().slice(0, 10);
 
-  // Build a map for census updates
-  const censusMap = new Map<string, CensusLawEntry>();
-  for (const law of census.laws) {
-    censusMap.set(law.id, law);
-  }
-
-  const today = new Date().toISOString().split('T')[0];
-
-  for (const law of acts) {
-    const act = censusToActEntry(law);
-    const pdfFile = path.join(PDF_DIR, `${act.id}.pdf`);
-    const textFile = path.join(TEXT_DIR, `${act.id}.txt`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-    const pdfUrl = law.pdf_url ?? law.url;
-
-    // Resume support: skip if seed already exists (unless --force)
-    if (!force && fs.existsSync(seedFile)) {
-      try {
-        const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-        const provCount = existing.provisions?.length ?? 0;
-        const defCount = existing.definitions?.length ?? 0;
-        totalProvisions += provCount;
-        totalDefinitions += defCount;
-
-        // Update census entry
-        const entry = censusMap.get(law.id);
-        if (entry) {
-          entry.ingested = true;
-          entry.provision_count = provCount;
-          entry.ingestion_date = entry.ingestion_date ?? today;
-        }
-
-        results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'resumed' });
-        skipped++;
-        processed++;
-        continue;
-      } catch {
-        // Corrupt seed file, re-ingest
+  for (let i = 0; i < candidates.length; i++) {
+    const law = candidates[i]!;
+    const seedPath = path.join(SEED_DIR, `${law.id}.json`);
+    if (fs.existsSync(seedPath) && !force) {
+      const existing = JSON.parse(fs.readFileSync(seedPath, 'utf-8')) as ParsedAct;
+      const censusIndex = census.laws.findIndex((l) => l.id === law.id);
+      if (censusIndex >= 0) {
+        census.laws[censusIndex]!.ingested = true;
+        census.laws[censusIndex]!.provision_count = existing.provisions.length;
+        census.laws[censusIndex]!.ingestion_date ??= today;
       }
+      ok += 1;
+      totalProvisions += existing.provisions.length;
+      continue;
     }
 
+    const label = `[${i + 1}/${candidates.length}] ${law.identifier} — ${law.title.slice(0, 70)}`;
     try {
-      // Step 1: Download PDF
-      if (!skipFetch || !fs.existsSync(pdfFile)) {
-        if (!pdfUrl || (!pdfUrl.endsWith('.pdf') && !law.pdf_url)) {
-          // No PDF URL available — try the page URL and see if it resolves to a PDF
-          console.log(`  [${processed + 1}/${acts.length}] ${act.id}: No PDF URL, skipping`);
-          const entry = censusMap.get(law.id);
-          if (entry) entry.classification = 'inaccessible';
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'no-pdf' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        process.stdout.write(`  [${processed + 1}/${acts.length}] Downloading ${act.id}...`);
-        const dlResult = await downloadPdf(pdfUrl, pdfFile);
-
-        if (dlResult.status !== 200) {
-          console.log(` HTTP ${dlResult.status}`);
-          const entry = censusMap.get(law.id);
-          if (entry) entry.classification = 'inaccessible';
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${dlResult.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-        console.log(` OK (${(dlResult.size / 1024).toFixed(0)} KB)`);
-      } else {
-        console.log(`  [${processed + 1}/${acts.length}] Using cached PDF ${act.id}`);
+      const wp = await fetchTexte(law.wp_id);
+      const { act } = buildAct(law, wp);
+      writeSeed(act);
+      const censusIndex = census.laws.findIndex((l) => l.id === law.id);
+      if (censusIndex >= 0) {
+        census.laws[censusIndex]!.ingested = true;
+        census.laws[censusIndex]!.provision_count = act.provisions.length;
+        census.laws[censusIndex]!.ingestion_date = today;
       }
-
-      // Step 2: Extract text
-      process.stdout.write(`    Extracting text...`);
-      const text = extractPdfText(pdfFile, textFile);
-      console.log(` ${text.length} chars, ${text.split('\n').length} lines`);
-
-      // Skip very short extractions (likely scanned/image PDFs)
-      if (text.trim().length < 100) {
-        console.log(`    WARNING: Very short text extraction — possible scanned/image PDF`);
-        const entry = censusMap.get(law.id);
-        if (entry) entry.classification = 'inaccessible';
-        results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'too-short' });
-        failed++;
-        processed++;
-        continue;
-      }
-
-      // Step 3: Parse
-      const parsed = parsePdfText(text, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
-
-      // Update census entry
-      const entry = censusMap.get(law.id);
-      if (entry) {
-        entry.ingested = true;
-        entry.provision_count = parsed.provisions.length;
-        entry.ingestion_date = today;
-      }
-
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-      ingested++;
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR: ${act.id}: ${msg.substring(0, 120)}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
+      ok += 1;
+      totalProvisions += act.provisions.length;
+      console.log(`${label} -> ${act.provisions.length} provisions`);
+    } catch (err) {
+      failed += 1;
+      console.log(`${label} FAILED: ${(err as Error).message}`);
+      const censusIndex = census.laws.findIndex((l) => l.id === law.id);
+      if (censusIndex >= 0) census.laws[censusIndex]!.classification = 'inaccessible';
     }
 
-    processed++;
-
-    // Save census every 50 acts (checkpoint)
-    if (processed % 50 === 0) {
-      writeCensus(census, censusMap);
-      console.log(`  [checkpoint] Census updated at ${processed}/${acts.length}`);
+    if ((i + 1) % 25 === 0) {
+      persistCensus(census);
     }
   }
 
-  // Final census update
-  writeCensus(census, censusMap);
+  census.summary.ingested = census.laws.filter((l) => l.ingested).length;
+  census.summary.inaccessible = census.laws.filter((l) => l.classification === 'inaccessible').length;
+  persistCensus(census);
 
-  // Report
-  console.log(`\n${'='.repeat(70)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(70));
-  console.log(`\n  Source:      lawdjiboutian.com (Federal Negarit Gazette PDFs)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  New:         ${ingested}`);
-  console.log(`  Resumed:     ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-
-  // Summary of failures
-  const failures = results.filter(r =>
-    r.status.startsWith('HTTP') || r.status.startsWith('ERROR') ||
-    r.status === 'no-pdf' || r.status === 'too-short'
-  );
-  if (failures.length > 0) {
-    console.log(`\n  Failed acts (${failures.length}):`);
-    for (const f of failures.slice(0, 30)) {
-      console.log(`    ${f.act}: ${f.status}`);
-    }
-    if (failures.length > 30) {
-      console.log(`    ... and ${failures.length - 30} more`);
-    }
-  }
-
-  // Zero-provision acts
-  const zeroProv = results.filter(r =>
-    r.provisions === 0 && r.status === 'OK'
-  );
-  if (zeroProv.length > 0) {
-    console.log(`\n  Zero-provision acts (${zeroProv.length}):`);
-    for (const z of zeroProv.slice(0, 20)) {
-      console.log(`    ${z.act}`);
-    }
-    if (zeroProv.length > 20) {
-      console.log(`    ... and ${zeroProv.length - 20} more`);
-    }
-  }
-
-  console.log('');
+  console.log('\n---');
+  console.log(`OK:              ${ok}`);
+  console.log(`Failed:          ${failed}`);
+  console.log(`Provisions:      ${totalProvisions}`);
+  console.log(`Total ingested:  ${census.summary.ingested}/${census.summary.total_laws}`);
 }
 
-function writeCensus(census: CensusFile, censusMap: Map<string, CensusLawEntry>): void {
-  // Update the laws array from the map
-  census.laws = Array.from(censusMap.values()).sort((a, b) =>
-    a.title.localeCompare(b.title),
-  );
-
-  // Recalculate summary
-  census.summary.total_laws = census.laws.length;
-  census.summary.ingestable = census.laws.filter(l => l.classification === 'ingestable').length;
-  census.summary.inaccessible = census.laws.filter(l => l.classification === 'inaccessible').length;
-  census.summary.excluded = census.laws.filter(l => l.classification === 'excluded').length;
-
-  fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2));
+function persistCensus(census: CensusFile): void {
+  fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2), 'utf-8');
 }
 
-main().catch(error => {
-  console.error('Fatal error:', error);
+main().catch((err) => {
+  console.error('Ingestion failed:', err);
   process.exit(1);
 });

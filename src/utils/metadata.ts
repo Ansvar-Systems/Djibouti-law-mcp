@@ -30,12 +30,13 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Djibouti Law (lawdjiboutian.com) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source:
+      'Journal Officiel de la République de Djibouti (JORD) — journalofficiel.dj',
+    jurisdiction: 'DJ',
     disclaimer:
-      'This data is sourced from Djibouti Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Djibouti Law portal (lawdjiboutian.com).',
+      'This data is sourced from the Journal Officiel de la République de Djibouti (JORD). ' +
+      'The authoritative version of each text is the one published in the JORD. ' +
+      'Always verify with https://www.journalofficiel.dj before relying on this data in a legal context.',
     freshness,
   };
 }

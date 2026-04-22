@@ -1,367 +1,224 @@
 /**
- * Djibouti Law PDF Parser
+ * JORD HTML Parser — Journal Officiel de la République de Djibouti.
  *
- * Parses text extracted from Djiboutian proclamation PDFs (Federal Negarit Gazette).
- * Most proclamations are bilingual (Amharic + English); this parser extracts
- * English text where available and falls back to Amharic otherwise.
+ * Parses French-language legal texts fetched from the WordPress REST API
+ * (post type `texte-juridique`). Each record exposes:
+ *   - title.rendered     full title in French
+ *   - content.rendered   HTML body with articles, considérants, operative block
+ *   - acf.reference      legal reference (e.g. "03/2026/CC")
+ *   - acf.visas          "VU La..." clauses (legal bases)
+ *   - acf.signature      signing authority block
+ *   - acf.comment        subtitle / purpose
  *
- * Article identification:
- *   - Articles are numbered as "N. Title" at the start of a line
- *   - Parts/chapters as "PART ONE", "CHAPTER TWO" etc.
- *   - Sub-articles as "1/", "2/", etc.
- *   - Sub-sub-articles as "a)", "b)", etc.
- *
- * Source: lawdjiboutian.com (Federal Negarit Gazette PDFs)
+ * Structural markers recognised (French legal drafting conventions):
+ *   - TITRE I, TITRE II, ...
+ *   - CHAPITRE I, CHAPITRE II, ...
+ *   - SECTION 1, SECTION 2, ...
+ *   - Article premier, Article 1, Article 1er, Article 2, ...
  */
 
-export interface ActIndexEntry {
-  id: string;
-  title: string;
-  titleEn: string;
-  shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  url: string;
-  description?: string;
+export interface JordTaxonomyTerm {
+  id: number;
+  slug: string;
+  name: string;
 }
 
 export interface ParsedProvision {
   provision_ref: string;
   chapter?: string;
   section: string;
-  title: string;
+  title?: string;
   content: string;
-}
-
-export interface ParsedDefinition {
-  term: string;
-  definition: string;
-  source_provision?: string;
 }
 
 export interface ParsedAct {
   id: string;
   type: 'statute';
   title: string;
-  title_en: string;
-  short_name: string;
-  status: string;
+  short_name?: string;
+  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
+  reference?: string;
   issued_date: string;
-  in_force_date: string;
+  in_force_date?: string;
   url: string;
   description?: string;
+  nature?: string;
+  institution?: string;
+  visas?: string;
+  signature?: string;
+  journal_issue_ids?: number[];
   provisions: ParsedProvision[];
-  definitions: ParsedDefinition[];
 }
 
-/* ---------- Language detection ---------- */
+/* ---------- HTML normalisation ---------- */
 
-/** Check if a line is primarily Amharic (Ethiopic script) */
-function isAmharicLine(line: string): boolean {
-  const ethiopicChars = (line.match(/[\u1200-\u137F\u1380-\u139F\u2D80-\u2DDF\uAB00-\uAB2F]/g) || []).length;
-  const latinChars = (line.match(/[A-Za-z]/g) || []).length;
-  // If more than 40% of chars are Ethiopic and there are at least some
-  return ethiopicChars > 3 && ethiopicChars > latinChars * 0.5;
+/** Decode common HTML entities. */
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&#8217;/g, '’')
+    .replace(/&#8216;/g, '‘')
+    .replace(/&#8220;/g, '“')
+    .replace(/&#8221;/g, '”')
+    .replace(/&#8211;/g, '–')
+    .replace(/&#8212;/g, '—')
+    .replace(/&rsquo;/g, '’')
+    .replace(/&lsquo;/g, '‘')
+    .replace(/&ldquo;/g, '“')
+    .replace(/&rdquo;/g, '”')
+    .replace(/&laquo;/g, '«')
+    .replace(/&raquo;/g, '»')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
-/** Check if a line has substantial English text */
-function isEnglishLine(line: string): boolean {
-  const words = line.split(/\s+/).filter(w => /^[A-Za-z]/.test(w));
-  return words.length >= 2;
+/** Strip all HTML tags and collapse whitespace, preserving paragraph breaks. */
+export function htmlToText(html: string): string {
+  if (!html) return '';
+  return decodeEntities(
+    html
+      .replace(/<\s*(?:br|\/p|\/div|\/h\d|\/li|\/tr)\s*\/?>/gi, '\n')
+      .replace(/<[^>]+>/g, ' '),
+  )
+    .replace(/\r/g, '')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/[ \t]+/g, ' ')
+    .trim();
 }
 
-/**
- * Determine if the document is bilingual (has substantial English content).
- * If bilingual, we extract English only. If not, we keep Amharic.
- */
-function isBilingual(lines: string[]): boolean {
-  let englishLines = 0;
-  let totalLines = 0;
-  for (const line of lines) {
-    if (line.trim().length < 3) continue;
-    totalLines++;
-    if (isEnglishLine(line)) englishLines++;
-  }
-  // If more than 15% of lines have English, consider it bilingual
-  return totalLines > 0 && englishLines / totalLines > 0.15;
+/* ---------- Article extraction ---------- */
+
+const ARTICLE_RE =
+  /^\s*Article\s+(premier|[0-9]+(?:\s*(?:er|bis|ter|quater))?(?:[\s–—\-][0-9]+)?)\s*[.:–—\-]?\s*(.*)$/i;
+const TITRE_RE = /^\s*TITRE\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;
+const CHAPITRE_RE = /^\s*CHAPITRE\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;
+const SECTION_RE = /^\s*SECTION\s+([IVXLCDM]+|\d+)(?:\s*[–—\-:.])?\s*(.*)$/;
+
+function normaliseArticleNumber(raw: string): string {
+  const trimmed = raw.replace(/\s+/g, ' ').trim().toLowerCase();
+  if (trimmed === 'premier' || /^1\s*er$/.test(trimmed)) return '1';
+  return trimmed.replace(/\s+/g, '');
 }
 
-/* ---------- Text cleaning ---------- */
+/** Parse a block of normalised French legal text into provisions. */
+export function parseProvisions(text: string): ParsedProvision[] {
+  if (!text || !text.trim()) return [];
 
-/** Remove page headers/footers and clean up PDF extraction artifacts */
-function cleanPdfText(text: string): string {
-  let cleaned = text
-    // Remove page number lines
-    .replace(/^\s*\d+\s*$/gm, '')
-    // Remove Federal Negarit Gazette headers
-    .replace(/^\s*(?:ፌደራል ነጋሪት ጋዜጣ|FEDERAL NEGARIT GAZETTE)\s*$/gm, '')
-    // Remove "page" references
-    .replace(/page\s*…*\s*\d+/gi, '')
-    // Remove form feed characters
-    .replace(/\f/g, '\n')
-    // Collapse triple+ newlines into double
-    .replace(/\n{3,}/g, '\n\n');
-
-  return cleaned;
-}
-
-/** Filter to English-only content from bilingual text */
-function extractEnglishContent(lines: string[]): string[] {
-  const result: string[] = [];
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed.length === 0) {
-      result.push('');
-      continue;
-    }
-    // Keep lines that are English or look like article numbers
-    if (isEnglishLine(trimmed) || /^\d+[\./]/.test(trimmed) || /^[a-z]\)/.test(trimmed)) {
-      // Skip lines that are predominantly Amharic
-      if (!isAmharicLine(trimmed)) {
-        result.push(trimmed);
-      }
-    }
-    // Keep structural markers in English
-    if (/^(PART|CHAPTER|SECTION|SCHEDULE|APPENDIX)\s/i.test(trimmed) && !isAmharicLine(trimmed)) {
-      if (!result.includes(trimmed)) {
-        result.push(trimmed);
-      }
-    }
-  }
-  return result;
-}
-
-/* ---------- Structural parsing ---------- */
-
-interface RawArticle {
-  number: number;
-  title: string;
-  content: string[];
-  part: string;
-  chapter: string;
-}
-
-/**
- * Parse articles from the extracted text lines.
- * Articles follow the pattern: "N. Title" or "N.Title" at the start of a line.
- *
- * In bilingual PDFs, each article appears twice (Amharic then English).
- * We detect duplicates and keep the English version (or the one with more Latin text).
- */
-function parseArticles(lines: string[]): RawArticle[] {
-  const allArticles: RawArticle[] = [];
-  let currentPart = '';
-  let currentChapter = '';
-  let currentArticle: RawArticle | null = null;
-
-  // Regex for article start: "N. Title" or "N.Title" at line start
-  const articleRe = /^(\d+)\.\s*(.*)/;
-  const partRe = /^PART\s+(\w+)/i;
-  const chapterRe = /^CHAPTER\s+(\w+)/i;
-  const sectionRe = /^SECTION\s+(\w+)/i;
-
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed.length === 0) {
-      if (currentArticle) {
-        currentArticle.content.push('');
-      }
-      continue;
-    }
-
-    // Check for Part (English)
-    const partMatch = trimmed.match(partRe);
-    if (partMatch && !isAmharicLine(trimmed)) {
-      currentPart = trimmed;
-      continue;
-    }
-
-    // Check for Chapter or Section (structural, English)
-    const chapterMatch = trimmed.match(chapterRe) || trimmed.match(sectionRe);
-    if (chapterMatch && !isAmharicLine(trimmed)) {
-      currentChapter = trimmed;
-      continue;
-    }
-
-    // Check for article start
-    const articleMatch = trimmed.match(articleRe);
-    if (articleMatch) {
-      const num = parseInt(articleMatch[1], 10);
-      const title = articleMatch[2].trim();
-
-      // Only treat as a new article if the number is reasonable
-      if (num >= 1 && num <= 500) {
-        if (currentArticle) {
-          allArticles.push(currentArticle);
-        }
-        currentArticle = {
-          number: num,
-          title,
-          content: [],
-          part: currentPart,
-          chapter: currentChapter,
-        };
-        continue;
-      }
-    }
-
-    // Add line to current article
-    if (currentArticle) {
-      currentArticle.content.push(trimmed);
-    }
-  }
-
-  // Push the last article
-  if (currentArticle) {
-    allArticles.push(currentArticle);
-  }
-
-  // Deduplicate: in bilingual PDFs, each article number appears twice.
-  // Keep the version with more English content.
-  const byNumber = new Map<number, RawArticle[]>();
-  for (const article of allArticles) {
-    const existing = byNumber.get(article.number) ?? [];
-    existing.push(article);
-    byNumber.set(article.number, existing);
-  }
-
-  const dedupedArticles: RawArticle[] = [];
-  for (const [, versions] of byNumber) {
-    if (versions.length === 1) {
-      dedupedArticles.push(versions[0]);
-      continue;
-    }
-    // Pick the version with more English text
-    let bestVersion = versions[0];
-    let bestEnglishScore = 0;
-    for (const v of versions) {
-      const fullText = v.title + ' ' + v.content.join(' ');
-      const englishWords = (fullText.match(/[A-Za-z]{3,}/g) || []).length;
-      if (englishWords > bestEnglishScore) {
-        bestEnglishScore = englishWords;
-        bestVersion = v;
-      }
-    }
-    dedupedArticles.push(bestVersion);
-  }
-
-  // Sort by article number
-  dedupedArticles.sort((a, b) => a.number - b.number);
-  return dedupedArticles;
-}
-
-/**
- * Extract definitions from definition articles.
- * Definition articles typically have numbered terms with "means" or "shall mean" patterns.
- */
-function extractDefinitions(articles: RawArticle[], docId: string): ParsedDefinition[] {
-  const definitions: ParsedDefinition[] = [];
-
-  // Find the definitions article (usually article 2, titled "Definitions" or "Interpretation")
-  const defArticle = articles.find(a =>
-    /definition|interpretation/i.test(a.title) ||
-    (a.number === 2 && a.content.some(l => /means|shall mean/i.test(l)))
-  );
-
-  if (!defArticle) return definitions;
-
-  const fullText = defArticle.content.join('\n');
-
-  // Pattern: term "means" definition, or numbered definitions like 1/ "term" means...
-  const defPatterns = [
-    // "term" means definition
-    /[""]([^""]+)[""]\s+(?:means?|shall mean|refers? to)\s+(.*?)(?=\n\s*\d+\/|\n\s*[""]|$)/gis,
-    // 1/ "term" means definition
-    /\d+\/\s*[""]([^""]+)[""]\s+(?:means?|shall mean|refers? to)\s+(.*?)(?=\n\s*\d+\/|\n\s*$)/gis,
-  ];
-
-  for (const pattern of defPatterns) {
-    let match: RegExpExecArray | null;
-    while ((match = pattern.exec(fullText)) !== null) {
-      const term = match[1].trim();
-      const def = match[2].replace(/\s+/g, ' ').trim().replace(/;$/, '.');
-      if (term.length > 1 && def.length > 5) {
-        definitions.push({
-          term,
-          definition: def,
-          source_provision: `Article ${defArticle.number}`,
-        });
-      }
-    }
-  }
-
-  return definitions;
-}
-
-/* ---------- Main parser function ---------- */
-
-/**
- * Parse extracted PDF text into a structured act with provisions and definitions.
- * Called by the ingestion pipeline after PDF download and text extraction.
- */
-export function parsePdfText(text: string, act: ActIndexEntry): ParsedAct {
-  const cleaned = cleanPdfText(text);
-  const allLines = cleaned.split('\n');
-
-  // Determine if bilingual and extract English if so
-  const bilingual = isBilingual(allLines);
-  const lines = bilingual ? extractEnglishContent(allLines) : allLines;
-
-  // Parse articles
-  const rawArticles = parseArticles(lines);
-
-  // Convert to provisions
+  const lines = text.split(/\n/);
   const provisions: ParsedProvision[] = [];
-  for (const article of rawArticles) {
-    const contentText = article.content
-      .join('\n')
-      .replace(/\n{3,}/g, '\n\n')
-      .trim();
 
-    // Skip articles with no meaningful content
-    if (contentText.length < 5) continue;
+  let currentTitre: string | undefined;
+  let currentChapitre: string | undefined;
+  let currentSection: string | undefined;
+  let openArticle: ParsedProvision | null = null;
 
-    const provRef = `Article ${article.number}`;
-    const section = article.number.toString();
-    const chapter = [article.part, article.chapter].filter(Boolean).join(' / ') || undefined;
+  const flush = () => {
+    if (openArticle) {
+      openArticle.content = openArticle.content.trim();
+      if (openArticle.content) provisions.push(openArticle);
+      openArticle = null;
+    }
+  };
 
-    provisions.push({
-      provision_ref: provRef,
-      chapter,
-      section,
-      title: article.title || `Article ${article.number}`,
-      content: contentText,
-    });
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line) {
+      if (openArticle) openArticle.content += '\n\n';
+      continue;
+    }
+
+    const titreMatch = TITRE_RE.exec(line);
+    if (titreMatch) {
+      flush();
+      currentTitre = `TITRE ${titreMatch[1]}${titreMatch[2] ? ' — ' + titreMatch[2].trim() : ''}`;
+      currentChapitre = undefined;
+      currentSection = undefined;
+      continue;
+    }
+
+    const chapMatch = CHAPITRE_RE.exec(line);
+    if (chapMatch) {
+      flush();
+      currentChapitre = `CHAPITRE ${chapMatch[1]}${chapMatch[2] ? ' — ' + chapMatch[2].trim() : ''}`;
+      currentSection = undefined;
+      continue;
+    }
+
+    const sectionMatch = SECTION_RE.exec(line);
+    if (sectionMatch) {
+      flush();
+      currentSection = `SECTION ${sectionMatch[1]}${sectionMatch[2] ? ' — ' + sectionMatch[2].trim() : ''}`;
+      continue;
+    }
+
+    const artMatch = ARTICLE_RE.exec(line);
+    if (artMatch) {
+      flush();
+      const num = normaliseArticleNumber(artMatch[1]);
+      const head = artMatch[2].trim();
+      const chapterPath = [currentTitre, currentChapitre, currentSection]
+        .filter(Boolean)
+        .join(' > ');
+      openArticle = {
+        provision_ref: `art${num}`,
+        section: num,
+        title: `Article ${num}`,
+        chapter: chapterPath || undefined,
+        content: head,
+      };
+      continue;
+    }
+
+    if (openArticle) {
+      openArticle.content += (openArticle.content ? '\n' : '') + line;
+    }
   }
 
-  // Extract definitions
-  const definitions = extractDefinitions(rawArticles, act.id);
-
-  return {
-    id: act.id,
-    type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: bilingual ? 'Bilingual (Amharic/English) - English text extracted' : 'Amharic text (no English translation available)',
-    provisions,
-    definitions,
-  };
+  flush();
+  return provisions;
 }
 
-// Legacy export for compatibility with the stub interface
-export function parseHtml(html: string, act: ActIndexEntry): ParsedAct {
-  // This function is no longer used -- PDFs are the primary source.
-  // But we keep it for interface compatibility.
-  return parsePdfText(html, act);
+/* ---------- Slug helpers ---------- */
+
+/** Build a short name from a long title. */
+export function buildShortName(title: string, maxLen = 80): string {
+  if (title.length <= maxLen) return title;
+  const cut = title.slice(0, maxLen);
+  const lastSpace = cut.lastIndexOf(' ');
+  return (lastSpace > 40 ? cut.slice(0, lastSpace) : cut) + '…';
 }
 
-// Re-export parsePdfText as the primary parser
-export function parseDjiboutiLawHtml(html: string, act: ActIndexEntry): ParsedAct {
-  return parsePdfText(html, act);
+/** ASCII-safe slug from a French title (keeps ids reproducible). */
+export function slugify(s: string, maxLen = 200): string {
+  const base = s
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/['’]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  return base.length > maxLen ? base.slice(0, maxLen).replace(/-+$/g, '') : base;
+}
+
+/* ---------- Date normalisation ---------- */
+
+/** Normalise a WordPress-style date (YYYY-MM-DDTHH:mm:ss) to YYYY-MM-DD. */
+export function toIsoDate(s: string | undefined | null): string {
+  if (!s) return '';
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s);
+  return m ? `${m[1]}-${m[2]}-${m[3]}` : '';
+}
+
+/** Parse compressed ACF date "YYYYMMDD" or standard "YYYY-MM-DD". */
+export function parseAcfDate(s: string | undefined | null): string {
+  if (!s) return '';
+  const compressed = /^(\d{4})(\d{2})(\d{2})$/.exec(s);
+  if (compressed) return `${compressed[1]}-${compressed[2]}-${compressed[3]}`;
+  return toIsoDate(s);
 }

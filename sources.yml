@@ -1,16 +1,45 @@
+# sources.yml
 schema_version: "1.0"
+mcp_name: "Djibouti Law MCP"
 jurisdiction: "DJ"
-country: "Djibouti"
+jurisdiction_name: "Djibouti"
 language: "French"
+
 sources:
-  - name: "journalofficiel.dj"
-    authority: "Government of Djibouti"
-    official_portal: "https://journalofficiel.dj"
-    retrieval_method: "web scraping"
-    update_frequency: "as published"
-    license_or_terms: "government open data"
-    coverage: "pending census"
+  - name: "Journal Officiel de la République de Djibouti (JORD)"
+    authority: "Présidence de la République de Djibouti — Imprimerie Nationale"
+    official_portal: "https://www.journalofficiel.dj"
+    canonical_identifier: "journalofficiel.dj"
+    retrieval_method: "WordPress REST API (JSON)"
+    api_documentation: "https://www.journalofficiel.dj/wp-json/"
+    update_frequency: "Per JORD issue (typically several issues per month)"
+    last_ingested: null
+    license_or_terms:
+      type: "Public record (Journal Officiel)"
+      url: "https://www.journalofficiel.dj"
+      summary: "Public record of the Republic. Reproduction permitted with source attribution."
+    coverage:
+      scope: >-
+        Lois, lois organiques, lois de finances, ordonnances, décrets, arrêtés,
+        décisions, délibérations, circulaires, avis, proclamations, and conventions
+        published in the Journal Officiel de la République de Djibouti.
+      default_natures:
+        - loi
+        - loi-organique
+        - loi-de-finances
+        - ordonnance
+        - proclamation
+      limitations: >-
+        Digital archive coverage depends on JORD website indexing. Some legacy
+        issues may be missing from the REST API; ingest mode classifies those
+        as `inaccessible` in data/census.json.
+    languages:
+      - "fr"
+
 data_freshness:
+  automated_checks: true
+  check_frequency: "daily"
+  last_verified: null
   last_full_ingest: null
   last_check: null
   total_laws: 0

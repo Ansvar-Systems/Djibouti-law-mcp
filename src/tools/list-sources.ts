@@ -44,16 +44,17 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Djiboutian Legal Information Portal',
-          authority: 'lawdjiboutian.com (Djiboutian Legal Information Portal)',
-          url: 'https://www.lawdjiboutian.com',
-          license: 'Government Open Data',
+          name: 'Journal Officiel de la République de Djibouti (JORD)',
+          authority: 'journalofficiel.dj (eJO — Journal Officiel de Djibouti)',
+          url: 'https://www.journalofficiel.dj',
+          license: 'Public record (Journal Officiel)',
           coverage:
-            'Federal proclamations, regulations, and directives published in the Federal Negarit Gazette. ' +
-            'Includes the Constitution of Djibouti (1995), major legislative acts from 1995 to present, ' +
-            'covering administrative law, banking, tax, trade, investment, labor, telecommunications, ' +
-            'criminal law, and more. Most content is bilingual (Amharic/English).',
-          languages: ['en', 'am'],
+            'Lois, lois organiques, lois de finances, ordonnances, décrets, arrêtés, ' +
+            'décisions, circulaires, délibérations, avis, proclamations et conventions ' +
+            'publiés au Journal Officiel de la République de Djibouti depuis son numérisation. ' +
+            'Couvre notamment le droit constitutionnel, le droit civil et pénal, le droit commercial, ' +
+            'la fiscalité, le droit du travail, l’environnement, les télécommunications et le droit bancaire.',
+          languages: ['fr'],
         },
       ],
       database: {

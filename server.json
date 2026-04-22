@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "@ansvar/djiboutian-law-mcp",
-  "description": "Djibouti legislation database with full-text search across statutes and regulations. Part of the Ansvar Open Law initiative.",
+  "name": "@ansvar/djibouti-law-mcp",
+  "description": "Djibouti legislation database sourced from the Journal Officiel de la République de Djibouti (JORD). Full-text search across lois, ordonnances, décrets, arrêtés, and constitutional texts. Part of the Ansvar Open Law initiative.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Ansvar-Systems/Djibouti-law-mcp"
@@ -10,8 +10,9 @@
   "version": "1.0.0",
   "license": "Apache-2.0",
   "keywords": [
-    "djiboutian-law",
-    "djiboutian",
+    "djibouti-law",
+    "djibouti",
+    "jord",
     "legal",
     "compliance",
     "mcp"
@@ -19,7 +20,7 @@
   "packages": [
     {
       "registryType": "npm",
-      "identifier": "@ansvar/djiboutian-law-mcp",
+      "identifier": "@ansvar/djibouti-law-mcp",
       "version": "1.0.0",
       "transport": {
         "type": "stdio"
@@ -27,11 +28,11 @@
     },
     {
       "registryType": "npm",
-      "identifier": "@ansvar/djiboutian-law-mcp",
+      "identifier": "@ansvar/djibouti-law-mcp",
       "version": "1.0.0",
       "transport": {
         "type": "streamable-http",
-        "url": "https://djiboutian-law-mcp.vercel.app/mcp"
+        "url": "https://djibouti-law-mcp.vercel.app/mcp"
       }
     }
   ],

@@ -24,8 +24,8 @@ const DB_PATH = resolve(__dirname, '../data/database.db');
 const CENSUS_PATH = resolve(__dirname, '../data/census.json');
 
 const MAX_DB_AGE_DAYS = Number(process.env['MAX_DB_AGE_DAYS'] ?? '90');
-const PORTAL_URL = 'http://lawdjiboutian.com';
-const PORTAL_NAME = 'Djibouti Law';
+const PORTAL_URL = 'https://www.journalofficiel.dj';
+const PORTAL_NAME = 'Journal Officiel de la République de Djibouti (JORD)';
 
 interface CensusSummary {
   total_laws?: number;

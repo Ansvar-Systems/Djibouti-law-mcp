@@ -39,7 +39,7 @@ const LIST_SOURCES_TOOL: Tool = {
   name: 'list_sources',
   description:
     'Returns detailed provenance metadata for all data sources used by this server, ' +
-    'including Djibouti Law (National Council for Law Reporting). ' +
+    'drawn from the Journal Officiel de la République de Djibouti (JORD, journalofficiel.dj). ' +
     'Use this to understand what data is available, its authority, coverage scope, and known limitations. ' +
     'Also returns dataset statistics (document counts, provision counts) and database build timestamp. ' +
     'Call this FIRST when you need to understand what Djiboutian legal data this server covers.',
@@ -50,10 +50,10 @@ export const TOOLS: Tool[] = [
   {
     name: 'search_legislation',
     description:
-      'Search Djiboutian statutes and regulations by keyword using full-text search (FTS5 with BM25 ranking). ' +
+      'Search Djiboutian laws, ordinances, decrees, arrêtés, and decisions by keyword using full-text search (FTS5 with BM25 ranking). ' +
       'Returns matching provisions with document context, snippets with >>> <<< markers around matched terms, and relevance scores. ' +
       'Supports FTS5 syntax: quoted phrases ("exact match"), boolean operators (AND, OR, NOT), and prefix wildcards (term*). ' +
-      'Results are primarily in English. ' +
+      'All content is in French (the sole legal language of Djibouti). ' +
       'Default limit is 10 results. For broad topics, increase the limit. ' +
       'Do NOT use this for retrieving a known provision — use get_provision instead.',
     inputSchema: {
@@ -62,8 +62,8 @@ export const TOOLS: Tool[] = [
         query: {
           type: 'string',
           description:
-            'Search query in English. Supports FTS5 syntax: ' +
-            '"personal data" for exact phrase, term* for prefix.',
+            'Search query in French. Supports FTS5 syntax: ' +
+            '"données personnelles" for exact phrase, travail* for prefix.',
         },
         document_id: {
           type: 'string',
@@ -86,12 +86,11 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_provision',
     description:
-      'Retrieve the full text of a specific provision (article) from an Djiboutian proclamation or regulation. ' +
-      'Specify a document_id (proclamation title, number, or internal ID) and optionally an article number. ' +
-      'Omit article to get ALL provisions in the statute (use sparingly — can be large). ' +
-      'Returns provision text, part/chapter, article number, and metadata. ' +
-      'Supports proclamation references (e.g., "Computer Crime Proclamation", "Proc. 958/2016"). ' +
-      'For the Constitution, use "Article N"; for proclamations, use the article number. ' +
+      'Retrieve the full text of a specific provision (article) from a Djiboutian loi, ordonnance, décret, or arrêté. ' +
+      'Specify a document_id (full title, JORD reference, or internal ID) and optionally an article number. ' +
+      'Omit article to get ALL provisions in the act (use sparingly — can be large). ' +
+      'Returns provision text, TITRE/CHAPITRE/SECTION path, article number, and metadata. ' +
+      'Supports JORD references (e.g., "Loi n°192/AN/25/9ème L", "Décret n°2025-359/PR/MI"). ' +
       'Use this when you know WHICH provision you want. For discovery, use search_legislation instead.',
     inputSchema: {
       type: 'object',
@@ -99,8 +98,8 @@ export const TOOLS: Tool[] = [
         document_id: {
           type: 'string',
           description:
-            'Statute identifier: proclamation title (e.g., "Computer Crime Proclamation"), ' +
-            'number (e.g., "proc-958-2016"), or internal document ID.',
+            'Act identifier: full title (e.g., "Loi Organique n°1/AN/92/2ème L"), ' +
+            'JORD reference (e.g., "192/AN/25/9ème L"), or internal document ID.',
         },
         section: {
           type: 'string',
@@ -117,16 +116,17 @@ export const TOOLS: Tool[] = [
   {
     name: 'validate_citation',
     description:
-      'Validate an Djiboutian legal citation against the database — zero-hallucination check. ' +
+      'Validate a Djiboutian legal citation against the database — zero-hallucination check. ' +
       'Parses the citation, checks that the document and provision exist, and returns warnings about status ' +
       '(repealed, amended). Use this to verify any citation BEFORE including it in a legal analysis. ' +
-      'Supports formats: "Article 5, Computer Crime Proclamation", "Article 3, Proc. 958/2016".',
+      'Supports formats: "Article 5, Loi n°192/AN/25", "Article 3, Décret n°2025-359/PR/MI".',
     inputSchema: {
       type: 'object',
       properties: {
         citation: {
           type: 'string',
-          description: 'Citation string to validate. Examples: "Article 5, Computer Crime Proclamation", "Article 3, Proc. 958/2016".',
+          description:
+            'Citation string to validate. Examples: "Article 5, Loi n°192/AN/25", "Article 3, Décret n°2025-359/PR/MI".',
         },
       },
       required: ['citation'],
@@ -135,20 +135,21 @@ export const TOOLS: Tool[] = [
   {
     name: 'build_legal_stance',
     description:
-      'Build a comprehensive set of citations for a legal question by searching across all Djiboutian statutes simultaneously. ' +
+      'Build a comprehensive set of citations for a legal question by searching across all Djiboutian acts simultaneously. ' +
       'Returns aggregated results from multiple relevant provisions, useful for legal research on a topic. ' +
-      'Use this for broad legal questions like "What are the penalties for data breaches in Djibouti?" ' +
+      'Use this for broad legal questions like "Quelles sont les obligations en matière de protection des données personnelles ?" ' +
       'rather than looking up a specific known provision.',
     inputSchema: {
       type: 'object',
       properties: {
         query: {
           type: 'string',
-          description: 'Legal question or topic to research (e.g., "data breach notification", "cybercrime penalties").',
+          description:
+            'Legal question or topic to research (e.g., "protection des données", "contrat de travail", "marchés publics").',
         },
         document_id: {
           type: 'string',
-          description: 'Optional: limit search to one statute by document ID.',
+          description: 'Optional: limit search to one act by document ID.',
         },
         limit: {
           type: 'number',
@@ -162,9 +163,9 @@ export const TOOLS: Tool[] = [
   {
     name: 'format_citation',
     description:
-      'Format a Djiboutian legal citation per standard conventions. ' +
-      'Three formats: "full" (formal, e.g., "Section 25, Data Protection Act 2019"), ' +
-      '"short" (abbreviated, e.g., "s 25, Data Protection Act"), "pinpoint" (section reference only, e.g., "s 25").',
+      'Format a Djiboutian legal citation per French legal drafting conventions. ' +
+      'Three formats: "full" (formal, e.g., "Article 25, Loi n°192/AN/25 portant révision de la Constitution"), ' +
+      '"short" (abbreviated, e.g., "Art. 25, Loi n°192/AN/25"), "pinpoint" (article reference only, e.g., "Art. 25").',
     inputSchema: {
       type: 'object',
       properties: {
@@ -182,7 +183,7 @@ export const TOOLS: Tool[] = [
   {
     name: 'check_currency',
     description:
-      'Check whether an Djiboutian proclamation or provision is currently in force, amended, or repealed. ' +
+      'Check whether a Djiboutian act or provision is currently in force, amended, or repealed. ' +
       'Returns the document status, issued date, and warnings. ' +
       'Essential before citing any provision — always verify currency.',
     inputSchema: {
@@ -190,7 +191,7 @@ export const TOOLS: Tool[] = [
       properties: {
         document_id: {
           type: 'string',
-          description: 'Statute identifier (Act title, abbreviation, or short name).',
+          description: 'Act identifier (full title, JORD reference, or internal document ID).',
         },
         provision_ref: {
           type: 'string',
@@ -203,14 +204,14 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_eu_basis',
     description:
-      'Get the EU/international legal basis that a Djiboutian statute aligns with or references. ' +
-      'Djibouti is not an EU member but several Djiboutian laws were influenced by EU regulations ' +
-      '(e.g., Data Protection Act 2019 was significantly influenced by GDPR). ' +
+      'Get the EU/international legal basis that a Djiboutian act aligns with or references. ' +
+      'Djibouti is not an EU member but its international agreements and several domestic laws ' +
+      'align with EU or other international frameworks. ' +
       'Returns EU/international document identifiers, reference types, and implementation status.',
     inputSchema: {
       type: 'object',
       properties: {
-        document_id: { type: 'string', description: 'Djiboutian statute identifier.' },
+        document_id: { type: 'string', description: 'Djiboutian act identifier.' },
         include_articles: {
           type: 'boolean',
           description: 'Include specific EU article references (default: false).',
@@ -223,8 +224,8 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_djiboutian_implementations',
     description:
-      'Find all Djiboutian statutes that align with or implement a specific EU directive or regulation. ' +
-      'Given an EU document ID (e.g., "regulation:2016/679" for GDPR), returns matching Djiboutian statutes. ' +
+      'Find all Djiboutian acts that align with or implement a specific EU directive or regulation. ' +
+      'Given an EU document ID (e.g., "regulation:2016/679" for GDPR), returns matching Djiboutian acts. ' +
       'Note: Djibouti implements international standards through domestic legislation influenced by international frameworks.',
     inputSchema: {
       type: 'object',
@@ -261,7 +262,7 @@ export const TOOLS: Tool[] = [
         year_to: { type: 'number', description: 'Filter by year (to).' },
         has_djiboutian_implementation: {
           type: 'boolean',
-          description: 'If true, only return EU documents with Djiboutian aligning legislation.',
+          description: 'If true, only return EU documents that have Djiboutian aligning legislation.',
         },
         limit: { type: 'number', description: 'Max results (default: 20, max: 100).', default: 20 },
       },
@@ -270,14 +271,14 @@ export const TOOLS: Tool[] = [
   {
     name: 'get_provision_eu_basis',
     description:
-      'Get the EU/international legal basis for a SPECIFIC provision within a Djiboutian statute. ' +
-      'More granular than get_eu_basis (which operates at the statute level). ' +
+      'Get the EU/international legal basis for a SPECIFIC provision within a Djiboutian act. ' +
+      'More granular than get_eu_basis (which operates at the act level). ' +
       'Use this for pinpoint international compliance checks at the provision level.',
     inputSchema: {
       type: 'object',
       properties: {
-        document_id: { type: 'string', description: 'Djiboutian statute identifier.' },
-        provision_ref: { type: 'string', description: 'Provision reference (e.g., "s25" or "25").' },
+        document_id: { type: 'string', description: 'Djiboutian act identifier.' },
+        provision_ref: { type: 'string', description: 'Provision reference (e.g., "art25" or "25").' },
       },
       required: ['document_id', 'provision_ref'],
     },
@@ -285,13 +286,13 @@ export const TOOLS: Tool[] = [
   {
     name: 'validate_eu_compliance',
     description:
-      'Check EU/international alignment status for a Djiboutian statute or provision. ' +
+      'Check EU/international alignment status for a Djiboutian act or provision. ' +
       'Detects references to repealed EU directives, missing alignment status, outdated references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings.',
     inputSchema: {
       type: 'object',
       properties: {
-        document_id: { type: 'string', description: 'Djiboutian statute identifier.' },
+        document_id: { type: 'string', description: 'Djiboutian act identifier.' },
         provision_ref: { type: 'string', description: 'Optional: check for a specific provision.' },
         eu_document_id: { type: 'string', description: 'Optional: check against a specific EU document.' },
       },

@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Kenya Law MCP, please report it responsibly:
+If you discover a security vulnerability in Djibouti Law MCP, please report it responsibly:
 
 1. **Do NOT open a public issue**
 2. Email **security@ansvar.eu** with:
@@ -20,13 +20,13 @@ If you discover a security vulnerability in Kenya Law MCP, please report it resp
 
 ## Data Accuracy
 
-For data accuracy issues (incorrect legal text, missing provisions, stale data), please use our [data error issue template](https://github.com/Ansvar-Systems/kenya-law-mcp/issues/new?template=data-error.md).
+For data accuracy issues (incorrect legal text, missing provisions, stale data), please use our [data error issue template](https://github.com/Ansvar-Systems/Djibouti-law-mcp/issues/new?template=data-error.md).
 
 ## Scope
 
 This policy covers:
-- The npm package `@ansvar/kenya-law-mcp`
-- The Vercel deployment at `https://kenya-law-mcp.vercel.app`
+- The npm package `@ansvar/djibouti-law-mcp`
+- The Vercel deployment at `https://djibouti-law-mcp.vercel.app`
 - The MCP server code in this repository
 
 Out of scope:
