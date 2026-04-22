@@ -1,0 +1,48 @@
+{
+  "id": "loi-n21-an-93-3eme-l-fixant-la-date-douverture-et-la-duree-de-la-1er-session-ordinaire-de-1993",
+  "type": "statute",
+  "title": "Loi n° 21/AN/93/3eme L fixant la date d’ouverture et la durée de la 1er session ordinaire de 1993.",
+  "short_name": "Loi n° 21/AN/93/3eme L fixant la date d’ouverture et la durée de la 1er session…",
+  "status": "in_force",
+  "reference": "21/AN/93/3eme L",
+  "issued_date": "1993-03-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n21-an-93-3eme-l-fixant-la-date-douverture-et-la-duree-de-la-1er-session-ordinaire-de-1993/",
+  "description": "fixant la date d'ouverture et la durée de la 1er session ordinaire de 1993.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU la Constitution,</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU la loi organique n&deg;1/AN/92/2e L du 29 octobre 1992, portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale,</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU les r&eacute;sultats des &eacute;lections l&eacute;gislatives du 18/12/1992.</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">SUR proposition du bureau de l'Assembl&eacute;e Nationale.</p>\n<p>&nbsp;</p>",
+  "signature": "<p>par le pr&eacute;sident de la R&eacute;publique</p>\n<p>HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58026,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU la Constitution,</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU la loi organique n&deg;1/AN/92/2e L du 29 octobre 1992, portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave; l'Assembl&eacute;e Nationale,</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">VU les r&eacute;sultats des &eacute;lections l&eacute;gislatives du 18/12/1992.</p>\n<p class=\"OmniPage1\" style=\"margin-right: 2.25pt; margin-bottom: -20px;\">SUR proposition du bureau de l'Assembl&eacute;e Nationale.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "‑ La date d’ouverture de la 1ère session ordinaire de 1993 de l’Assemblée est fixée au lundi 15 mars 1993 à 9 heures."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– La durée de cette session ne pourra dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "‑ La présente Loi sera publiée au Journal Officiel de la République dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>par le pr&eacute;sident de la R&eacute;publique</p>\n<p>HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}
