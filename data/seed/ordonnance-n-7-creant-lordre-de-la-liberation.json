@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-7-creant-lordre-de-la-liberation",
+  "type": "statute",
+  "title": "Ordonnance n° 7 créant l’ordre de la Libération",
+  "short_name": "Ordonnance n° 7 créant l’ordre de la Libération",
+  "status": "in_force",
+  "reference": "7",
+  "issued_date": "1940-11-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-7-creant-lordre-de-la-liberation/",
+  "description": "créant l'ordre de la Libération",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Par le ( het de la France combattante.</p>\n<p>President du Comit&eacute; national</p>\n<p>:</p>\n<p>Le Commissaire national &agrave; l'a.r,</p>\n<p>M. Vaux.</p>\n<p>Le Commissaire national &agrave; l'&eacute;conomie</p>\n<p>et aux colonies,</p>\n<p>R. Pleven.</p>\n<p>le Comnsissain natonal aux finances,</p>\n<p>A. DIETHELM.</p>\n<p>Au nom du Peuple et de l&rsquo;empire Fran&ccedil;ais,</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu notre Ordonn&acirc;t) e No. 1 du 27 octobre 1940, organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l&rsquo;Empire.</p>\n<p>Vu notre Ordonnance No. 5. du 12 novembre 1940. pr&eacute;cisant les conditions dans les quelles seront prises les d&eacute;cisions du Chef des Fran&ccedil;ais Libres ;</p>\n<p>&nbsp;</p>",
+  "signature": "<p>C. de Gaulle.&nbsp;</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Par le ( het de la France combattante.</p>\n<p>President du Comit&eacute; national</p>\n<p>:</p>\n<p>Le Commissaire national &agrave; l'a.r,</p>\n<p>M. Vaux.</p>\n<p>Le Commissaire national &agrave; l'&eacute;conomie</p>\n<p>et aux colonies,</p>\n<p>R. Pleven.</p>\n<p>le Comnsissain natonal aux finances,</p>\n<p>A. DIETHELM.</p>\n<p>Au nom du Peuple et de l&rsquo;empire Fran&ccedil;ais,</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Vu notre Ordonn&acirc;t) e No. 1 du 27 octobre 1940, organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l&rsquo;Empire.</p>\n<p>Vu notre Ordonnance No. 5. du 12 novembre 1940. pr&eacute;cisant les conditions dans les quelles seront prises les d&eacute;cisions du Chef des Fran&ccedil;ais Libres ;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. I. — Il est créé un Ordre dit Ordre de la Libération, dont les membres porteront le titre de Compagnons de la Libération. »\n\n Cet Ordre est destiné à récompenser les personnes ou les collectivités militaires et civiles qui se seront signalées dans l’œuvre de la libération de la France et de son Empire.\n\n Art. 2. L’insigne unique est la Croix de la Libération.\n\n Art. 3. L’admission dans l’Ordre Libération est prononcée par le Chef des Français Libres.\n\n Art. 4. – Les modalités d’application de, présente Ordonnance seront réglées par décret.\n\n Art. 5. La présente Ordonnance sera promulguée au Journal Officiel de la France Libre et, provisoirement, au Journal Officiel de l’Afrique Equatoriale Française."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. de Gaulle.&nbsp;</p>"
+    }
+  ]
+}

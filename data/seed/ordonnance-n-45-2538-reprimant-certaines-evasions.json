@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-45-2538-reprimant-certaines-evasions",
+  "type": "statute",
+  "title": "Ordonnance n° 45-2538 réprimant certaines évasions.",
+  "short_name": "Ordonnance n° 45-2538 réprimant certaines évasions.",
+  "status": "in_force",
+  "reference": "45-2538",
+  "issued_date": "1945-10-27",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-45-2538-reprimant-certaines-evasions/",
+  "description": "réprimant certaines évasions.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des Sceaux, Ministre&nbsp;de la Justice,</p>\n<p>Vu l'ordonnance du 3 juin 1943, portant institution du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4&nbsp;septembre 1944,</p>\n<p>Le Conseil d'Etat entendu.</p>",
+  "signature": "<p>C. DE GAULLE.</p>\n<p>Par le Gouvernement provisoire</p>\n<p>de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Ministre du Travail et de</p>\n<p>la S&eacute;curit&eacute; sociale. Garde</p>\n<p>des Sceaux, Ministre de la</p>\n<p>Justice par int&eacute;rim,</p>\n<p>Alexandre PARODX.</p>",
+  "journal_issue_ids": [
+    105779
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des Sceaux, Ministre&nbsp;de la Justice,</p>\n<p>Vu l'ordonnance du 3 juin 1943, portant institution du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4&nbsp;septembre 1944,</p>\n<p>Le Conseil d'Etat entendu.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — L’article 245 du code pénal est complété par un alinéa ainsi conçu : « Sera puni de la même peine, qui sera subie dans les mêmes conditions, tout détenu transféré dans un établissement sanitaire ou hospitalier et qui, par un moyen quelconque, s’en sera évadé ou aura tenté de s’en évader. »\n\n Art. 2. — La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE.</p>\n<p>Par le Gouvernement provisoire</p>\n<p>de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Ministre du Travail et de</p>\n<p>la S&eacute;curit&eacute; sociale. Garde</p>\n<p>des Sceaux, Ministre de la</p>\n<p>Justice par int&eacute;rim,</p>\n<p>Alexandre PARODX.</p>"
+    }
+  ]
+}

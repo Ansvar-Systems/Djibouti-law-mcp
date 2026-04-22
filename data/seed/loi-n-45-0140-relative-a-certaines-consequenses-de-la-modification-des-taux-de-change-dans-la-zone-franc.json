@@ -1,0 +1,39 @@
+{
+  "id": "loi-n-45-0140-relative-a-certaines-consequenses-de-la-modification-des-taux-de-change-dans-la-zone-franc",
+  "type": "statute",
+  "title": "Loi n° 45.0140 relative à certaines conséquenses de la modification des taux de change dans la zone « franc »",
+  "short_name": "Loi n° 45.0140 relative à certaines conséquenses de la modification des taux de…",
+  "status": "in_force",
+  "reference": "45.0140",
+  "issued_date": "1945-12-23",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-45-0140-relative-a-certaines-consequenses-de-la-modification-des-taux-de-change-dans-la-zone-franc/",
+  "description": "relative à certaines conséquenses de la modification des taux de change dans la zone « franc »",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>L&rsquo;Assembl&eacute;e Nationale Constituante a adopt&eacute;, le Pr&eacute;sident du Gouvernement provisoire promulgue la loi dont la teneur suit:</p>",
+  "signature": "<p>C. DE GAULLE</p>\n<p>Par le Gouvernement provisoire&nbsp;de la Republique Fran&ccedil;aise :</p>\n<p>Le Ministre des Finances.</p>\n<p>R. PLEVEN.</p>\n<p>Le Garde des Sceaux.</p>\n<p>Ministre de la Justice,</p>\n<p>Pierre-Henri TEITGEN.</p>\n<p>Le Ministre des Affaires &eacute;trang&egrave;res.</p>\n<p>G. BIDAULT.</p>\n<p>Le Ministre de l&rsquo;Int&eacute;rieur,</p>\n<p>A. TIXIER.</p>\n<p>Le Ministre de l'Economie nationale.</p>\n<p>Fran&ccedil;ois BILLOUX.</p>\n<p>Le Ministre des Colonies,</p>\n<p>Jacques SOUSTELLE.</p>",
+  "journal_issue_ids": [
+    105832
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>L&rsquo;Assembl&eacute;e Nationale Constituante a adopt&eacute;, le Pr&eacute;sident du Gouvernement provisoire promulgue la loi dont la teneur suit:</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "chapter": "TITRE I — er",
+      "content": "— Est approuvée la convention ci-annexée passée le 24 décembre 1945 entre le Ministre des Finances et le Gouverneur de la Banque de France."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE</p>\n<p>Par le Gouvernement provisoire&nbsp;de la Republique Fran&ccedil;aise :</p>\n<p>Le Ministre des Finances.</p>\n<p>R. PLEVEN.</p>\n<p>Le Garde des Sceaux.</p>\n<p>Ministre de la Justice,</p>\n<p>Pierre-Henri TEITGEN.</p>\n<p>Le Ministre des Affaires &eacute;trang&egrave;res.</p>\n<p>G. BIDAULT.</p>\n<p>Le Ministre de l&rsquo;Int&eacute;rieur,</p>\n<p>A. TIXIER.</p>\n<p>Le Ministre de l'Economie nationale.</p>\n<p>Fran&ccedil;ois BILLOUX.</p>\n<p>Le Ministre des Colonies,</p>\n<p>Jacques SOUSTELLE.</p>"
+    }
+  ]
+}

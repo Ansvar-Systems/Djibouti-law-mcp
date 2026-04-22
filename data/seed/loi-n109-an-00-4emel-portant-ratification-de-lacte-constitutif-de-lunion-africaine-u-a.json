@@ -1,0 +1,36 @@
+{
+  "id": "loi-n109-an-00-4emel-portant-ratification-de-lacte-constitutif-de-lunion-africaine-u-a",
+  "type": "statute",
+  "title": "Loi n° 109/AN/00/4èmeL portant ratification de l’Acte Constitutif de l’Union Africaine (U.A).",
+  "short_name": "Loi n° 109/AN/00/4èmeL portant ratification de l’Acte Constitutif de l’Union…",
+  "status": "in_force",
+  "reference": "109/AN/00/4èmeL",
+  "issued_date": "2000-12-31",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n109-an-00-4emel-portant-ratification-de-lacte-constitutif-de-lunion-africaine-u-a/",
+  "description": "portant ratification de l’Acte Constitutif de l’Union Africaine (U.A).",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>VU La Constitution du 15 septembre 1992;</p>\n<p>VU Le D&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n99-0059-pre-portant-nomination-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>99-0059/PRE </a>du 12 mai 1999 portant nomination des membres du Gouvernement et fixant leurs attributions ;</p>",
+  "signature": "",
+  "journal_issue_ids": 58322,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>VU La Constitution du 15 septembre 1992;</p>\n<p>VU Le D&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n99-0059-pre-portant-nomination-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>99-0059/PRE </a>du 12 mai 1999 portant nomination des membres du Gouvernement et fixant leurs attributions ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est ratifié l’Acte Constitutif de l’Union Africaine adopté le 11 juillet à Lomé (Togo)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente Loi sera enregistrée et publiée au Journal Officiel dès sa promulgation."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-n-46-2173-fixant-a-23-ans-lage-de-leligibilite-aux-assemble-ou-colleges-electoraux-elus-au-sullrage-universel-et-direct",
+  "type": "statute",
+  "title": "Loi n° n° 46-2173 fixant à 23 ans l’âge de l’éligibilité aux assemble ou collèges électoraux élus au sullrage universel et direct",
+  "short_name": "Loi n° n° 46-2173 fixant à 23 ans l’âge de l’éligibilité aux assemble ou…",
+  "status": "in_force",
+  "reference": "n° 46-2173",
+  "issued_date": "1946-10-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-n-46-2173-fixant-a-23-ans-lage-de-leligibilite-aux-assemble-ou-colleges-electoraux-elus-au-sullrage-universel-et-direct/",
+  "description": "fixant à 23 ans l'âge de l'éligibilité aux assemble ou collèges électoraux élus au sullrage universel et direct",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">1, Assembl&eacute;e nationale constituante a adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Gouvernement provisoire de la R&eacute;publique francaise promulgue la loi dont la teneur suit</p>",
+  "signature": "<p style=\"margin: 0px;\">george bildault</p>\n<p style=\"margin: 0px;\">par le gouvernem&ugrave;ent provisoirement de la republique francaise</p>\n<p style=\"margin: 0px;\">le ministre l'interieur</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">edouard depreux</p>",
+  "journal_issue_ids": [
+    105821
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">1, Assembl&eacute;e nationale constituante a adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Gouvernement provisoire de la R&eacute;publique francaise promulgue la loi dont la teneur suit</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1, — Tout Francais et toute Francaise ayant 2 ans accomplis peut faire acte de candidature et être ln à l’Assemblée ou collège électoral élu an suffrage universel direct.\n\n LA présente loi délibérée et adoptée pur l’Assemblée nationale constituante, sera exé- cutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">george bildault</p>\n<p style=\"margin: 0px;\">par le gouvernem&ugrave;ent provisoirement de la republique francaise</p>\n<p style=\"margin: 0px;\">le ministre l'interieur</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">edouard depreux</p>"
+    }
+  ]
+}

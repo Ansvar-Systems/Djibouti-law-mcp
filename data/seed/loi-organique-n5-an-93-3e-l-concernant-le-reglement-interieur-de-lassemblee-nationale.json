@@ -1,0 +1,37 @@
+{
+  "id": "loi-organique-n5-an-93-3e-l-concernant-le-reglement-interieur-de-lassemblee-nationale",
+  "type": "statute",
+  "title": "Loi Organique n° 5/AN/93/3e L concernant le règlement intérieur de l’Assemblée Nationale.",
+  "short_name": "Loi Organique n° 5/AN/93/3e L concernant le règlement intérieur de l’Assemblée…",
+  "status": "in_force",
+  "reference": "5/AN/93/3e L",
+  "issued_date": "1993-05-24",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-organique-n5-an-93-3e-l-concernant-le-reglement-interieur-de-lassemblee-nationale/",
+  "description": "concernant le règlement intérieur de l'Assemblée Nationale.",
+  "nature": "Loi Organique",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -10px;\">Vu la constitution ;</p>\n<p style=\"margin-bottom: -10px;\">Vu la loi n&deg; 21/AN/93/3 e L fixant la date et la dur&eacute;e de la 1&egrave;re session ordinaire de 1993 ;</p>",
+  "signature": "<p>par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p>HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58033,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -10px;\">Vu la constitution ;</p>\n<p style=\"margin-bottom: -10px;\">Vu la loi n&deg; 21/AN/93/3 e L fixant la date et la dur&eacute;e de la 1&egrave;re session ordinaire de 1993 ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "chapter": "CHAPITRE I — Bureau d’âge",
+      "content": "1. Le doyen d’âge de l’Assemblée Nationale préside la première séance de la législature jusqu’à la proclamation de l’élection du président.\n\n\n2. Les deux plus jeunes députés présents remplissent les fonctions de secrétaire jusqu’à l’élection du bureau.\n\n\n3. Aucun débat ne peut avoir lieu sous la présidence du doyen d’âge.\n\n\n4. Le doyen d’âge prononce le traditionnel discours et donne la parole au représentant du président de la République qui déclare l’ouverture de la séance.\n\n\n5. La première séance de la législature est convoquée par le Président de la République.\n\n\n6. Cette séance est ouverte par une séance solennelle.\n\n\n7. L’ordre du jour de cette séance sera limité à l’admission des députés et aux élections des organes de l’Assemblée et des membres titulaires et suppléants de la Haute Cour de Justice."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>par le Pr&eacute;sident de la R&eacute;publique,</p>\n<p>HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

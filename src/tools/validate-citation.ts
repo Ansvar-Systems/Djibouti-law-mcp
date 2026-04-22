@@ -23,13 +23,13 @@ export interface ValidateCitationResult {
 
 /**
  * Parse a Djiboutian legal citation.
- * Supports:
- * - "Section 25, Data Protection Act 2019"
- * - "s 25, Data Protection Act 2019"
- * - "Section 25 of the Data Protection Act, 2019"
- * - "Data Protection Act 2019, Section 25"
- * - "Article 31, Constitution of Djibouti 2010"
- * - Just an Act title
+ * Accepts a mix of French and English surface forms:
+ * - "Article 25, Loi n°192/AN/25"
+ * - "Art. 25, Loi n°192/AN/25"
+ * - "Article 25 de la Loi n°192/AN/25"
+ * - "Loi n°192/AN/25, Article 25"
+ * - "Article 31, Constitution de la République de Djibouti"
+ * - Just an act title
  */
 function parseCitation(citation: string): { documentRef: string; sectionRef?: string } | null {
   const trimmed = citation.trim();

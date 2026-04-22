@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-n61-loi-du-22-mars-1930-portant-application-aux-colonies-de-larticle-1-de-la-loi-du-19-mars-1919-concernant-la-rehabilitation-en-temps-de-guerre",
+  "type": "statute",
+  "title": "Loi n° n°61 Loi du 22 mars 1930 portant application aux colonies de l’article 1° de la loi du 19 mars 1919 concernant la réhabilitation en temps de guerre des condamnés et modifiant le paragraphe cinquième de l’article 621 du Code d’instruction criminelle",
+  "short_name": "Loi n° n°61 Loi du 22 mars 1930 portant application aux colonies de l’article…",
+  "status": "in_force",
+  "reference": "n°61",
+  "issued_date": "1930-06-23",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-n61-loi-du-22-mars-1930-portant-application-aux-colonies-de-larticle-1-de-la-loi-du-19-mars-1919-concernant-la-rehabilitation-en-temps-de-guerre-des-condamnes-et-modifiant-l/",
+  "description": "Loi du 22 mars 1930 portant application aux colonies de l'article 1° de la loi du 19 mars 1919 concernant la réhabilitation en temps de guerre des condamnés et modifiant le paragraphe cinquième de l’article 621 du Code d'instruction criminelle",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p style=\"margin: 0px;\">fran&ccedil;ois pietri</p>\n<p style=\"margin: 0px;\">le garde des sceaux ministre de la justice</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">raoul peret</p>",
+  "journal_issue_ids": [
+    105993
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique, — L’article 1 de la loi du 19 mars 1918 concernant la réhabilitation en temps de guerre des condamnés et modifiant le paragraphe cinquième de l’article 621 du Code d’instruction criminelle est déclaré applicable aux colonies, pays de protectorat et territoires sous mandat relevant du ministère des colonies,\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p style=\"margin: 0px;\">fran&ccedil;ois pietri</p>\n<p style=\"margin: 0px;\">le garde des sceaux ministre de la justice</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">raoul peret</p>"
+    }
+  ]
+}

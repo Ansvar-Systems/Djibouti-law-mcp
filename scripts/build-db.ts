@@ -408,7 +408,7 @@ function buildDatabase(): void {
 
               const euInsert = insertEuDocument.run(
                 ref.euDocumentId, ref.type, ref.year, ref.number, ref.community,
-                shortName, shortName, eurLexUrl, 'Auto-extracted from Djiboutian statute text',
+                shortName, shortName, eurLexUrl, 'Auto-extracted from Djiboutian act text',
               );
               if (euInsert.changes > 0) totalEuDocuments++;
 
@@ -449,9 +449,9 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'ET');
-    insertMeta.run('source', 'lawdjiboutian.com');
-    insertMeta.run('licence', 'Government Open Data');
+    insertMeta.run('jurisdiction', 'DJ');
+    insertMeta.run('source', 'journalofficiel.dj');
+    insertMeta.run('licence', 'Public record (Journal Officiel)');
   });
   writeMeta();
 

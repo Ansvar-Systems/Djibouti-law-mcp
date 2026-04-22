@@ -1,0 +1,54 @@
+{
+  "id": "loi-n13-78-du-1er-mars-1978",
+  "type": "statute",
+  "title": "Loi n° 13/78 du 1er mars 1978.",
+  "short_name": "Loi n° 13/78 du 1er mars 1978.",
+  "status": "in_force",
+  "reference": "13/78",
+  "issued_date": "1978-03-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n13-78-du-1er-mars-1978/",
+  "description": "du 1er mars 1978.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\"><span style=\"font-family: Times New Roman;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\"><span style=\"font-family: Times New Roman;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">Par le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">chef du Gouvernement,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">HASSAN GOULED APTIDON.</span></p>",
+  "journal_issue_ids": 58249,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\"><span style=\"font-family: Times New Roman;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\"><span style=\"font-family: Times New Roman;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est créé auprès de la Présidence de la République un service dénommé Agence djiboutienne de l’Information destiné à diffuser sur le territoire de la République et à l’étranger, les informations utiles aux opinions publiques nationales et internationales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Cette agence éditera un bulletin quotidien dont le montant de l’abonnement sera fixé par arrêté du président.\n\n\nLe montant des recettes et dépenses afférentes à cette agence sera comptabilisé par le service de l’Information."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L’Agence djiboutienne de l’Information pourra émettre sur le réseau de télécommunications de la Présidence à destination des agences de presse et bureaux d’informations national étrangers.\n\n\nElle pourra à cette fin, établir toutes conventions utiles avec ces organismes, qui devront être ratifiées par le directeur de cabinet du président."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente loi sera exécutée et publiée au Journal officiel de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">Par le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">chef du Gouvernement,</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000ff; font-family: Times New Roman;\">HASSAN GOULED APTIDON.</span></p>"
+    }
+  ]
+}

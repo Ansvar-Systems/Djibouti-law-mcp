@@ -1,0 +1,37 @@
+{
+  "id": "loi-n212-an-82-portant-code-des-affaires-maritimes-2",
+  "type": "statute",
+  "title": "Loi n° 212/AN/82 portant code des Affaires Maritimes.",
+  "short_name": "Loi n° 212/AN/82 portant code des Affaires Maritimes.",
+  "status": "in_force",
+  "reference": "212/AN/82",
+  "issued_date": "1982-01-18",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n212-an-82-portant-code-des-affaires-maritimes-2/",
+  "description": "portant code des Affaires Maritimes.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>",
+  "signature": "<p style=\"margin: 0px;\">Par le pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin: 0px;\">&nbsp; &nbsp; &nbsp; &nbsp;HASSAN GOULED APTIDON.</p>",
+  "journal_issue_ids": 58289,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "chapter": "CHAPITRE 1 — er : CHAMP D’APPLICATION",
+      "content": ": Les dispositions du présent Code sont applicables à tous les navires immatriculés à Djibouti, aux États-Majors et équipage qui y sont embarqués, ainsi qu’à toutes les personnes, quelle que soit leur nationalité, qui bien que non présentes à bord auraient commis une infraction aux dispositions de la présente Loi ou de ses textes d’ application.\n\n\nToutefois, les navigateurs étrangers auxquels des accords de réciprocité passés entre leur pays d’origine et la République de Djibouti auront permis de naviguer à bord des navires djiboutiens, pourront, autant que les règlements régissant leur statut le leur permettent, continuer à bénéficier des avantages qui leur sont propres."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Par le pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin: 0px;\">&nbsp; &nbsp; &nbsp; &nbsp;HASSAN GOULED APTIDON.</p>"
+    }
+  ]
+}

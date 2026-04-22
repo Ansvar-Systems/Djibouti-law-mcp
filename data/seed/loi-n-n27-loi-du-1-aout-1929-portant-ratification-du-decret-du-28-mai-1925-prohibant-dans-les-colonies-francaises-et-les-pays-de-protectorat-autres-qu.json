@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-n27-loi-du-1-aout-1929-portant-ratification-du-decret-du-28-mai-1925-prohibant-dans-les-colonies-francaises-et-les-pays-de-protectorat-autres-qu",
+  "type": "statute",
+  "title": "Loi n° n°27 Loi du 1 août 1929 portant ratification du décret du 28 mai 1925, prohibant dans les colonies françaises et les pays de protectorat autres que le Maroc et la Tunisie, la sortie jetons frappés en bronze d’aluminium lorsque l’envoi. a pour destination des pays autres que la France, les. colonies et pays dé protectorat francais",
+  "short_name": "Loi n° n°27 Loi du 1 août 1929 portant ratification du décret du 28 mai 1925,…",
+  "status": "in_force",
+  "reference": "n°27",
+  "issued_date": "1929-08-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-n27-loi-du-1-aout-1929-portant-ratification-du-decret-du-28-mai-1925-prohibant-dans-les-colonies-francaises-et-les-pays-de-protectorat-autres-que-le-maroc-et-la-tunisie-la-sortie/",
+  "description": "Loi du 1 août 1929 portant ratification du décret du 28 mai 1925, prohibant dans les colonies françaises et les pays de protectorat autres que le Maroc et la Tunisie, la sortie jetons frappés en bronze d'aluminium lorsque l'envoi. a pour destination des pays autres que la France, les. colonies et pays dé protectorat francais",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique:</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p style=\"margin: 0px;\">andre maginot</p>\n<p style=\"margin: 0px;\">le ministre des finances</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">henry cheron</p>",
+  "journal_issue_ids": [
+    106011
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont&nbsp;adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1°. — Est ratifié et converti en loi le décret du 28 mai 1925 prohibant la sortie des colonies et pays de protectorat français, autres que la Tunisie et le Maroc, lorsque l’envoi a pour destination des pays autres que la France, les colonies et pays de protectorat francais, des jetons frappés en bronze d’aluminitim.\n\n Art. 2. — Le régime antérieur sera rétabli par décret rendu en la même forme que l’acte portant prohibition.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique:</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p style=\"margin: 0px;\">andre maginot</p>\n<p style=\"margin: 0px;\">le ministre des finances</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">henry cheron</p>"
+    }
+  ]
+}

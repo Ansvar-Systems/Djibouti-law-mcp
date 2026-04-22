@@ -1,0 +1,72 @@
+{
+  "id": "loi-de-finances-n2-77-portant-modification-de-limpot-general-de-solidarite-sur-les-revenus-et-les-benefices",
+  "type": "statute",
+  "title": "Loi de finances n° 2/77 portant modification de l’impôt général de solidarité sur les revenus et les bénéfices.",
+  "short_name": "Loi de finances n° 2/77 portant modification de l’impôt général de solidarité…",
+  "status": "in_force",
+  "reference": "2/77",
+  "issued_date": "1977-12-31",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n2-77-portant-modification-de-limpot-general-de-solidarite-sur-les-revenus-et-les-benefices/",
+  "description": "portant modification de l'impôt général de solidarité sur les revenus et les bénéfices.",
+  "nature": "Loi de finances",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>",
+  "signature": "",
+  "journal_issue_ids": 58246,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute; ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les dispositions de l’article 57 de la délibération n° 77/8e L du 23-12-74 sont abrogées et remplacées par des dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article 57",
+      "content": "§ 1 : Pour le calcul de l’impôt, toute fraction de bénéfice inférieure à 1000 FIS est négligée.\n\n\n§ 2 Le taux de l’impôt cet fixé à 15 % du bénéfice net imposable."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "L’article 77. § 1 : l’avant-dernier alinéa de la délibération n° 77/01 du 2.3 décembre 1974 est complété par l’alinéa suivant :"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Article 77",
+      "content": "§ 1.1 : L’ avant-dernier alinéa «elles ont régulièrement été portées sur les déclarations trimestrielles de la Caisse des Prestations sociales»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les dispositions de l’article 97 de la délibération n° 77/8e L du 23 décembre 1974 sont abrogées et remplacées par les dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Article 97",
+      "content": "§ 1 : Pour le calcul de l’impôt, toute fraction de bénéfice inférieure à 1000 FD est négligée.\n\n\n§ 2. Le taux de l’impôt sur les bénéfices fixé à 15 % du bénéfice net imposable."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Les dispositions de l’article 112 de la délibération n° 77/2° L du 23 décembre 1974 sont abrogées et remplacées par les dispositions suivantes :"
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Article 112",
+      "content": "§ 1 : Pour le calcul de l’impôt. toute fraction de bénéfice inférieure à 100 FD est négligée.\n\n\n§ 2. Le taux de l’impôt est fixé à 20% du bénéfice net imposable.\n\n\nLa présente loi sera exécutée comme loi d’État."
+    }
+  ]
+}

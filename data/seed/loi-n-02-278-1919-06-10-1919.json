@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-02-278-1919-06-10-1919",
+  "type": "statute",
+  "title": "Loi n° 02-278-1919 06/10/1919",
+  "short_name": "Loi n° 02-278-1919 06/10/1919",
+  "status": "in_force",
+  "reference": "02-278-1919",
+  "issued_date": "1919-10-06",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-02-278-1919-06-10-1919/",
+  "description": "06/10/1919",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "",
+  "signature": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique:</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du conseil, Ministre de la guerre,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">GEORGES CL&Eacute;MENCEAU.</p>\n<p style=\"margin: 0px;\">Le Ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L.-L. KLOTZ.</p>",
+  "journal_issue_ids": [
+    106086
+  ],
+  "provisions": [
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 10. — L’article 175 du code pénal est complété ainsi qu’il suit :\n\n « Tout fonctionnaire public, tout agent ou préposé d’une administration publique, chargé, à raison même de sa fonction, de la surveillance ou du contrôle direct d’une entreprise privée et qui, soit en position de congé ou de disponibilité, soit après admission à la retraite, soit après démission, destitution ou révocation, et pendant un délai de cinq ans à compter dela cessation de la fonction, prendra ou recevra une participation par travail, conseil ou capitaux (sauf par dévolution héréditaire en ce qui concerne les capitaux), dans les concessions, entreprises ou régies qui étaient directement soumises à sa surveillance ou à son contrôle, sera puni de la même peine d’emprisonnement et de 100 fr. à 5,000 fr. d’amende.\n\n « Il sera en outre frappé de l’incapacité édictée par le paragraphe 2 du présent article.\n\n « Les dirigeants des concessions, entreprises ou régies, considérés comme complices, seront frappés des mêmes peines.\n\n ……………………………………………………………………………………………………………………………….\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. POINCAR&Eacute;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique:</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du conseil, Ministre de la guerre,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">GEORGES CL&Eacute;MENCEAU.</p>\n<p style=\"margin: 0px;\">Le Ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L.-L. KLOTZ.</p>"
+    }
+  ]
+}

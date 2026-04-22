@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-45-369-etendant-aux-territoires-dependant-du-ministere-des-colonies-les-dispositions-de-lordonnance-du-4-decembre-1944-reprimant-la-destr",
+  "type": "statute",
+  "title": "Ordonnance n° 45-369 étendant aux territoires dépendant du Ministère des Colonies les dispositions de l’ordonnance du 4 décembre 1944 réprimant la destruction de certains documents.",
+  "short_name": "Ordonnance n° 45-369 étendant aux territoires dépendant du Ministère des…",
+  "status": "in_force",
+  "reference": "45-369",
+  "issued_date": "1945-03-10",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-45-369-etendant-aux-territoires-dependant-du-ministere-des-colonies-les-dispositions-de-lordonnance-du-4-decembre-1944-reprimant-la-destruction-de-certains-documents/",
+  "description": "étendant aux territoires dépendant du Ministère des Colonies les dispositions de l’ordonnance du 4 décembre 1944 réprimant la destruction de certains documents.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu l'erdonnance du 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4 septembre 1944;</p>\n<p style=\"margin: 0px;\">Vu le s&eacute;natus-consulte du 3 mai 1854;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;article 85 du code p&eacute;nal, modifi&eacute; par le d&eacute;cret-loi du 29 juillet 1939 ;</p>\n<p style=\"margin: 0px;\">Vu l'article 439 code p&eacute;nal ;</p>\n<p style=\"margin: 0px;\">Vu l'ordonnance du 4 d&eacute;cembre 1944 r&eacute;primant la destruction de certains documents;&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entendu,</p>",
+  "signature": "<p style=\"margin: 0px;\">DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,</p>\n<p style=\"margin: 0px;\">GIACCOBI.</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux, Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">F. DE MENTHON.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105827
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu l'erdonnance du 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances des 3 juin et 4 septembre 1944;</p>\n<p style=\"margin: 0px;\">Vu le s&eacute;natus-consulte du 3 mai 1854;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;article 85 du code p&eacute;nal, modifi&eacute; par le d&eacute;cret-loi du 29 juillet 1939 ;</p>\n<p style=\"margin: 0px;\">Vu l'article 439 code p&eacute;nal ;</p>\n<p style=\"margin: 0px;\">Vu l'ordonnance du 4 d&eacute;cembre 1944 r&eacute;primant la destruction de certains documents;&nbsp;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; juridique entendu,</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Sont déclarées applicables dans les territoires relevant du Ministère des Colonies, les dispositions de l’article 1er de l’ordonnance du 4 décembre 1944 réprimant la destruction de certains documents.\n\n\nArt 2. — Sont déclarées applicables dans les colonies de La Martinique, de La Guadeloupe et de La Réunion les dispositions de article 2 de l’ordonnance du 4 décembre 194 4 .\n\n\nArt. 3. — La présente ordonnance sera publiée au Journal Officiel de la République francaise et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">DE GAULLE.</p>\n<p style=\"margin: 0px;\">Par le Gouvernement provisoire</p>\n<p style=\"margin: 0px;\">de la R&eacute;publique fran&ccedil;aise :</p>\n<p style=\"margin: 0px;\">Le Ministre des Colonies,</p>\n<p style=\"margin: 0px;\">GIACCOBI.</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux, Ministre de la Justice,</p>\n<p style=\"margin: 0px;\">F. DE MENTHON.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

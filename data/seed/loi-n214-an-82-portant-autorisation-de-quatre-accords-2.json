@@ -1,0 +1,42 @@
+{
+  "id": "loi-n214-an-82-portant-autorisation-de-quatre-accords-2",
+  "type": "statute",
+  "title": "Loi n° 214/AN/82 portant autorisation de quatre accords.",
+  "short_name": "Loi n° 214/AN/82 portant autorisation de quatre accords.",
+  "status": "in_force",
+  "reference": "214/AN/82",
+  "issued_date": "1982-01-18",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n214-an-82-portant-autorisation-de-quatre-accords-2/",
+  "description": "portant autorisation de quatre accords.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-001 du 17 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>",
+  "signature": "<p style=\"margin: 0px;\">Par le pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin: 0px;\">&nbsp; HASSAN GOULED APTIDON.</p>",
+  "journal_issue_ids": 58289,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-001 du 17 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le Président de la République est autorisé à ratifier les accords suivants :\n\n\nRÉPUBLIQUE DE RWANDA :\n\n\n– Convention relative au transport et au transit ;\n\n\n– Accord commercial ;\n\n\n– Accord de transport aérien.\n\n\nRÉPUBLIQUE DE TANZANIE :\n\n\n– Accord de transport aérien."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente Loi sera publiée au Journal Officiel, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Par le pr&eacute;sident de la R&eacute;publique,</p>\n<p style=\"margin: 0px;\">&nbsp; HASSAN GOULED APTIDON.</p>"
+    }
+  ]
+}

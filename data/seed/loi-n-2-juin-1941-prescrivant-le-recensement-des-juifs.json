@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-2-juin-1941-prescrivant-le-recensement-des-juifs",
+  "type": "statute",
+  "title": "Loi n° 2 juin 1941 prescrivant le recensement des Juifs.",
+  "short_name": "Loi n° 2 juin 1941 prescrivant le recensement des Juifs.",
+  "status": "in_force",
+  "reference": "2 juin 1941",
+  "issued_date": "1941-06-02",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-2-juin-1941-prescrivant-le-recensement-des-juifs/",
+  "description": "prescrivant le recensement des Juifs.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat frangeais,</p>\n<p>Le Conseil les Ministres entendu.</p>",
+  "signature": "<p style=\"margin: 0px;\">PH. P&Eacute;tain.</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais ;</p>\n<p style=\"margin: 0px;\">L'Amiral de la flotte, Vice-Presidents du Consiel des Ministres.</p>\n<p style=\"margin: 0px;\">Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">DARLAN.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105865
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat frangeais,</p>\n<p>Le Conseil les Ministres entendu.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Toutes 1rs personnes qui sont juives au regard de la loi du 2 juin 1941 por tant statut des Juifs doivent, dans le délai d’un mois à compter de la publication de la présente loi, remettre au Préfet du département ou au Préfet de l’arrondissement dans lequel elles ont leur domicile ou résidence, une déclara tion écrite indiquant qu’elles sont Juives au regard de la loi et mentionnant leur état civil, leur situation de famille, leur profession et l’état de leurs biens.\n\n La déclaration est faite par le mari pour la femme et par le représentant légal pour le mineur ou l’interdit.\n\n Art. 2. – Toute infraction aux dispositions de l’article 1er est punir d’un emprisonnement d’un mois à un an et d’une amende de 100 à 10.000 francs ou d’une de ces deux peines seulement sans préjudice du droit pour le Préfet de prononcer l’internement dans un camp spécial, même si l’intéressé est Français.\n\n Art. 3. Des dispositions particulières fixeront les conditions dans lesquelles la présente loi sera appliquée à l’Algérie, aux colonies et dans les pays de protectorat, en Syrie et au Liban.\n\n Art. 4. Le présent décret sera publié au Journal officiel ri exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">PH. P&Eacute;tain.</p>\n<p style=\"margin: 0px;\">Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat fran&ccedil;ais ;</p>\n<p style=\"margin: 0px;\">L'Amiral de la flotte, Vice-Presidents du Consiel des Ministres.</p>\n<p style=\"margin: 0px;\">Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur.</p>\n<p style=\"margin: 0px;\">DARLAN.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

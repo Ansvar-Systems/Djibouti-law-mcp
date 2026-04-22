@@ -1,0 +1,30 @@
+{
+  "id": "ordonnance-n77-066-pr-portant-creation-dun-fonds-davances",
+  "type": "statute",
+  "title": "Ordonnance n° 77-066/PR portant création d’un fonds d’Avances.",
+  "short_name": "Ordonnance n° 77-066/PR portant création d’un fonds d’Avances.",
+  "status": "in_force",
+  "reference": "77-066/PR",
+  "issued_date": "1977-11-26",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-066-pr-portant-creation-dun-fonds-davances/",
+  "description": "portant création d’un fonds d’Avances.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin: 0px;\">Le pr&eacute;sident de la R&eacute;publique, chef du Gouvernement,</p>\n<p style=\"margin: 0px;\">Vu les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977,</p>\n<p style=\"margin: 0px;\">Vu la d&eacute;lib&eacute;ration n&deg; 475/6e IL du 24 mai 1968 portant r&eacute;glementation financi&egrave;re,</p>\n<p style=\"margin: 0px;\">Vu le d&eacute;cret n&deg; 77-010 du 15 juillet 1977 portant nomination des membres du Gouvernement,&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'urgence,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Conseil des Ministres entendu,</p>",
+  "signature": "",
+  "journal_issue_ids": 58244,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le pr&eacute;sident de la R&eacute;publique, chef du Gouvernement,</p>\n<p style=\"margin: 0px;\">Vu les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977,</p>\n<p style=\"margin: 0px;\">Vu la d&eacute;lib&eacute;ration n&deg; 475/6e IL du 24 mai 1968 portant r&eacute;glementation financi&egrave;re,</p>\n<p style=\"margin: 0px;\">Vu le d&eacute;cret n&deg; 77-010 du 15 juillet 1977 portant nomination des membres du Gouvernement,&nbsp;</p>\n<p style=\"margin: 0px;\">Vu l'urgence,&nbsp;</p>\n<p style=\"margin: 0px;\">Le Conseil des Ministres entendu,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Est créé un fonds d’avances qui fera l’objet de l’ouverture d’un compte spécial au Trésor et dont l’ordonnateur sera désigné par arrêté du président de la République.\n\n Art. 2. — Une avance de cinquante millions de francs Djibouti (50000 000 de FD) imputable au budget de l’Etat, exercice 1977 —— chapitre 44-01 —— article 20, sera virée au compte d’avances à titre de première dotation.\n\n Art. 3. — La présente ordonnance sera exécutée comme loi d’Etat et publiée suivant la procédure d’urgence ainsi qu’au « Journal officiel » de la République de Djibouti."
+    }
+  ]
+}

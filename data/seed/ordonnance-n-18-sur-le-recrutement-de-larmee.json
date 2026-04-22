@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-18-sur-le-recrutement-de-larmee",
+  "type": "statute",
+  "title": "Ordonnance n° 18 sur le recrutement de l’Armée.",
+  "short_name": "Ordonnance n° 18 sur le recrutement de l’Armée.",
+  "status": "in_force",
+  "reference": "18",
+  "issued_date": "1941-10-27",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-18-sur-le-recrutement-de-larmee/",
+  "description": "sur le recrutement de l'Armée.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Le G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National.</p>\n<p>Vu Ordonnance No. 16, du 24 septembre 1941, portant organisation nouvelle des pouvoirs publics de la France Libre ;</p>\n<p>Vu le Statut du Personnel des Forces I ran&ccedil;aises I ibres, du 7 ao&ucirc;t 1940, le Comit&eacute; National en avant d&eacute;lib&eacute;r&eacute; le 24 octobre 1941,</p>",
+  "signature": "<p>C. DE GAULLE.</p>\n<p>Par le Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National :</p>\n<p>Le Commissaire National p.i. &agrave; la Guerre,</p>\n<p>E. MUSELIER.</p>\n<p>Le Commissaire National &agrave; la Marine et &agrave; la Marine Marchande.</p>\n<p>E. MUSELIER.</p>\n<p>Le Commissaire National &agrave; LAir.</p>\n<p>M. VALIN.</p>\n<p>&nbsp;</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le G&eacute;n&eacute;ral de Gaulle.</p>\n<p>Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National.</p>\n<p>Vu Ordonnance No. 16, du 24 septembre 1941, portant organisation nouvelle des pouvoirs publics de la France Libre ;</p>\n<p>Vu le Statut du Personnel des Forces I ran&ccedil;aises I ibres, du 7 ao&ucirc;t 1940, le Comit&eacute; National en avant d&eacute;lib&eacute;r&eacute; le 24 octobre 1941,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Les hommes se présentant pour contracter un engagement volontaire dans les Forces Françaises Libres sont répartis entre les différentes armes suivant les règles qui font l’objet de la présente ordonnance.\n\n Art. 2. Les volontaires ayant déjà servi sous les drapeaux sont incorporés d’office dans leur arme d’origine. Les dérogations limitées à des cas individuels, ne pourront être accordées que par le Chef des Français Libres. Président du Comité National.\n\n Art. 3. Les volontaires justifiant d’une instruction particulièrement développée candidats aux grandes écoles, diplômes universitaires, etc. pourront servir dans larme de leur choix sur décision de la Commission de recrutement qui appréciera leurs titres.\n\n Art. 4. Les inscrits maritimes sont incorporés dans la Marine, à moins d avoir déjà effectivement servi dans une autre arme, auquel cas il leur est fait application de l’Art de 2.\n\n Art. 5. Les volontarres qui n’appartien nent à aucune des catégories précédentes se ront répartis entre les armées de Terre, de Mer et de l’Air suivant un pourcentage qui pourra varier selon les circonstances et qui sera fixé par décret.\n\n Art. 6. Le Commissaire National à la Guerre, le Commissaire National à la Marine et a la Marine Marchande et le Commissaire National à l Air sont chargés de l’exécution de la présente Ordonnance qui sera publiée au Journal Officiel de la France Libre."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE.</p>\n<p>Par le Chef des Fran&ccedil;ais Libres.</p>\n<p>Pr&eacute;sident du Comit&eacute; National :</p>\n<p>Le Commissaire National p.i. &agrave; la Guerre,</p>\n<p>E. MUSELIER.</p>\n<p>Le Commissaire National &agrave; la Marine et &agrave; la Marine Marchande.</p>\n<p>E. MUSELIER.</p>\n<p>Le Commissaire National &agrave; LAir.</p>\n<p>M. VALIN.</p>\n<p>&nbsp;</p>"
+    }
+  ]
+}

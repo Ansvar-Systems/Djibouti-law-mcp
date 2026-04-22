@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-45-2337-portant-creation-du-mouvement-national-depargne",
+  "type": "statute",
+  "title": "Ordonnance n° 45-2337 portant création du mouvement national d’épargne",
+  "short_name": "Ordonnance n° 45-2337 portant création du mouvement national d’épargne",
+  "status": "in_force",
+  "reference": "45-2337",
+  "issued_date": "1945-10-13",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-45-2337-portant-creation-du-mouvement-national-depargne/",
+  "description": "portant création du mouvement national d’épargne",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouvernement provisoire de la R&eacute;publique Fran&ccedil;aise,</p>\n<p>Sur le rapport du Ministre des finances,&nbsp;du Ministre de l&rsquo;Int&eacute;rieur, du Ministre des&nbsp;colonies et du Ministre des Affaires &eacute;trang&egrave;res.</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; Fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances&nbsp;des 3 juin et 4 septembre 1944 ;</p>\n<p>Le Conseil d'Etat entendu.</p>",
+  "signature": "<p>C. DE GAULLE.</p>\n<p>Par le Gouvernement provisoire&nbsp;de la R&eacute;publique Fran&ccedil;aise :</p>\n<p>Le Ministre des Finances,</p>\n<p>R. PLEVEN.</p>\n<p>Le Ministre des Affaires &eacute;trang&egrave;res,</p>\n<p>Georges BIDAULT.</p>\n<p>Le Ministre du Travail et de S&eacute;curit&eacute; Sociale</p>\n<p>Ministre de l&rsquo;Int&eacute;rieur par int&eacute;rim,</p>\n<p>Alexandre PARODI.</p>\n<p>Le Ministre des Colonies,</p>\n<p>P GIACOBBI.</p>",
+  "journal_issue_ids": [
+    105832
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouvernement provisoire de la R&eacute;publique Fran&ccedil;aise,</p>\n<p>Sur le rapport du Ministre des finances,&nbsp;du Ministre de l&rsquo;Int&eacute;rieur, du Ministre des&nbsp;colonies et du Ministre des Affaires &eacute;trang&egrave;res.</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant&nbsp;institution du Comit&eacute; Fran&ccedil;ais de la Lib&eacute;ration nationale, ensemble les ordonnances&nbsp;des 3 juin et 4 septembre 1944 ;</p>\n<p>Le Conseil d'Etat entendu.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "— Il est institué un mouvement national d’épargne, reconnu d’utilité publique, dont les statuts ci-annexés sont approuvés par la présente ordonnance.\n\n\nArt. 2. — Le mouvement national d’épargne est placé sous le haut patronage du Président du Gouvernement.\n\n\nArt. 3. — Le mouvement national d’épargne comprend :\n\n\na) le comité national d’épargne représenté dans chaque département par un délégué départemental assisté d’un comité consultatif et, dans les colonies, pays de protectorat et territoires sous mandat, par des comités coloniaux d’épargne ;\n\n\nb) des comités locaux d’épargne constitues sous la forme d’associations déclarées de la loi du 1er juillet 1901 et des groupes d’épargne régis par un règlement intérieur.\n\n\nArt. 4 —. Ne pourront prendre ou garder la dénomination de comités locaux d’épargne que les groupements d’épargne ayant, l’agrément du comité national d’épargne.\n\n\nArt. 5. — Les modifications aux statuts du mouvement national d’épargne seront approuvées par decret en Conseil d’État.\n\n\nArt. 6. — Un règlement d’administration publique fixera les règles d’organisation financière et de contrôle du mouvement tional na d’épargne.\n\n\nArt. 7. — La présente ordonnance sera publiée au Journal Officiel de la République Française et exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. DE GAULLE.</p>\n<p>Par le Gouvernement provisoire&nbsp;de la R&eacute;publique Fran&ccedil;aise :</p>\n<p>Le Ministre des Finances,</p>\n<p>R. PLEVEN.</p>\n<p>Le Ministre des Affaires &eacute;trang&egrave;res,</p>\n<p>Georges BIDAULT.</p>\n<p>Le Ministre du Travail et de S&eacute;curit&eacute; Sociale</p>\n<p>Ministre de l&rsquo;Int&eacute;rieur par int&eacute;rim,</p>\n<p>Alexandre PARODI.</p>\n<p>Le Ministre des Colonies,</p>\n<p>P GIACOBBI.</p>"
+    }
+  ]
+}

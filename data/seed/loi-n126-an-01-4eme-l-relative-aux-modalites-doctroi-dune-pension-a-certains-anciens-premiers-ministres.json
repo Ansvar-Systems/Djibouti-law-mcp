@@ -1,0 +1,60 @@
+{
+  "id": "loi-n126-an-01-4eme-l-relative-aux-modalites-doctroi-dune-pension-a-certains-anciens-premiers-ministres",
+  "type": "statute",
+  "title": "Loi n° 126/AN/01/4ème L relative aux modalités d’octroi d’une pension à certains anciens Premiers Ministres.",
+  "short_name": "Loi n° 126/AN/01/4ème L relative aux modalités d’octroi d’une pension à…",
+  "status": "in_force",
+  "reference": "126/AN/01/4ème L",
+  "issued_date": "2001-05-26",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n126-an-01-4eme-l-relative-aux-modalites-doctroi-dune-pension-a-certains-anciens-premiers-ministres/",
+  "description": "relative aux modalités d’octroi d’une pension à certains anciens Premiers Ministres.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">L&rsquo;ASSEMBLEE NATIONALE A ADOPTE</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LE PRESIDENT DE LA REPUBLIQUE PROMULGUE</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU La Constitution du 15 septembre 1992 ;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU Le D&eacute;cret n&deg;99-0059/PRE du 12 mai 1999 portant nomination des membres du Gouvernement Djiboutien et fixant leurs attributions ;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU Le D&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/arrete-n2001-0053-pre-accordant-des-transactions-immobilieres/'>2001-0053/PRE </a>du 04 mars 1992 portant nomination du Premier Ministre ;</p>",
+  "signature": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique,</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">chef du Gouvernement</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">ISMA&Iuml;L OMAR GUELLEH</p>",
+  "journal_issue_ids": 57838,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">L&rsquo;ASSEMBLEE NATIONALE A ADOPTE</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LE PRESIDENT DE LA REPUBLIQUE PROMULGUE</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU La Constitution du 15 septembre 1992 ;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU Le D&eacute;cret n&deg;99-0059/PRE du 12 mai 1999 portant nomination des membres du Gouvernement Djiboutien et fixant leurs attributions ;</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\">VU Le D&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/arrete-n2001-0053-pre-accordant-des-transactions-immobilieres/'>2001-0053/PRE </a>du 04 mars 1992 portant nomination du Premier Ministre ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Au terme de l’exercice de leur fonction, les anciens Premiers Ministres qui ont exercé la fonction de Premier Ministre pendant plus de quinze années sans interruption perçoivent une pension calculée sur l’indice le plus élevé de la catégorie supérieure des emplois de l’État."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Conformément aux dispositions du code des pensions, les ayants droit d’un ancien Premier Ministre qui a bénéficié de la pension prévue dans la présente Loi au titre de son article premier bénéficient en cas de décès du titulaire d’une pension de réversion."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La totalité de cette pension étant représentative de frais, elle n’est pas assujettie à l’impôt sur le revenu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Un décret précisera ultérieurement les avantages dont peuvent bénéficier les anciens Premiers Ministres qui répondent aux conditions prévues par la présente loi."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La présente Loi sera publiée au Journal Officiel de la République de Djibouti, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique,</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">chef du Gouvernement</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: -20px;\" align=\"right\">ISMA&Iuml;L OMAR GUELLEH</p>"
+    }
+  ]
+}

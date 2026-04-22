@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-5390-etendant-le-benefice-de-la-legislation-sur-les-pupilles-de-la-nation",
+  "type": "statute",
+  "title": "Loi n° 5390 étendant le bénéfice de la législation sur les pupilles de la nation.",
+  "short_name": "Loi n° 5390 étendant le bénéfice de la législation sur les pupilles de la…",
+  "status": "in_force",
+  "reference": "5390",
+  "issued_date": "1941-12-24",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-5390-etendant-le-benefice-de-la-legislation-sur-les-pupilles-de-la-nation/",
+  "description": "étendant le bénéfice de la législation sur les pupilles de la nation.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>",
+  "signature": "<p>l&rsquo;H. P&Eacute;TAIN. Par le Mar&eacute;chal de France. Chef de l'&Eacute;tat fran&ccedil;ais :</p>\n<p>L&rsquo;Amiral de la flotte, vice -pr&eacute;side nt du t&rsquo;emseil, Ministre Secr&eacute;taire d&rsquo;Etat &agrave; la d&eacute;fense naIionale. aux affaires &eacute;trang&egrave;res, &agrave; la marine et &agrave; la pierre par int&eacute;rim, DARLAN. Le Ministre Secr&eacute;taire d'Etat &agrave; l'&eacute;conomie nationale et aux finances. BOUTHILLIER.</p>\n<p>Le Garde des Sceaihr. Ministre Secr&eacute;taire d&rsquo;Etat &agrave; la justice. BARTH&Eacute;L&Eacute;MY.</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'int&eacute;rie ur, PUCHEU.</p>\n<p>Le G&eacute;n&eacute;rai de Brigade a&eacute;rienne, Secr&eacute;taire d'Etat &agrave; l'elriation, BERGERET. Le Vice-Amiral Secr&eacute;taire d'Etat aux colonies, Platon,&nbsp;</p>",
+  "journal_issue_ids": [
+    105849
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er . — Le bénéfice des dispositions de la loi du 27 juillet 1017 instituant les pupilles de la nation, modifiée par la loi du 20 octobre 1022 est étendu aux catégories d’enfants suivantes :\n\n 1° Aux orphelins dont le père ou le soutien de famille a été tué ou est mort de blessures reçues au cours d’opérations effectuées sur un théâtre d’opérations, par les armées de terre, de mer ou de l’air, lorsque de caractère l’opérations de guerre aura été reconnu par des arrêtés interministériels contresignés par les Secrétaires d’Etat intéressés et par le Secrétaire d’Etat à l’économie nationale et aux finances : 2° Aux enfants nés avant la fin des opérations visées au paragraphe précédent ou dans les trois cents jours qui auront suivi leur cesnation lorsque le père ou le soutien de famille se trouve, à raison de blessures reçues ou de maladies contractées au cours desdites opérations dans l’incapacité de pourvoir à leurs obligations et à leurs charges de chef de fa mille.\n\n Art. 2. – Ces dispositions sont applicables à l’Algérie, à la Tunisie, au Maroc, à la Sy rie. au Liban et aux territoires relevant du secrétariat d’État aux colonies.\n\n Art. 3. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’État."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>l&rsquo;H. P&Eacute;TAIN. Par le Mar&eacute;chal de France. Chef de l'&Eacute;tat fran&ccedil;ais :</p>\n<p>L&rsquo;Amiral de la flotte, vice -pr&eacute;side nt du t&rsquo;emseil, Ministre Secr&eacute;taire d&rsquo;Etat &agrave; la d&eacute;fense naIionale. aux affaires &eacute;trang&egrave;res, &agrave; la marine et &agrave; la pierre par int&eacute;rim, DARLAN. Le Ministre Secr&eacute;taire d'Etat &agrave; l'&eacute;conomie nationale et aux finances. BOUTHILLIER.</p>\n<p>Le Garde des Sceaihr. Ministre Secr&eacute;taire d&rsquo;Etat &agrave; la justice. BARTH&Eacute;L&Eacute;MY.</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'int&eacute;rie ur, PUCHEU.</p>\n<p>Le G&eacute;n&eacute;rai de Brigade a&eacute;rienne, Secr&eacute;taire d'Etat &agrave; l'elriation, BERGERET. Le Vice-Amiral Secr&eacute;taire d'Etat aux colonies, Platon,&nbsp;</p>"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite",
+  "type": "statute",
+  "title": "Loi n° 195/AN/25/9ème L portant création de l’Autorité Nationale de Cybersécurité.",
+  "short_name": "Loi n° 195/AN/25/9ème L portant création de l’Autorité Nationale de…",
+  "status": "in_force",
+  "reference": "195/AN/25/9ème L",
+  "issued_date": "2026-01-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n195-an-25-9eme-l-portant-creation-de-lautorite-nationale-de-cybersecurite/",
+  "description": "portant création de l'Autorité Nationale de Cybersécurité.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "L'ASSEMBLEE NATIONALE A ADOPTE LE PRESIDENT DE LA REPUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT\r\nVU La Constitution du 15 septembre 1992 ;\r\nVU La Loi Constitutionnelle n°92/AN/10/6ème L du 21 avril 2010 portant révision de la Constitution ;\r\nVU La Loi n°100/AN/15/7ème L du 11 juillet 2015 portant création de l'Agence Nationale des Systèmes d'Information de l'État ;\r\nVU La Loi n°56/AN/19/8ème L du 17 juillet 2019 portant régime juridique des établissements publics ;\r\nVU La Loi n°18/AN/23/9ème L du 21 janvier 2024 portant ratification de la Convention de l'Union Africaine sur la cybersécurité et la protection des données à caractère personnel (Convention de Malabo) ;\r\nVU La Loi n°19/AN/23/9ème L du 18 septembre 2025 portant Code Numérique de la République de Djibouti ;\r\nVU Le Décret n°2006-0106/PRE du 13 avril 2006 portant création d'une Unité de Coordination du projet e-gouvernement ;\r\nVU Le Décret n°2012-215/PRE du 30 septembre 2012 portant création du Comité National de Coordination du Projet e-gouvernement ;\r\nVU Le Décret n°2021-105/PRE du 24 mai 2021 portant nomination du Premier Ministre ;\r\nVU Le Décret n°2021-106/PRE du 24 mai 2021 portant nomination des membres du Gouvernement ;\r\nVU Le Décret n°2021-114/PRE du 31 mai 2021 fixant les attributions des Ministères;\r\nVU Le Décret n°2022-001/PRE du 02 janvier 2022 portant remaniement Ministériel;\r\nVU Le Décret n°2025-082/PRE du 01 avril 2025 portant nomination d'un nouveau membre du Gouvernement ;\r\nVU La Circulaire n°178/PAN/AI du 10/11/2025 portant convocation de l'Assemblée Nationale en séance publique.\r\n\r\nLe Conseil des Ministres entendu en sa séance du 04 Novembre 2025.\r\n\r\nA ADOPTÉ, EN SA DEUXIEME SEANCE PUBLIQUE DU 12/11/2025, LA LOI DONT LA TENEUR SUIT :",
+  "signature": "Le Président de la République,\r\nChef du Gouvernement\r\nISMAÏL OMAR GUELLEH",
+  "journal_issue_ids": [
+    209519
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "L'ASSEMBLEE NATIONALE A ADOPTE LE PRESIDENT DE LA REPUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT\r\nVU La Constitution du 15 septembre 1992 ;\r\nVU La Loi Constitutionnelle n°92/AN/10/6ème L du 21 avril 2010 portant révision de la Constitution ;\r\nVU La Loi n°100/AN/15/7ème L du 11 juillet 2015 portant création de l'Agence Nationale des Systèmes d'Information de l'État ;\r\nVU La Loi n°56/AN/19/8ème L du 17 juillet 2019 portant régime juridique des établissements publics ;\r\nVU La Loi n°18/AN/23/9ème L du 21 janvier 2024 portant ratification de la Convention de l'Union Africaine sur la cybersécurité et la protection des données à caractère personnel (Convention de Malabo) ;\r\nVU La Loi n°19/AN/23/9ème L du 18 septembre 2025 portant Code Numérique de la République de Djibouti ;\r\nVU Le Décret n°2006-0106/PRE du 13 avril 2006 portant création d'une Unité de Coordination du projet e-gouvernement ;\r\nVU Le Décret n°2012-215/PRE du 30 septembre 2012 portant création du Comité National de Coordination du Projet e-gouvernement ;\r\nVU Le Décret n°2021-105/PRE du 24 mai 2021 portant nomination du Premier Ministre ;\r\nVU Le Décret n°2021-106/PRE du 24 mai 2021 portant nomination des membres du Gouvernement ;\r\nVU Le Décret n°2021-114/PRE du 31 mai 2021 fixant les attributions des Ministères;\r\nVU Le Décret n°2022-001/PRE du 02 janvier 2022 portant remaniement Ministériel;\r\nVU Le Décret n°2025-082/PRE du 01 avril 2025 portant nomination d'un nouveau membre du Gouvernement ;\r\nVU La Circulaire n°178/PAN/AI du 10/11/2025 portant convocation de l'Assemblée Nationale en séance publique.\r\n\r\nLe Conseil des Ministres entendu en sa séance du 04 Novembre 2025.\r\n\r\nA ADOPTÉ, EN SA DEUXIEME SEANCE PUBLIQUE DU 12/11/2025, LA LOI DONT LA TENEUR SUIT :"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "chapter": "TITRE I — DISPOSITIONS GÉNÉRALES",
+      "content": "Il est créé une Autorité Nationale de Cybersécurité (ANC), établissement public à caractère administratif doté de la personnalité juridique et de l’autonomie financière et administrative.\n\n\nLe siège de l’Autorité Nationale de Cybersécurité (ANC) est fixé à Djibouti."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "chapter": "TITRE I — DISPOSITIONS GÉNÉRALES",
+      "content": "L’Autorité Nationale de Cybersécurité dénommée ANC est rattachée à la Présidence de la République sous la supervision de la Direction Générale de la Sécurité Nationale de la République."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "chapter": "TITRE I — DISPOSITIONS GÉNÉRALES",
+      "content": "Au sens de la présente loi, on entend par :\n\n\n– Cybersécurité : Ensemble des mesures visant à garantir la résilience, l’intégrité, la confidentialité et la disponibilité des systèmes d’information ;\n\n\n– Cybercriminalité : Toute infraction pénale commise au moyen d’un système informatique ou contre un système d’information, y compris les accès non autorisés, les atteintes aux données, les fraudes électroniques, et les infractions facilitées par les technologies numériques ;\n\n\n– Infrastructure d’importance vitale : Installation, système ou service dont l’indisponibilité compromettrait gravement la sécurité nationale, l’économie ou la santé publique ;\n\n\n– Opérateur d’importance vitale : Personne publique ou privée gestionnaire d’une infrastructure d’importance vitale ;\n\n\n– Incident de sécurité : Événement compromettant ou susceptible de compromettre la sécurité d’un système d’information ;\n\n\n– Souveraineté numérique : Capacité de l’État à exercer son autorité et à protéger ses intérêts dans le cyberespace ;\n\n\n– Technologies émergentes stratégiques : Technologies innovantes présentant un potentiel stratégique majeur pour la souveraineté numérique et la sécurité nationale, notamment l’intelligence artificielle, l’informatique quantique, la cryptographie post quantique, la 5G/6G, la blockchain et l’internet des objets ;\n\n\n– Manipulation de l’information : Diffusion intentionnelle et massive de nouvelles fausses ou trompeuses dans le but d’influencer l’opinion publique ou de déstabiliser les institutions ;\n\n\n– Cyberattaque : Action malveillante visant à compromettre la sécurité d’un système d’information ;\n\n\n– Crise cybernétique majeure : Situation résultant d’une ou plusieurs cyberattaques affectant gravement les infrastructures d’importance vitale ou le fonctionnement normal de l’État ;\n\n\n– Résilience numérique : Capacité des systèmes d’information à résister et à se rétablir après une cyberattaque ;\n\n\n– Identité numérique : Ensemble des attributs liés à une entité qui permet de l’identifier dans l’environnement numérique ;\n\n\n– Incident de sécurité significatif : Incident susceptible d’affecter la continuité de service d’une infrastructure d’importance vitale pendant plus de quatre heures consécutives ou compromettant l’intégrité de données sensibles ;\n\n\n– Urgence cybernétique caractérisée : Situation présentant un risque imminent et documenté de compromission grave d’une infrastructure d’importance vitale ;\n\n\n– Mesure technique proportionnée : Mesure strictement nécessaire à la neutralisation de la menace, d’impact minimal sur le fonctionnement normal des systèmes ;\n\n\n– Attribution technique établie : Identification de l’origine d’une cyberattaque fondée sur des preuves techniques documentées selon des critères objectifs."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "chapter": "TITRE II — MISSIONS",
+      "content": "L’Autorité Nationale de Cybersécurité est chargée de définir, coordonner et mettre en œuvre la politique nationale de cybersécurité.\n\n\nÀ ce titre, l’ANC exerce les missions suivantes :\n\n\n1. Élaborer et mettre en œuvre la stratégie nationale de cybersécurité ;\n\n\n2. Assurer la protection des systèmes d’information de l’État et des opérateurs d’importance vitale ;\n\n\n3. Gérer et sécuriser les infrastructures de communication électronique dédiées aux besoins souverains de l’État ;\n\n\n4. Assurer les fonctions de Computer Emergency Response Team (CERT) national ;\n\n\n5. Promouvoir et accompagner la création des CERT/SOCs sectoriels ;\n\n\n6. Prévenir, détecter et contrer les opérations d’ingérence numérique, de manipulation de l’information et de désinformation susceptibles de porter atteinte aux intérêts fondamentaux de la Nation ;\n\n\n7. Développer l’écosystème national de cybersécurité et promouvoir la souveraineté numérique ;\n\n\n8. Coopérer avec les partenaires nationaux et internationaux dans le respect des intérêts fondamentaux de la Nation ;\n\n\n9. Évaluer l’impact des technologies émergentes stratégiques sur la cybersécurité nationale et contribuer à l’élaboration de cadres normatifs adaptés ;\n\n\n10. Contribuer au développement de solutions souveraines fondées sur des technologies émergentes stratégiques ;\n\n\n11. Contribuer à la protection des données personnelles des citoyens face aux menaces cybernétiques, en coordination avec la commission nationale de protection des données ;\n\n\n12. Coordonner les initiatives de protection des enfants en ligne, en collaboration avec les autorités compétentes, afin de prévenir les contenus illicites, les abus et les risques liés à l’usage du numérique par les mineurs ;\n\n\n13. Veiller à la prise en compte des besoins spécifiques des personnes handicapées dans l’élaboration et la sécurisation des services numériques, en promouvant l’accessibilité, l’inclusion et la protection contre les menaces cybernétiques ;\n\n\n14. Assurer la gestion des aspects techniques de l’identité numérique et veiller à la sécurité des systèmes d’authentification électronique nationaux ;\n\n\n15. Évaluer et approuver préalablement les services et solutions numériques destinés aux institutions publiques et aux opérateurs d’importance vitale, afin d’en mesurer l’impact sur la souveraineté numérique et la sécurité nationale ;\n\n\n16. Collaborer étroitement avec les autorités compétentes, notamment les ministères chargés de la justice, de l’intérieur et de la défense, les autorités judiciaires et les forces de sécurité intérieure, dans la prévention, la détection, l’enquête et la pour suite des infractions commises au moyen des technologies de l’information et de la communication ;\n\n\n17. Organiser, en coordination avec les autorités compétentes, des sessions de formation continue destinées aux magistrats, enquêteurs et officiers de police judiciaire en matière de cybercriminalité."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "chapter": "TITRE II — MISSIONS",
+      "content": "Dans l’exercice de ses missions, l’ANC agit dans le respect des lois et des règlements en vigueur, notamment ceux relatifs à la protection des données à caractère personnel et aux libertés fondamentales. Son action est guidée par les principes de nécessité, de proportionnalité, d’impartialité et de transparence."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "chapter": "TITRE III — ORGANISATION",
+      "content": "Il est institué un Conseil National de Cybersécurité, présidé par le Directeur Général de la Sécurité Nationale :\n\n\n– Il définit les orientations stratégiques nationales en matière de cybersécurité etassure la coordination interministérielle en cas de crise majeure ;\n\n\n– Il exerce les fonctions de Conseil d’Administration de l’ANC.\n\n\nUn décret pris en Conseil des Ministres précise la composition et les modalités de fonctionnement du Conseil National de Cybersécurité."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "chapter": "TITRE III — ORGANISATION",
+      "content": "L’Autorité Nationale de la Cybersécurité (ANC) est dirigée par un Directeur Général nommé par décret pris en Conseil des Ministres. Elle est structurée en unités spécialisées chargées de la mise en œuvre opérationnelle de ses missions.\n\n\nCes unités spécialisées ayant rang de direction dans la hiérarchie administrative. Placées sous l’autorité du Directeur Général, les unités spécialisées initiales de l’ANC sont les suivantes :\n\n\n– L’Unité de détection, de réponse et de coordination aux incidents de cybersécurité (DJ-CERT) ;\n\n\n– L’Unité de la gouvernance, du risque et de la résilience ;\n\n\n– L’Unité des technologies émergentes et de la sécurité de l’identité numérique ;\n\n\n– L’Unité des services support.\n\n\nCes unités initiales peuvent être modifiées, réorganisées ou complétées, en fonction des besoins opérationnels ou stratégiques, par décision du Directeur Général, après approbation du Conseil National de Cybersécurité.\n\n\nLes différents organes de fonctionnement de l’autorité seront précisés par acte règlementaire."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "chapter": "TITRE III — ORGANISATION",
+      "content": "L’ANC est dotée d’un agent comptable. La gestion financière et comptable s’exerce dans les conditions prévues par les dispositions relatives aux établissements publics administratifs."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9",
+      "chapter": "TITRE IV — POUVOIRS",
+      "content": "Dans l’exercice de ses missions, l’ANC dispose des prérogatives suivantes :\n\n\n– Édicter des règles de sécurité applicables aux systèmes d’information de l’État et des opérateurs d’importance vitale, après consultation des entités concernées ;\n\n\n– Contrôler le respect de ces règles et procéder aux audits nécessaires ;\n\n\n– Enjoindre la mise en œuvre de mesures correctives en cas de vulnérabilité critique ;\n\n\n– Certifier la conformité des produits et des systèmes de sécurité;\n\n\n– Identifier et proposer au Gouvernement la liste initiale des opérateurs d’importance vitale (OIV) ;\n\n\n– Alerter les autorités et le public des menaces majeures ;\n\n\n– Sanctionner les manquements dans les conditions prévues par la présente loi ;\n\n\n– Qualifier les campagnes de manipulation de l’information d’origine étrangère et en informer les autorités compétentes et les opérateurs concernés ;\n\n\n– Définir les normes techniques relatives à l’identité numérique et certifier les solutions d’authentification électronique.\n\n\nCes prérogatives s’exercent dans le respect du principe de subsidiarité, privilégiant l’accompagnement et l’autorégulation avant les mesures contraignantes."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10",
+      "chapter": "TITRE IV — POUVOIRS",
+      "content": "Les agents habilités de l’ANC peuvent accéder aux systèmes d’information dans le cadre de leurs missions, en présence du responsable du système ou de son représentant, sauf cas d’urgence cybernétique caractérisée.\n\n\nUn préavis de quarante-huit heures est notifié au responsable du système, sauf urgence caractérisée dûment motivée.\n\n\nL’accès est limité aux données strictement nécessaires à l’accomplissement de la mission.\n\n\nUn procès-verbal contradictoire est établi à l’issue de chaque intervention.\n\n\nLe secret des affaires ne peut pas être opposé à l’ANC dans l’exercice de ses missions."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11",
+      "chapter": "TITRE IV — POUVOIRS",
+      "content": "L’ANC est habilitée à qualifier le niveau de menace cybernétique nationale et à déclencher les mesures correspondantes.\n\n\nLa qualification du niveau de menace s’appuie sur des critères techniques objectifs, notamment la gravité, l’ampleur et l’origine de la menace, conformément aux standards internationaux reconnus. Les modalités d’application du présent alinéa sont fixées par décret pris en Conseil des Ministres."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12",
+      "chapter": "TITRE IV — POUVOIRS",
+      "content": "En cas de crise cybernétique majeure constituant une menace grave et imminente pour la sécurité nationale, l’ANC peut, sur décision du Conseil National de Cybersécurité et pour une durée strictement limitée à la résolution de la crise :\n\n\n– Imposer aux opérateurs d’importance vitale des mesures techniques proportionnées nécessaires pour faire face à la menace;\n\n\n– Ordonner l’isolement temporaire de certains systèmes d’information des réseaux publics pour une durée maximale de quarante-huit heures, non renouvelable sauf autorisation du juge administratif ;\n\n\n– Ordonner la mise hors service des systèmes compromis jusqu’à leur remise en sécurité, dans la limite de sept jours, sauf autorisation judiciaire pour une durée supérieure.\n\n\nCes mesures exceptionnelles sont prises par décision motivée notifiée. Elles sont strictement proportionnées à la gravité de la menace. Un compte rendu des mesures prises est adressé dans les quarante-huit heures au président de la République."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13",
+      "chapter": "TITRE V — OBLIGATIONS ET SANCTIONS",
+      "content": "Les opérateurs d’importance vitale (OIV) sont tenus de :\n\n\n– Mettre en œuvre les mesures de sécurité prescrites par l’ANC;\n\n\n– Notifier sans délai tout incident de sécurité significatif ;\n\n\n– Coopérer aux investigations en cas d’incident majeur."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14",
+      "chapter": "TITRE V — OBLIGATIONS ET SANCTIONS",
+      "content": "Le non-respect des obligations prévues par la présente loi est passible de sanctions administratives prononcées par l’ANC après procédure contradictoire.\n\n\nLes sanctions administratives peuvent comprendre :\n\n\n– Une mise en demeure de se conformer aux obligations dans un délai déterminé ;\n\n\n– Une amende administrative dont le montant ne peut pas excéder 2% du chiffre d’affaires annuel mondial total de l’exercice précédent pour les entreprises privées ou 1% du budget annuel pour les entités publiques ;\n\n\n– À titre exceptionnel et en cas de risque grave et imminent pour la sécurité nationale, une interdiction temporaire d’exploiter certains systèmes d’information pour une durée maximale d’un mois, renouvelable une fois sur décision motivée.\n\n\nLes sanctions sont motivées, proportionnées et tiennent compte de la capacité financière de l’entité sanctionnée."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15",
+      "chapter": "TITRE V — OBLIGATIONS ET SANCTIONS",
+      "content": "Les décisions prises en application des articles 11 et 13 font l’objet d’un recours suspensif devant le juge administratif dans un délai de quarante-huit heures pour les mesures d’urgence et de trente jours pour les sanctions administratives.\n\n\nLe juge administratif statue en référé dans un délai de soixante douze heures pour les recours contre les mesures d’urgence."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article 16",
+      "chapter": "TITRE V — OBLIGATIONS ET SANCTIONS",
+      "content": "Les décisions de sanction de l’ANC sont susceptibles de recours devant la juridiction administrative compétente."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article 17",
+      "chapter": "TITRE VI — COOPÉRATION ET TRANSPARENCE",
+      "content": "L’ANC anime l’écosystème national de cybersécurité et peut conclure des conventions de partenariat avec les acteurs publics et privés."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article 18",
+      "chapter": "TITRE VI — COOPÉRATION ET TRANSPARENCE",
+      "content": "L’ANC coopère avec ses homologues étrangers et les organisations internationales compétentes dans le respect des intérêts fondamentaux de la Nation.\n\n\nCette coopération peut notamment prendre la forme :\n\n\n– D’échanges d’informations sur les menaces et vulnérabilités ;\n\n\n– De participation à des exercices internationaux de gestion de crise ;\n\n\n– De contribution aux initiatives de renforcement des capacités régionales ;\n\n\n– D’assistance technique aux pays partenaires.\n\n\nL’échange d’informations avec les partenaires étrangers respecte la législation nationale sur la protection des données. Aucune donnée personnelle de citoyens djiboutiens n’est transmise sans garanties équivalentes de protection dans le pays destinataire.\n\n\nL’ANC représente la République de Djibouti dans les instances internationales spécialisées en matière de cybersécurité."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article 19",
+      "chapter": "TITRE VI — COOPÉRATION ET TRANSPARENCE",
+      "content": "L’ANC établit un rapport annuel d’activité soumis au président de la République et présenté à l’Assemblée nationale.\n\n\nElle publie semestriellement des statistiques anonymisées sur les incidents traités et les mesures prises."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article 20",
+      "chapter": "TITRE VI — COOPÉRATION ET TRANSPARENCE",
+      "content": "Les agents de l’ANC sont astreints au secret professionnel et au secret de la défense nationale dans les conditions prévues par le Code pénal."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article 21",
+      "chapter": "TITRE VI — COOPÉRATION ET TRANSPARENCE",
+      "content": "L’ANC peut créer en son sein une unité de recherche et d’innovation dédié en cybersécurité et aux technologies émergentes stratégiques. Cette unité peut conclure des partenariats avec les institutions académiques et les acteurs industriels nationaux et internationaux."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article 22",
+      "chapter": "TITRE VII — RESSOURCES",
+      "content": "Les ressources de l’ANC comprennent :- Les crédits inscrits au budget de l’État ;- Le produit des redevances pour services rendus ;- Le produit des sanctions pécuniaires ;- Les dons et legs autorisés ;- Toute autre ressource prévue par la loi."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article 23",
+      "chapter": "TITRE VII — RESSOURCES",
+      "content": "L’ANC est soumise au contrôle financier de l’État dans les conditions applicables aux établissements publics."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article 24",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "La Direction de la Sécurité des Systèmes d’Information (DSSI) de l’Agence Nationale des Systèmes d’Information de l’État (ANSIE) constitue le noyau initial de l’ANC. Les missions, moyens et personnels de cette direction sont transférés à l’ANC.\n\n\nLes attributions, les moyens matériels et financiers ainsi que le personnel relevant de ladite direction sont transférés de plein droit à l’ANC.\n\n\nLa loi n°100/AN/15/7ème L portant création de l’Agence Nationale des Systèmes d’Information de l’État (ANSIE) est ainsi modifiée :\n\n\n1- Les dispositions relatives à la Direction de la Sécurité des Systèmes d’information sont abrogées ;\n\n\n2- Les missions relatives à la sécurité des systèmes d’information de l’Etat précédemment exercées par l’ANSIE, sont transférées à l’ANC ;\n\n\n3- Sont abrogées toutes dispositions de la loi N°100/AN/15/7ème L portant création de l’Agence Nationale des Systèmes d’Information de l’État (ANSIE), contraires aux présentes dispositions."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article 25",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "Le personnel de la direction mentionnée à l’article précédent, transféré à l’ANC, est intégré de plein droit à celle-ci.\n\n\nIl conserve le bénéfice de son statut ainsi que l’ensemble de ses droits acquis."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article 26",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "Pour renforcer ses capacités, l’ANC peut recruter :- Des agents de la fonction publique par voie de détachement ou de mise à disposition ;- Un personnel contractuel."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article 27",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "Le recrutement des agents de la fonction publique s’effectue par voie de concours ouverts aux agents publics justifiants des qualifications requises.\n\n\nCes concours comportent des épreuves techniques spécifiques aux métiers de la cybersécurité et des technologies émergentes.\n\n\nIls sont organisés selon des principes garantissant l’égalité des chances et la sélection des candidats selon leurs compétences et aptitudes.\n\n\nLes modalités d’organisation de ces concours, la composition des jurys et les conditions d’aptitude requises des candidats sont fixées par arrêté."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article 28",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "L’ANC contribue à la valorisation des expertises techniques au sein de l’État et peut proposer des programmes de formation au bénéfice des agents publics."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article 29",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "Les modalités d’application de la présente loi sont fixées par décret en Conseil des Ministres."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article 30",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "Les dispositions de la présente loi font l’objet d’une révision quinquennale pour tenir compte de l’évolution technologique et des retours d’expérience."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article 31",
+      "chapter": "TITRE VIII — DISPOSITIONS TRANSITOIRES ET FINALES",
+      "content": "La présente Loi sera enregistrée et publiée au Journal Officiel de la République de Djibouti, dès sa promulgation.\n\n\nFait à Djibouti, le 14 Décembre 2025"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "Le Président de la République,\r\nChef du Gouvernement\r\nISMAÏL OMAR GUELLEH"
+    }
+  ]
+}

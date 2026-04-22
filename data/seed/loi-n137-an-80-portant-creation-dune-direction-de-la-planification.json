@@ -1,0 +1,54 @@
+{
+  "id": "loi-n137-an-80-portant-creation-dune-direction-de-la-planification",
+  "type": "statute",
+  "title": "Loi n° 137/AN/80 portant création d’une Direction de la Planification.",
+  "short_name": "Loi n° 137/AN/80 portant création d’une Direction de la Planification.",
+  "status": "in_force",
+  "reference": "137/AN/80",
+  "issued_date": "1980-09-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n137-an-80-portant-creation-dune-direction-de-la-planification/",
+  "description": "portant création d'une Direction de la Planification.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBLEE NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; 77-001 et 77-002 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072/PR du 2 Octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58269,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBLEE NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; 77-001 et 77-002 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072/PR du 2 Octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– Il est crée une Direction de la Planification attachée à la Présidence de la République.\n\n\nLe Directeur de la Planification est nommé par arrêté du Président de la République pris en conseil des Ministres."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– Les principales missions de la Direction de la Planification sont :\n\n\n1°) la collecte et l’analyse des données statistiques,\n\n\n2°) la programmation économique et sociale,\n\n\n3°) l’élaboration d’un plan conformément aux directives du Gouvernement."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "– Un décret pris en conseil des Ministres précise les modalités d’organisation et de fonctionnement de la Direction de la Planification."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "– La présente loi sera enregistrée et publiée au Journal Officiel de la République de Djibouti, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

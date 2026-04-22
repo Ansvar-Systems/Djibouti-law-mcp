@@ -1,0 +1,42 @@
+{
+  "id": "loi-n246-an-82-portant-approbation-dun-pret-du-fonds-koweitien-pour-le-developpement-economique-arabe",
+  "type": "statute",
+  "title": "Loi n° 246/AN/82 portant approbation d’un prêt du Fonds Koweitien pour le Développement Economique Arabe.",
+  "short_name": "Loi n° 246/AN/82 portant approbation d’un prêt du Fonds Koweitien pour le…",
+  "status": "in_force",
+  "reference": "246/AN/82",
+  "issued_date": "1982-04-20",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n246-an-82-portant-approbation-dun-pret-du-fonds-koweitien-pour-le-developpement-economique-arabe/",
+  "description": "portant approbation d'un prêt du Fonds Koweitien pour le Développement Economique Arabe.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>",
+  "signature": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef de Gouvernement,<br />HASSAN GOULED APTIDON.</p>",
+  "journal_issue_ids": 58290,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est approuvé l’accord de prêt entre la République de Djibouti et le Fonds Koweitien pour le Développement Économique Arabe sur un montant de Cinq Cent Mille dinars koweitiens tel que annexé à la présente loi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera publiée au Journal Officiel de la République de Djibouti, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef de Gouvernement,<br />HASSAN GOULED APTIDON.</p>"
+    }
+  ]
+}

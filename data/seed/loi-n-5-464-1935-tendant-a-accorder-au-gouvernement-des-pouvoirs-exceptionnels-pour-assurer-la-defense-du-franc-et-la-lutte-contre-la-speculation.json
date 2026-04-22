@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-5-464-1935-tendant-a-accorder-au-gouvernement-des-pouvoirs-exceptionnels-pour-assurer-la-defense-du-franc-et-la-lutte-contre-la-speculation",
+  "type": "statute",
+  "title": "Loi n° 5-464-1935 tendant à accorder au Gouvernement des pouvoirs exceptionnels pour assurer la défense du franc et la lutte contre la spéculation.",
+  "short_name": "Loi n° 5-464-1935 tendant à accorder au Gouvernement des pouvoirs exceptionnels…",
+  "status": "in_force",
+  "reference": "5-464-1935",
+  "issued_date": "1935-06-08",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-5-464-1935-tendant-a-accorder-au-gouvernement-des-pouvoirs-exceptionnels-pour-assurer-la-defense-du-franc-et-la-lutte-contre-la-speculation/",
+  "description": "tendant à accorder au Gouvernement des pouvoirs exceptionnels pour assurer la défense du franc et la lutte contre la spéculation.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">ALBERT LEBRUN.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil,</p>\n<p style=\"margin: 0px;\">Ministre des affaires &eacute;trang&egrave;res,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Pierre LavaL.</p>",
+  "journal_issue_ids": [
+    105935
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — En vue d’éviter la dévaluation de la monnaie, le Sénat et la Chambre ces députés autorisent le Gouvernement à prendre par décrets, jusqu’au 31 octobre 1935, toutes dispositions ayant force de lol pour lutter contre la spéculation et défendre le france.\n\n Les décrets, pris en Conseil des Ministres, seront soumis à ln ratificat ion des Chambres avant le 1er janvier 1936.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">ALBERT LEBRUN.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil,</p>\n<p style=\"margin: 0px;\">Ministre des affaires &eacute;trang&egrave;res,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Pierre LavaL.</p>"
+    }
+  ]
+}

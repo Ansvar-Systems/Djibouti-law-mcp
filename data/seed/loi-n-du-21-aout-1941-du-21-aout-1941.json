@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-du-21-aout-1941-du-21-aout-1941",
+  "type": "statute",
+  "title": "Loi n° du 21 août 1941. du 21 août 1941.",
+  "short_name": "Loi n° du 21 août 1941. du 21 août 1941.",
+  "status": "in_force",
+  "reference": "du 21 août 1941.",
+  "issued_date": "1941-08-21",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-du-21-aout-1941-du-21-aout-1941/",
+  "description": "du 21 août 1941.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Vu l'article 8 de la lui du 29 ao&ucirc;t 1940;</p>\n<p>Sur le rapport du Ministre Secr&eacute;taire d&rsquo;Etat &agrave; l&rsquo;int&eacute;rieur,</p>",
+  "signature": "<p>Pu. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur,</p>\n<p>PUCHEU.</p>",
+  "journal_issue_ids": [
+    105869
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Vu l'article 8 de la lui du 29 ao&ucirc;t 1940;</p>\n<p>Sur le rapport du Ministre Secr&eacute;taire d&rsquo;Etat &agrave; l&rsquo;int&eacute;rieur,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Dans chaque département la mise sous séquestre des biens des associations dissoutes en exécution de l’article 5 de la loi du 29 août 1940 est prononcée par arrêté du préfet qui désignera en même temps un administrateur séquestre.\n\n Ce séquestre sera chargé de prendre en ce qui concerne ces biens toutes mesures conser vatoires.\n\n Art. 2. — Le présent décret sera publié au Journal officiel et exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Pu. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur,</p>\n<p>PUCHEU.</p>"
+    }
+  ]
+}

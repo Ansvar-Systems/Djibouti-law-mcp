@@ -1,0 +1,71 @@
+{
+  "id": "ordonnance-nlr-77-008",
+  "type": "statute",
+  "title": "Ordonnance n° LR/77-008",
+  "short_name": "Ordonnance n° LR/77-008",
+  "status": "in_force",
+  "reference": "LR/77-008",
+  "issued_date": "1977-06-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-nlr-77-008/",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg;1</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg;2 et sp&eacute;cialement en son article premier</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Consid&eacute;rant la n&eacute;cessit&eacute; d'assurer la continuit&eacute; du fonctionnement de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">jusqu'&agrave; l'instauration de l'ensemble des institutions r&eacute;publicaines r&eacute;sultant de la ratification</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">de la future constitution nationale,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Le Conseil des Ministres, entendu</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58234,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg;1</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg;2 et sp&eacute;cialement en son article premier</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Consid&eacute;rant la n&eacute;cessit&eacute; d'assurer la continuit&eacute; du fonctionnement de la R&eacute;publique,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">jusqu'&agrave; l'instauration de l'ensemble des institutions r&eacute;publicaines r&eacute;sultant de la ratification</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">de la future constitution nationale,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Le Conseil des Ministres, entendu</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– Le pouvoir exécutif est exercé par le président de la République qui porte en outre le titre de chef du Gouvernement.\n\n\nLe Conseil de Gouvernement en fonction le jour de la déclaration de l’Indépendance nationale prend le nom de Conseil des Ministres, prévu par la loi constitutionnelle n°2 en date du 27 juin 1977.\n\n\nLe Conseil des Ministres est chargé d’assister le président de la République dans l’exercice de ses fonctions."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– Le président de la République est le chef suprême des forces armés.\n\n\nIl désigne les chefs de corps."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "– Il est créé un État-major général des forces armées.\n\n\nL’État-major général des forces armées est formé des chefs de corps sous la direction d’un chef d’État-major des armées désigné par le président de la République."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "– Monsieur Ali Meihdal Waïs est désigné en qualité de chef d’État-major général des armées."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "– Il est créé un Service national de Défense et de Développement.\n\n\nle chef d’État-major des Armées est chargé de présenter au président de la République un rapport prévoyant son organisation et son activité."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "– Le directeur de Cabinet du président de la République assiste à titre provisoire au Conseil des Ministres aux lieu et place du secrétaire général du Gouvernement. Il établira le procès – verbal de ses réunions qu’il transmettra au secrétaire général du Gouvernement.\n\n\nLe secrétaire général du Gouvernement est chargé du service de la Législation."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7",
+      "content": "– Le chef du Cabinet du président de la République est chargé de créer auprès du président de la République un service des Études et de la Sécurité intérieur et extérieur."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8",
+      "content": "– La présente ordonnance sera exécutée comme loi d’État et publiée au Journal Officiel de la République de Djibouti."
+    }
+  ]
+}

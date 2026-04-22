@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-28-novembre-1941-28-novembre-1941",
+  "type": "statute",
+  "title": "Loi n° 28 novembre 1941 28 novembre 1941",
+  "short_name": "Loi n° 28 novembre 1941 28 novembre 1941",
+  "status": "in_force",
+  "reference": "28 novembre 1941",
+  "issued_date": "1941-11-28",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-28-novembre-1941-28-novembre-1941/",
+  "description": "28 novembre 1941",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous. Mar&eacute;chal de France, Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte, Ministre de la d&eacute;fense nationale, Ministre Secr&eacute;taire d'Etat &agrave; la guerre par</p>\n<p>int&eacute;rim,</p>\n<p>DAKLAN.</p>\n<p>Le Garde des Sceaux,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>Joseph BARTII&Eacute;LEMY.</p>\n<p>L&lsquo;Amiral de la flotte, Ministre de</p>\n<p>la d&eacute;fense nationale, Ministre Secr&eacute;taire d'Etat &agrave; l'aviation par</p>\n<p>int&eacute;rim,</p>\n<p>DARLAN.</p>\n<p>&nbsp;</p>",
+  "journal_issue_ids": [
+    105870
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous. Mar&eacute;chal de France, Chef de l'&Eacute;tat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1 er. — L’avant-dernier alinéa de l’article 13 du Code de justice militaire pour l’armée de terre est abrogé et remplacé par le suivant :\n\n « Dans les tribunaux militaires permanents établis dans les territoires relevant du Secrétariat d’Etat aux colonies, en Algérie, en Tunisie, au Maroc, et dans les tribunaux militaires non permanents siégeant hors d’Europe, des stagiaires pourront être nommés par l’autorité milita ire investie des pouvoirs judiciaires attribués par la présente loi au général commandant la circonscription pour assurer les fonctions de substitut. »\n\n Art. 2. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l&rsquo;Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte, Ministre de la d&eacute;fense nationale, Ministre Secr&eacute;taire d'Etat &agrave; la guerre par</p>\n<p>int&eacute;rim,</p>\n<p>DAKLAN.</p>\n<p>Le Garde des Sceaux,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>Joseph BARTII&Eacute;LEMY.</p>\n<p>L&lsquo;Amiral de la flotte, Ministre de</p>\n<p>la d&eacute;fense nationale, Ministre Secr&eacute;taire d'Etat &agrave; l'aviation par</p>\n<p>int&eacute;rim,</p>\n<p>DARLAN.</p>\n<p>&nbsp;</p>"
+    }
+  ]
+}

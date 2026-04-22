@@ -8,25 +8,25 @@
 
 ## Project Overview
 
-Djibouti Law MCP server providing Djiboutian legislation search via Model Context Protocol. Strategy A deployment (Vercel, bundled SQLite DB). Covers data protection, cybercrimes, ICT, companies, consumer protection, and other key Acts.
+Djibouti Law MCP server providing search over Djiboutian legislation via the Model Context Protocol. Strategy A deployment (Vercel, bundled SQLite DB). Covers the Constitution, lois organiques, lois, ordonnances, décrets, and proclamations published in the Journal Officiel de la République de Djibouti (JORD).
 
 ## Architecture
 
-- **Transport:** Dual-channel -- stdio (npm package) + Streamable HTTP (Vercel serverless)
+- **Transport:** Dual-channel — stdio (npm package) + Streamable HTTP (Vercel serverless)
 - **Database:** SQLite + FTS5 via `@ansvar/mcp-sqlite` (WASM-compatible, no WAL mode)
 - **Entry points:** `src/index.ts` (stdio), `api/mcp.ts` (Vercel HTTP)
-- **Tool registry:** `src/tools/registry.ts` -- shared between both transports
-- **Capability gating:** `src/capabilities.ts` -- detects available DB tables at runtime
+- **Tool registry:** `src/tools/registry.ts` — shared between both transports
+- **Capability gating:** `src/capabilities.ts` — detects available DB tables at runtime
 
 ## Key Conventions
 
-- All database queries use parameterized statements (never string interpolation)
+- All database queries use parameterised statements (never string interpolation)
 - FTS5 queries go through `buildFtsQueryVariants()` with primary + fallback strategy
-- User input is sanitized via `sanitizeFtsInput()` before FTS5 queries
+- User input is sanitised via `sanitizeFtsInput()` before FTS5 queries
 - Every tool returns `ToolResponse<T>` with `results` + `_metadata` (freshness, disclaimer)
-- Tool descriptions are written for LLM agents -- explain WHEN and WHY to use each tool
+- Tool descriptions are written for LLM agents — explain WHEN and WHY to use each tool
 - Capability-gated tools only appear in `tools/list` when their DB tables exist
-- Djibouti uses "Section N" for Acts and "Article N" for the Constitution
+- Djibouti uses "Article N" throughout (lois, décrets, arrêtés, Constitution)
 
 ## Testing
 
@@ -38,35 +38,34 @@ Djibouti Law MCP server providing Djiboutian legislation search via Model Contex
 ## Database
 
 - Schema defined inline in `scripts/build-db.ts`
-- Journal mode: DELETE (not WAL -- required for Vercel serverless)
+- Journal mode: DELETE (not WAL — required for Vercel serverless)
 - Runtime: copied to `/tmp/database.db` on Vercel cold start
-- Metadata: `db_metadata` table stores tier, schema_version, built_at, builder
+- Metadata: `db_metadata` table stores tier, schema_version, built_at, builder, jurisdiction, source, licence
 
 ## Data Pipeline
 
-1. `scripts/ingest.ts` -> fetches from Djibouti Law -> JSON seed files in `data/seed/`
-2. `scripts/build-db.ts` -> seed JSON -> SQLite database in `data/database.db`
-3. `scripts/drift-detect.ts` -> verifies upstream content hasn't changed
+1. `scripts/census.ts` → enumerates legal texts from the JORD WP REST API → `data/census.json`
+2. `scripts/ingest.ts` → fetches each texte-juridique → parses HTML → `data/seed/{id}.json`
+3. `scripts/build-db.ts` → seed JSON → SQLite database in `data/database.db`
+4. `scripts/drift-detect.ts` → verifies upstream content has not changed
 
 ## Data Source
 
-- **Djibouti Law** (djiboutianlaw.org) -- National Council for Law Reporting
-- **License:** Government Open Data
-- **Languages:** English (en) is the primary legal language; Swahili (sw) for some documents
-- **Coverage:** All Acts of Parliament, subsidiary legislation, Constitution of Djibouti 2010, selected case law
+- **JORD** — Journal Officiel de la République de Djibouti, https://www.journalofficiel.dj
+- **API:** WordPress REST API at `/wp-json/wp/v2/` (post types `journal-officiel` and `texte-juridique`)
+- **Licence:** Public record (Journal Officiel)
+- **Language:** French (the sole legal language of Djibouti)
+- **Coverage:** Lois, lois organiques, lois de finances, ordonnances, proclamations — plus décrets, arrêtés, décisions, délibérations on request via `--natures`
 
 ## Djibouti-Specific Notes
 
-- Djibouti uses a common law legal system inherited from British colonial administration
-- The Constitution of Djibouti 2010 is the supreme law (Article 2)
-- Legislation is identified by Act title + year (e.g., "Data Protection Act 2019")
-- Citations follow the pattern: "Section N, [Act Title Year]" or shorthand "s N"
-- For the Constitution: "Article N, Constitution of Djibouti 2010"
-- The Data Protection Act 2019 was significantly influenced by EU GDPR
-- Some sections of the Computer Misuse and Cybercrimes Act 2018 are suspended by court order
-- The Office of the Data Protection Commissioner (ODPC) is the data protection supervisory authority
+- Djibouti follows a civil-law tradition inherited from French legal administration; all primary legal drafting is in French
+- The Constitution de la République de Djibouti (15 septembre 1992, révisée en 2010 et 2025) is the supreme law
+- Legislation is identified by a JORD reference of the form `n°N/AN/YY/Nème L` (loi), `n°YYYY-NNN/PR/MI` (décret), etc.
+- Citations follow the French pattern: "Article N, Loi n°N/AN/YY" or "Art. N, Loi n°N/AN/YY"
+- JORD issues are numbered per year (e.g., `n° 06 du 21/04/2026`) and linked to each texte-juridique via `acf.journal_officiel`
 
 ## Deployment
 
 - Vercel Strategy A: DB bundled in `data/database.db`, included via `vercel.json` includeFiles
-- npm package: `@ansvar/djiboutian-law-mcp` with bin entry for stdio
+- npm package: `@ansvar/djibouti-law-mcp` with bin entry for stdio

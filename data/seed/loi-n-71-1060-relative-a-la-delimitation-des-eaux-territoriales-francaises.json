@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-71-1060-relative-a-la-delimitation-des-eaux-territoriales-francaises",
+  "type": "statute",
+  "title": "Loi n° 71-1060 relative à la délimitation des eaux territoriales françaises.",
+  "short_name": "Loi n° 71-1060 relative à la délimitation des eaux territoriales françaises.",
+  "status": "in_force",
+  "reference": "71-1060",
+  "issued_date": "1971-12-24",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-71-1060-relative-a-la-delimitation-des-eaux-territoriales-francaises/",
+  "description": "relative à la délimitation des eaux territoriales françaises.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>L&rsquo;Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p>Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p>GEORGES POMPIDOU.</p>\n<p>Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p>Le Premier ministre,</p>\n<p>JACQUES CHABAN-DELMAS.</p>\n<p>Le ministre d&rsquo;Etat charg&eacute; des d&eacute;partements et territoires d&rsquo;outre-mer,</p>\n<p>PIERRE MESSMER.</p>\n<p>Le ministre des affaires &eacute;trang&egrave;res,</p>\n<p>MAURICE SCHUMANN.</p>\n<p>&nbsp;</p>",
+  "journal_issue_ids": [
+    105452
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>L&rsquo;Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;,</p>\n<p>Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Les eaux territoriales françaises s’étendent jusqu’à une limite fixée à 12 milles marins à partir des lignes de base. Les lignes de base sont la laisse de basse mer ainsi que les lignes de base droites et les lignes de fermeture des baies qui sont déterminées par décret.\n\n La souveraineté de l’Etat français s’étend à l’espace aérien ainsi qu’au lit et au sous-sol de la mer dans la limite des eaux territoriales.\n\n Art. 2. — Sauf convention particulière, la largeur des eaux territoriales ne s’étend pas au-delà d’une ligne médiane dont tous les points sont équidistants des points les plus proches des lignes de base des côtes françaises et des côtes des pays étrangers qui font face aux côtes françaises ou qui leur sont limitrophes.\n\n Art. 3. — Lorsque la distance entre les lignes de base des côtes françaises et celles des côtes d’un Etat étranger qui leur font face est égale ou inférieure à 24 milles ou ne permet plus l’existence d’une zone de haute mer suffisante pour la navigation, des dispositions pourront être prises en vue d’assurer la libre navigation maritime et aérienne, dans le respect des conventions internationales et, s’il y a lieu, après accord avec les Etats intéressés.\n\n Art. 4. — Les dispositions de la présente loi ne portent pas atteinte à l’exercice des droits de pêche accordés à certains navires étrangers dans les conditions prévues par les accords internationaux et le droit interne français.\n\n Art. 5. — La présente loi est applicable aux territoires d’outremer."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>GEORGES POMPIDOU.</p>\n<p>Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p>Le Premier ministre,</p>\n<p>JACQUES CHABAN-DELMAS.</p>\n<p>Le ministre d&rsquo;Etat charg&eacute; des d&eacute;partements et territoires d&rsquo;outre-mer,</p>\n<p>PIERRE MESSMER.</p>\n<p>Le ministre des affaires &eacute;trang&egrave;res,</p>\n<p>MAURICE SCHUMANN.</p>\n<p>&nbsp;</p>"
+    }
+  ]
+}

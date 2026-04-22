@@ -1,0 +1,48 @@
+{
+  "id": "loi-n231-an-82-accordant-une-parcelle-de-terrain-domanial-en-concession-provisoire",
+  "type": "statute",
+  "title": "Loi n° 231/AN/82 accordant une parcelle de terrain domanial en concession provisoire.",
+  "short_name": "Loi n° 231/AN/82 accordant une parcelle de terrain domanial en concession…",
+  "status": "in_force",
+  "reference": "231/AN/82",
+  "issued_date": "1982-03-16",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n231-an-82-accordant-une-parcelle-de-terrain-domanial-en-concession-provisoire/",
+  "description": "accordant une parcelle de terrain domanial en concession provisoire.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 07 juillet 1981 portant nomination de membres du Gouvernement.</p>",
+  "signature": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef de Gouvernement,<br />HASSAN GOULED APTIDON.</p>",
+  "journal_issue_ids": 58290,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 07 juillet 1981 portant nomination de membres du Gouvernement.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– Il est fait concession provisoire à M. Ali Dougsieh Rayaleh le lot de terrain domanial désigné ci-après, tel au surplus qu’il apparaît au plan joint et dont la mise en valeur exigée et le prix du mètre carré figurent dans le tableau suivant :\n\n\nBénéficiaire\n\n\nNuméro du Lot\n\n\nSuperficie en m2\n\n\nNature de l’investissement\n\n\net mise en valeur minimale imposée\n\n\nBALBALA – PRIX DU MÈTRE CARRE DE TERRAIN : 1200 FD\n\n\nM. Ali Dougsieh Rayaleh\n\n\n600 m2\nÉdifier un bâtiment en dur à usage commercial d’une valeur minimale de 10 millions de francs Djibouti"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les formalités d’enregistrement et du timbre seront remplies au nom et à la diligence du concessionnaire dans les délais réglementaires."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente Loi sera enregistré et publiée au Journal Officiel, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef de Gouvernement,<br />HASSAN GOULED APTIDON.</p>"
+    }
+  ]
+}

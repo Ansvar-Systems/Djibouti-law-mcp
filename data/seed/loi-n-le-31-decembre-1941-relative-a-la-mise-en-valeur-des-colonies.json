@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-le-31-decembre-1941-relative-a-la-mise-en-valeur-des-colonies",
+  "type": "statute",
+  "title": "Loi n° le 31 décembre 1941 relative à la mise en valeur des colonies",
+  "short_name": "Loi n° le 31 décembre 1941 relative à la mise en valeur des colonies",
+  "status": "in_force",
+  "reference": "le 31 décembre 1941",
+  "issued_date": "1941-12-31",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-le-31-decembre-1941-relative-a-la-mise-en-valeur-des-colonies/",
+  "description": "relative à la mise en valeur des colonies",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Nous. Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>",
+  "signature": "<p>PH. PETAIN.</p>\n<p>Par le Mar&eacute;chal de France.</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'&eacute;conomie nationale et aux finanecs,</p>\n<p>BOUTHILLIER.</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>PLATON.</p>",
+  "journal_issue_ids": [
+    105849
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous. Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — En vue d’assurer la mise en va leur des colonies il pourra être accordé, soit à des sociétés ou établissements publics existants, soit à des sociétés qui seraient spécialement créées à cet effet. des avances imputables à un compte spécial à ouvrir dans les écritures du Trésor. Dans le même but, la garantie de l’Etat pourra être accordée aux capitaux d’origine privée empruntés par les sociétés ou établissements publics susvisés et investis par eux aux colonies. L’État pourra, enfin, participer au capital des sociétés qui exercent leur exploitation aux colonies.\n\n Art. 2. — L’attribution des avances et l’octroi de la garantie de l’Etat feront l’objet d’arrêtés du Secrétaire d’Etat à l’économie nationale et aux finances pris après avis d’une com mission comprenant : Deux représentants du Secrétaire d’Etat aux colonies dont le directeur îles affaires économiques, président. Trois représentants du Secrétaire d’Etat à l’économie nationale et aux finances. Un représentant de la banque d’émission de la colonie intéressée.\n\n Art. 3. — Une convention sera passée dans chaque cas après accord du Secrétaire d’Etat à l’économie nationale et aux finances, entre le Secrétaire d’État aux colonies et la société ou l’établissement public bénéficiaire soit d’une avance, soit de la garantie prévue à l’article 1er .\n\n Ces conventions fixeront le taux et les modalités de remboursement des avances, les sûretés exigées des sociétés ou établissements publics bénéficiaires d’une avance ou de la garantie de l’Etat et les conditions dans lesquelles l’État pourra être appelé à participer aux bénéfices.\n\n Art. 4. — Toute participation de l’Etat au capital d’une société devra donner lieu à l’avis préalable de la commission instituée à l’article 2 du présent décret. Les crédits nécessaires seront ouverts au budget du Secrétariat d’État aux colonies.\n\n Art. 5. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. PETAIN.</p>\n<p>Par le Mar&eacute;chal de France.</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>Le Ministre Secr&eacute;taire d'Etat &agrave; l'&eacute;conomie nationale et aux finanecs,</p>\n<p>BOUTHILLIER.</p>\n<p>Le Secr&eacute;taire d'Etat aux colonies,</p>\n<p>PLATON.</p>"
+    }
+  ]
+}

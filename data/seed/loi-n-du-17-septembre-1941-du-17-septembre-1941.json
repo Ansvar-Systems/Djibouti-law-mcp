@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-du-17-septembre-1941-du-17-septembre-1941",
+  "type": "statute",
+  "title": "Loi n° du 17 septembre 1941. du 17 septembre 1941.",
+  "short_name": "Loi n° du 17 septembre 1941. du 17 septembre 1941.",
+  "status": "in_force",
+  "reference": "du 17 septembre 1941.",
+  "issued_date": "1941-09-17",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-du-17-septembre-1941-du-17-septembre-1941/",
+  "description": "du 17 septembre 1941.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France.</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu.</p>",
+  "signature": "<p>Pu. P&Eacute;TAIN. Par le Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais :</p>\n<p>Le Garde des sceaux. Ministre Secr&eacute;taire d'Etat &agrave; la justice.</p>\n<p>BARTH&Eacute;LEMY.</p>\n<p>Le Secr&eacute;taire ePEtat aux colonies, Platon.</p>",
+  "journal_issue_ids": [
+    105868
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France.</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — L’article Fr de la loi «lu 23 juin 1911 portant création de la Cour criminelle spéciale dans les territoires relevant du Se crétariat d’Etat aux colonies est modifié comme suit : « Art. 1°. Dans le Haut Commissariat de l’Afrique française, dans chacun des gouvernements généraux «le l’Indochine et «le Ma dagascar et dans chaque colonie autonome relevant du Secrétariat d’Elal aux colonies, il est institué une Cour criminelle spéciale chargé» de juger les personnes «pii lui sont déférées par le Haut Commissaire, le Gouverneur général et le Gouverneur ou le Chef du territoire. »\n\n Le reste sans changement.\n\n Art. 2. Les pouvoirs conférés par les articles 2. 3. 4 et 9 de la loi du 23 juin 1941 au Gouverneur général, au Gouverneur ou au Chef du territoire sont, en ce qui concerne le Haut Commissariat de l’Afrique française dévolus au Haut Commissaire.\n\n Art. 3. — Le présent décret sera publié au Journal efficie et exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Pu. P&Eacute;TAIN. Par le Mar&eacute;chal de France,</p>\n<p>Chef de l&rsquo;Etat fran&ccedil;ais :</p>\n<p>Le Garde des sceaux. Ministre Secr&eacute;taire d'Etat &agrave; la justice.</p>\n<p>BARTH&Eacute;LEMY.</p>\n<p>Le Secr&eacute;taire ePEtat aux colonies, Platon.</p>"
+    }
+  ]
+}

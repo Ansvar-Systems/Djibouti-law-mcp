@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-71-407-relative-a-lemancipation-des-jeunes-gens-aui-ont-accompli-le-service-national-actif-jorf-du-5-juin-1971-p-5403",
+  "type": "statute",
+  "title": "Loi n° 71-407 relative à l’émancipation des jeunes gens aui ont accompli le service national actif (JORF. du 5 juin 1971, p. 5403)",
+  "short_name": "Loi n° 71-407 relative à l’émancipation des jeunes gens aui ont accompli le…",
+  "status": "in_force",
+  "reference": "71-407",
+  "issued_date": "1971-06-03",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-71-407-relative-a-lemancipation-des-jeunes-gens-aui-ont-accompli-le-service-national-actif-jorf-du-5-juin-1971-p-5403/",
+  "description": "relative à l’émancipation des jeunes gens aui ont accompli le service national actif (JORF. du 5 juin 1971, p. 5403)",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "",
+  "journal_issue_ids": [
+    105469
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — L’article 476 du code civil est complété par un deuxième alinéa ainsi rédigé :\n\n « Il l’est aussi, et avec les mêmes effets, lorsqu’il a accompli le service national actif ou le service national féminin. »\n\n La présente loi sera exécuté comme loi de l’Etat."
+    }
+  ]
+}

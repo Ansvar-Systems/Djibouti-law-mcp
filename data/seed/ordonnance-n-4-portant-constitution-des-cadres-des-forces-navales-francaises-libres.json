@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-4-portant-constitution-des-cadres-des-forces-navales-francaises-libres",
+  "type": "statute",
+  "title": "Ordonnance n° 4 portant constitution des cadres des Forces Navales Françaises libres.",
+  "short_name": "Ordonnance n° 4 portant constitution des cadres des Forces Navales Françaises…",
+  "status": "in_force",
+  "reference": "4",
+  "issued_date": "1940-11-09",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-4-portant-constitution-des-cadres-des-forces-navales-francaises-libres/",
+  "description": "portant constitution des cadres des Forces Navales Françaises libres.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Au nom du Peuple et de l'Empire Fran&ccedil;ais,</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres,</p>\n<p>Vu notre Ordonnance no. 1. du 27 octobre 1940, organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l&rsquo;Empire ;</p>\n<p>&nbsp;</p>",
+  "signature": "<p>C. de Gaulle.</p>",
+  "journal_issue_ids": [
+    105834
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Au nom du Peuple et de l'Empire Fran&ccedil;ais,</p>\n<p>Nous, G&eacute;n&eacute;ral de Gaulle,</p>\n<p>Chef des Fran&ccedil;ais Libres,</p>\n<p>Vu notre Ordonnance no. 1. du 27 octobre 1940, organisant les pouvoirs publics durant la guerre et instituant un Conseil de D&eacute;fense de l&rsquo;Empire ;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1. La constitution des cadres des Forces Navales Françaises Libres, pour la période du 15 octobre au 31 décembre 1940, sera conforme au tableau ci-joint.\n\n Art. 2. Les promotions nécessaires pour compléter les cadres seront réalisées avant le 31 décembre 1940, au fur et à mesure de l’armement des bâtiments, de la création des services et de la constitution des bases navales.\n\n Art. 3. La présente Ordonnance sera enregistrée, communiquée partout où besoin sera et publiée au Journal Officiel de l’Empire et, provisoirement, au Journal Officiel de l’Afrique Equatoriale Française."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>C. de Gaulle.</p>"
+    }
+  ]
+}

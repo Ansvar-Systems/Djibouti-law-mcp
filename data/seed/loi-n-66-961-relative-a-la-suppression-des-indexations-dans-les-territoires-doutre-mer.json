@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-66-961-relative-a-la-suppression-des-indexations-dans-les-territoires-doutre-mer",
+  "type": "statute",
+  "title": "Loi n° 66-961 relative à la suppression des indexations dans les territoires d’outre-mer",
+  "short_name": "Loi n° 66-961 relative à la suppression des indexations dans les territoires…",
+  "status": "in_force",
+  "reference": "66-961",
+  "issued_date": "1966-12-26",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-66-961-relative-a-la-suppression-des-indexations-dans-les-territoires-doutre-mer/",
+  "description": "relative à la suppression des indexations dans les territoires d'outre-mer",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>L&rsquo;Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;.</p>\n<p>Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la&nbsp;teneur suit :</p>",
+  "signature": "<p>Par le Pr&eacute;sident de la R&eacute;publique :</p>",
+  "journal_issue_ids": [
+    105430
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>L&rsquo;Assembl&eacute;e nationale et le S&eacute;nat ont adopt&eacute;.</p>\n<p>Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la&nbsp;teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Dans les nouvelles dispositions statutaires ou conventionnelles, sauf lorsqu’elles concernent des dettes d’aliments ou des rentes viagères constituées entre particuliers, sont interdites dans les territoires d’outre-mer toutes clauses prévoyant des indexations fondées sur le salaire minimum interprofessionnel garanti, sur le niveau général des prix ou des salaires, ou sur les prix des biens, produits ou services n’ayant pas de relation directe avec l’objet du statut ou de la convention ou avec l’activité de l’une des parties.\n\n Art. 2. — Sont abrogées dans les territoires d’outre-mer toutes dispositions générales, de nature législative ou réglementaire, tendant à l’indexation automatique des prix de biens ou de services dans les conditions prohibées à l’article 1er. Demeurent toutefois en vigueur, là où ils existent, les règlements locaux relatifs à l’indexation des salaires et du salaire minimum interprofessionnel garanti.\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le Pr&eacute;sident de la R&eacute;publique :</p>"
+    }
+  ]
+}

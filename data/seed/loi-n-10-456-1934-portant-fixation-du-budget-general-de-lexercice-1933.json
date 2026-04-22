@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-10-456-1934-portant-fixation-du-budget-general-de-lexercice-1933",
+  "type": "statute",
+  "title": "Loi n° 10-456-1934 portant fixation du budget général de l’exercice 1933.",
+  "short_name": "Loi n° 10-456-1934 portant fixation du budget général de l’exercice 1933.",
+  "status": "in_force",
+  "reference": "10-456-1934",
+  "issued_date": "1933-05-31",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-10-456-1934-portant-fixation-du-budget-general-de-lexercice-1933/",
+  "description": "portant fixation du budget général de l'exercice 1933.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "",
+  "journal_issue_ids": [
+    105949
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 121. — Lorsque la liquidation des dépenses à la charge de l’Etat, des départements, des communes et des établissements publics fera apparaître des centimes, les sommes résultant de cette liquidation pourront être arrondies au franc immédiatement inférieur.\n\n Les dispositions de l’alinéa précédent ne sont pas applicables aux arrérages de la dette publique de l’Etat autre que la dette viagère, ni au service des emprunts des collectivités publiques.\n\n Dans le délai de trois mois, les décrets détermineront, pour chaque administration, les conditions et les modalités d’application du présent article."
+    }
+  ]
+}

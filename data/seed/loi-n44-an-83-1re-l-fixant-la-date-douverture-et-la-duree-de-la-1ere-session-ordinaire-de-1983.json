@@ -1,0 +1,42 @@
+{
+  "id": "loi-n44-an-83-1re-l-fixant-la-date-douverture-et-la-duree-de-la-1ere-session-ordinaire-de-1983",
+  "type": "statute",
+  "title": "Loi n° 44/AN/83/1re L fixant la date d’ouverture et la durée de la 1ére session ordinaire de 1983.",
+  "short_name": "Loi n° 44/AN/83/1re L fixant la date d’ouverture et la durée de la 1ére session…",
+  "status": "in_force",
+  "reference": "44/AN/83/1re L",
+  "issued_date": "1983-04-10",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n44-an-83-1re-l-fixant-la-date-douverture-et-la-duree-de-la-1ere-session-ordinaire-de-1983/",
+  "description": "fixant la date d'ouverture et la durée de la 1ére session ordinaire de 1983.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg; 1 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi organique n&deg; 2/AN/81 du 24 octobre 1981 portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave;&nbsp; l'Assembl&eacute;e Nationale ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi n&deg; 87-521 du 3 juillet 1987, notamment en son article 28 ;</p>",
+  "signature": "",
+  "journal_issue_ids": 57758,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi constitutionnelle n&deg; 1 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi organique n&deg; 2/AN/81 du 24 octobre 1981 portant sur l'&eacute;lection des d&eacute;put&eacute;s &agrave;&nbsp; l'Assembl&eacute;e Nationale ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la loi n&deg; 87-521 du 3 juillet 1987, notamment en son article 28 ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 1re Session ordinaire de 1983 de l’Assemblée nationale, est fixée au mercredi 13 avril 1983 à 9 heures"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette session ne pourra dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera publiée au Journal officiel, dès sa promulgation."
+    }
+  ]
+}

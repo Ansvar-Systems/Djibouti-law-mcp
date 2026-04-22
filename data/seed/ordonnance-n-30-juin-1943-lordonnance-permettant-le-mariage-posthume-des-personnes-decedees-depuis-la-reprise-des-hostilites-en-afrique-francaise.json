@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-30-juin-1943-lordonnance-permettant-le-mariage-posthume-des-personnes-decedees-depuis-la-reprise-des-hostilites-en-afrique-francaise",
+  "type": "statute",
+  "title": "Ordonnance n° 30 juin 1943 l’ordonnance permettant le mariage posthume des personnes décédées depuis la reprise des hostilités en Afrique française.",
+  "short_name": "Ordonnance n° 30 juin 1943 l’ordonnance permettant le mariage posthume des…",
+  "status": "in_force",
+  "reference": "30 juin 1943",
+  "issued_date": "1943-06-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-30-juin-1943-lordonnance-permettant-le-mariage-posthume-des-personnes-decedees-depuis-la-reprise-des-hostilites-en-afrique-francaise/",
+  "description": "l'ordonnance permettant le mariage posthume des personnes décédées depuis la reprise des hostilités en Afrique française.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration na tionale.</p>\n<p>Sur la proposition du Commissaire &agrave; la Justice, &agrave; l'Education nationale et &agrave; la Sant&eacute; publique:&nbsp;</p>",
+  "signature": "<p>ALGER, le 30 Juin 1943.</p>\n<p>Dr GAULLE</p>\n<p>Par le Comit&eacute; fran&ccedil;ais de la I ib&eacute;ration Nationale :</p>\n<p>Le Commisslire &agrave; la Justice. &agrave; l'Education Nationale et &agrave; la Sant&eacute; Publique.</p>\n<p>J. ABADIE.</p>",
+  "journal_issue_ids": [
+    105847
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration na tionale.</p>\n<p>Sur la proposition du Commissaire &agrave; la Justice, &agrave; l'Education nationale et &agrave; la Sant&eacute; publique:&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er.– Les personnes décédées du fait de la reprise des hostilités en Afrique française, depuis le 7 novembre 1942, pour ront être déclarées mariées après l’autorisation «du Commissaire à la Justice obtenue dans les condition ci-apres:\n\n Art. 2.– La célébration du mariage sera autorisée sur la production de documents émanent du défunt et qui établiraient sans équivoque, son consentement, tels que : de mande d’autorisation de mariage adressée à l’autorité militaire, publications requises par lui invitations adressées par lui, soit à ses parents, soit à la future épouse ou à la fa mille de celle-ci de faire établir les pièces nécessaires à la célébration du mariage. Ces documents seront mentionnés sur l’au torisation du Commissaire à la Justice.\n\n Dans le cas où il sera fait application de cette ordonnance, le consentement du defunt sera remplace, au moment de la célébration du mariage par la lecture de l’autorisation du Commissaire à la Justice. Art. 3. Les effets du mariage remonte ront à la date du jour précédant celui du décès de l époux.\n\n Art. 4— La présente ordonnance sera exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>ALGER, le 30 Juin 1943.</p>\n<p>Dr GAULLE</p>\n<p>Par le Comit&eacute; fran&ccedil;ais de la I ib&eacute;ration Nationale :</p>\n<p>Le Commisslire &agrave; la Justice. &agrave; l'Education Nationale et &agrave; la Sant&eacute; Publique.</p>\n<p>J. ABADIE.</p>"
+    }
+  ]
+}

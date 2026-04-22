@@ -1,0 +1,42 @@
+{
+  "id": "loi-n95-an-841rel-fixant-la-date-douverture-et-la-duree-de-la-1re-session-ordinaire-de-1984",
+  "type": "statute",
+  "title": "Loi n° 95/AN/841reL fixant la date d’ouverture et la durée de la 1re Session ordinaire de 1984.",
+  "short_name": "Loi n° 95/AN/841reL fixant la date d’ouverture et la durée de la 1re Session…",
+  "status": "in_force",
+  "reference": "95/AN/841reL",
+  "issued_date": "1984-04-01",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n95-an-841rel-fixant-la-date-douverture-et-la-duree-de-la-1re-session-ordinaire-de-1984/",
+  "description": "fixant la date d'ouverture et la durée de la 1re Session ordinaire de 1984.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU&nbsp; les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU&nbsp; la loi n&deg;67-521 du 3 juillet 1967, notamment en son article 28 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58221,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU&nbsp; les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU&nbsp; la loi n&deg;67-521 du 3 juillet 1967, notamment en son article 28 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 1re Session ordinaire de 1984 de l’Assemblée nationale est fixée au 14 avril 1984 à 9 heures."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette session ne pourra dépasser 2 mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera publiée au  » Journal officiel  » de la République de Djibouti, dès sa promulgation."
+    }
+  ]
+}

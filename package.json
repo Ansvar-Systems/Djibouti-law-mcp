@@ -1,8 +1,8 @@
 {
-  "name": "@ansvar/djiboutian-law-mcp",
+  "name": "@ansvar/djibouti-law-mcp",
   "version": "0.1.0",
-  "mcpName": "eu.ansvar/djiboutian-law-mcp",
-  "description": "Djibouti legislation database \u2014 full-text search across statutes and regulations. Part of the Ansvar Open Law initiative.",
+  "mcpName": "eu.ansvar/djibouti-law-mcp",
+  "description": "Djibouti legislation database sourced from the Journal Officiel de la République de Djibouti (JORD). Full-text search across lois, ordonnances, décrets, and arrêtés. Part of the Ansvar Open Law initiative.",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {
@@ -13,7 +13,9 @@
   "keywords": [
     "mcp",
     "model-context-protocol",
-    "djiboutian-law",
+    "djibouti-law",
+    "djibouti",
+    "jord",
     "legislation",
     "legal",
     "compliance",
@@ -22,7 +24,7 @@
   "type": "module",
   "main": "dist/src/index.js",
   "bin": {
-    "djiboutian-law-mcp": "dist/src/index.js"
+    "djibouti-law-mcp": "dist/src/index.js"
   },
   "files": [
     "dist/",

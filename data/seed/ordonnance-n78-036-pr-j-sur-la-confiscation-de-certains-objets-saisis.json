@@ -1,0 +1,42 @@
+{
+  "id": "ordonnance-n78-036-pr-j-sur-la-confiscation-de-certains-objets-saisis",
+  "type": "statute",
+  "title": "Ordonnance n° 78-036/PR/J Sur la confiscation de certains objets saisis.",
+  "short_name": "Ordonnance n° 78-036/PR/J Sur la confiscation de certains objets saisis.",
+  "status": "in_force",
+  "reference": "78-036/PR/J",
+  "issued_date": "1978-04-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n78-036-pr-j-sur-la-confiscation-de-certains-objets-saisis/",
+  "description": "Sur la confiscation de certains objets saisis.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu les lois constitutionnelles n&deg;s 1 et 2 en date du 27 juin 1977</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu la n&eacute;cessit&eacute; de r&eacute;glementer la confiscation des objets saisis au cas o&ugrave; ces pi&egrave;ces concerneraient la D&eacute;fense nationale</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Le Conseil des Ministres entendu</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu l'urgence</span></p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Le Pr&eacute;sident de la R&eacute;publique</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Chef du Gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Hassan Gouled Aptidon</span></p>",
+  "journal_issue_ids": 58252,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu les lois constitutionnelles n&deg;s 1 et 2 en date du 27 juin 1977</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu la n&eacute;cessit&eacute; de r&eacute;glementer la confiscation des objets saisis au cas o&ugrave; ces pi&egrave;ces concerneraient la D&eacute;fense nationale</span></p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Le Conseil des Ministres entendu</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">Vu l'urgence</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Lorsque des pièces à conviction auront été saisies dans une affaire faisant l’objet d’une information judiciaire ou de poursuites devant la Cour criminelle, le Tribunal correctionnel ou de flagrant délit, et que ces pièces concernent directement l’intérêt de la défense nationale , elles pourront être confisquées au profit de l’État avant le jugement définitif de l’affaire par ordonnance du juge saisi de celle-ci,, sur demande écrite du gouvernement. Toutefois, un spécimen en sera conservé à conviction à chaque fois qu’il sera possible à défaut et en particulier si la pièce est unique il en sera dressé une description détaillée et précise. Il en sera de même lorsque l’auteur de l’infraction sera demeuré inconnu. Au cas où l’affaire se terminerait par un non-lieu, une relaxe ou un acquittement, les pièces confisquées, sauf celles contraires à la sécurité publique, à l’ordre public ou aux bonnes mœurs, seront restituées à leur légitime propriétaire ou, si la restitution n’est plus possible, une indemnité correspondant à la valeur des objets confisqués sera versée à celui-ci."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente ordonnance sera exécutée comme loi d’État et publiée suivant la procédure d’urgence ainsi qu’au « Journal officiel de la République de Djibouti"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Le Pr&eacute;sident de la R&eacute;publique</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Chef du Gouvernement</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Hassan Gouled Aptidon</span></p>"
+    }
+  ]
+}

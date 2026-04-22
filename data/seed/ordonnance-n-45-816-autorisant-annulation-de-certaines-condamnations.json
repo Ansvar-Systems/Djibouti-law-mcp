@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-45-816-autorisant-annulation-de-certaines-condamnations",
+  "type": "statute",
+  "title": "Ordonnance n° 45-816 autorisant annulation de certaines condamnations.",
+  "short_name": "Ordonnance n° 45-816 autorisant annulation de certaines condamnations.",
+  "status": "in_force",
+  "reference": "45-816",
+  "issued_date": "1945-04-26",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-45-816-autorisant-annulation-de-certaines-condamnations/",
+  "description": "autorisant annulation de certaines condamnations.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des sceaux, Ministre de la justice;</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant institution&nbsp;du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration&nbsp;nationale, ensemble les ordonnances des 3 juin&nbsp;et 4 septembre 1944;</p>\n<p>Vu l'ordonnance du 6 juillet 1943 relative&nbsp;la l&eacute;gitimit&eacute; des actes accomplis pour la&nbsp;cause de la lib&eacute;ration de la France et &agrave; la r&eacute;vision des condamnations intervenues pour ces faits, modifi&eacute;e par ordonnance du 5 d&eacute;cembre 1944 :</p>\n<p>Vu l&rsquo;ordonnance du 9 ao&ucirc;t 19+1 relative au&nbsp;r&eacute;tablissement de la l&eacute;galit&eacute; r&eacute;publicaine sur&nbsp;le territoire continental :</p>\n<p>Vu l&rsquo;ordonnance du 20 novembre 1941 relative &agrave; l&rsquo;annulation de certaines condamnations :</p>\n<p>Le Comit&eacute; juridique entendu.</p>",
+  "signature": "<p>Ch. de GAULLE.</p>\n<p>Par le Pr&eacute;sident du Gouvernement provisoire&nbsp;de la R&eacute;publique :</p>\n<p>Le Garde des sccaur, Ministre&nbsp;de la justice,</p>\n<p>Fran&ccedil;ois de MENTHON.</p>",
+  "journal_issue_ids": [
+    105815
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise,</p>\n<p>Sur le rapport du Garde des sceaux, Ministre de la justice;</p>\n<p>Vu l'ordonnance du 3 juin 1943 portant institution&nbsp;du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration&nbsp;nationale, ensemble les ordonnances des 3 juin&nbsp;et 4 septembre 1944;</p>\n<p>Vu l'ordonnance du 6 juillet 1943 relative&nbsp;la l&eacute;gitimit&eacute; des actes accomplis pour la&nbsp;cause de la lib&eacute;ration de la France et &agrave; la r&eacute;vision des condamnations intervenues pour ces faits, modifi&eacute;e par ordonnance du 5 d&eacute;cembre 1944 :</p>\n<p>Vu l&rsquo;ordonnance du 9 ao&ucirc;t 19+1 relative au&nbsp;r&eacute;tablissement de la l&eacute;galit&eacute; r&eacute;publicaine sur&nbsp;le territoire continental :</p>\n<p>Vu l&rsquo;ordonnance du 20 novembre 1941 relative &agrave; l&rsquo;annulation de certaines condamnations :</p>\n<p>Le Comit&eacute; juridique entendu.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — Seront annulées les condamnations prononcées par les juridictions répressives de toute nature, en raison des poursuites exercées sur l’ordre ou l’inspiration du gouvernement de fait entre le 16 juin 1940 et la date de la libération, lorsque la preuve sera rapportée que ces poursuites n’auraient pas été intentées si deconsidérations politiques ne les avaient pas déterminées.\n\n L’instance en annulation sera déférée aux chambres de révision instituées par l’ordonnance du 6 juillet 1943. modifiée par l’ordonnance du 5 décembre 1944.\n\n Les effets de l’annulation seront ceux prévus par l’ordonnance du 20 novembre 1944 susvisée.\n\n Art. 2. — La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi"
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Ch. de GAULLE.</p>\n<p>Par le Pr&eacute;sident du Gouvernement provisoire&nbsp;de la R&eacute;publique :</p>\n<p>Le Garde des sccaur, Ministre&nbsp;de la justice,</p>\n<p>Fran&ccedil;ois de MENTHON.</p>"
+    }
+  ]
+}

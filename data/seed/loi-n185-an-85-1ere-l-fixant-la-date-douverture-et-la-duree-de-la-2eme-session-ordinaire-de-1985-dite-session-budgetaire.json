@@ -1,0 +1,42 @@
+{
+  "id": "loi-n185-an-85-1ere-l-fixant-la-date-douverture-et-la-duree-de-la-2eme-session-ordinaire-de-1985-dite-session-budgetaire",
+  "type": "statute",
+  "title": "Loi n° 185/AN/85/1ère L fixant la date d’ouverture et la durée de la 2ème session ordinaire de 1985 dite « session budgétaire ».",
+  "short_name": "Loi n° 185/AN/85/1ère L fixant la date d’ouverture et la durée de la 2ème…",
+  "status": "in_force",
+  "reference": "185/AN/85/1ère L",
+  "issued_date": "1985-11-21",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n185-an-85-1ere-l-fixant-la-date-douverture-et-la-duree-de-la-2eme-session-ordinaire-de-1985-dite-session-budgetaire/",
+  "description": "fixant la date d'ouverture et la durée de la 2ème session ordinaire de 1985 dite \"session budgétaire\".",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;LA LOI DONT LA TENEUR SUIT .&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU Les Lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 JUIN 1977,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU La Loi 67-521 du 3 juillet 1967 et notamment en son article 28,</p>",
+  "signature": "",
+  "journal_issue_ids": 58213,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE&nbsp;LA LOI DONT LA TENEUR SUIT .&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU Les Lois constitutionnelles n&deg;s LR/77-001 et LR/77-002 du 27 JUIN 1977,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU La Loi 67-521 du 3 juillet 1967 et notamment en son article 28,</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 2ème session ordinaire de 1985 dite « session budgétaire » de l’Assemblée Nationale est fixée au 2 novembre 1985 à 9 H 00."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette session ne pourra dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente loi sera publiée au Journal Officiel de la République de Djibouti dès promulgation."
+    }
+  ]
+}

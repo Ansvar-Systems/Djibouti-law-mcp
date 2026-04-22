@@ -1,0 +1,42 @@
+{
+  "id": "loi-n34-an-88-2eme-l-portant-approbation-dun-pret-entre-la-republique-de-djibouti-et-la-caisse-centrale-de-cooperation-economique",
+  "type": "statute",
+  "title": "Loi n° 34/AN/88/2ème L portant approbation d’un prêt entre la République de Djibouti et la Caisse centrale de Coopération économique.",
+  "short_name": "Loi n° 34/AN/88/2ème L portant approbation d’un prêt entre la République de…",
+  "status": "in_force",
+  "reference": "34/AN/88/2ème L",
+  "issued_date": "1988-05-31",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n34-an-88-2eme-l-portant-approbation-dun-pret-entre-la-republique-de-djibouti-et-la-caisse-centrale-de-cooperation-economique/",
+  "description": "portant approbation d'un prêt entre la République de Djibouti et la Caisse centrale de Coopération économique.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU les lois constitutionnelles nos LR/77-001 et LR/77-002 en date du 27 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU l&rsquo;ordonnance n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/ordonnance-nlr-77-008/'>LR/77-008 </a>du 30 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU le d&eacute;cret n&deg;87-098/PRE du 23 novembre 1987 portant nomination des membres du gouvernement.</span></p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le pr&eacute;sident de la R&eacute;publique</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">HASSAN GOULED APTIDON</span></p>",
+  "journal_issue_ids": 58153,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU les lois constitutionnelles nos LR/77-001 et LR/77-002 en date du 27 juin 1977 ;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU l&rsquo;ordonnance n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/ordonnance-nlr-77-008/'>LR/77-008 </a>du 30 juin 1977 ;&nbsp;</span></p>\n<p style=\"margin-bottom: -20px;\"><span style=\"color: #0000FF;\">VU le d&eacute;cret n&deg;87-098/PRE du 23 novembre 1987 portant nomination des membres du gouvernement.</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est approuvée la convention de prêt entre la République de Djibouti et la Caisse centrale de Coopération économique portant sur un montant de 50 000 000 FF (cinquante millions de francs français) telle qu’annexé à la présente loi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera publiée au Journal officiel dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">Par le pr&eacute;sident de la R&eacute;publique</span></p>\n<p style=\"margin-bottom: -20px;\" align=\"right\"><span style=\"color: #0000FF;\">HASSAN GOULED APTIDON</span></p>"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "loi-n25-an-98-4eme-l-affectant-au-ministere-de-la-justice-des-affaires-penitentiaires-et-musulmanes-une-parcelle-de-terrain-sise-aux-salines-ouest",
+  "type": "statute",
+  "title": "Loi n° 25/AN/98/4ème L affectant au Ministère de la Justice des Affaires Pénitentiaires et Musulmanes, une parcelle de terrain sise aux Salines Ouest.",
+  "short_name": "Loi n° 25/AN/98/4ème L affectant au Ministère de la Justice des Affaires…",
+  "status": "in_force",
+  "reference": "25/AN/98/4ème L",
+  "issued_date": "1998-11-15",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n25-an-98-4eme-l-affectant-au-ministere-de-la-justice-des-affaires-penitentiaires-et-musulmanes-une-parcelle-de-terrain-sise-aux-salines-ouest/",
+  "description": "affectant au Ministère de la Justice des Affaires Pénitentiaires et Musulmanes, une parcelle de terrain sise aux Salines Ouest.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p><span style=\"font-family: Times New Roman;\">VU La constitution du 15 septembre 1992 ;<br />VU Le d&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n97-0191-pre-portant-remaniement-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>97-0191/PRE </a>du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions ;</span></p>",
+  "signature": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 57929,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p><span style=\"font-family: Times New Roman;\">VU La constitution du 15 septembre 1992 ;<br />VU Le d&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n97-0191-pre-portant-remaniement-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>97-0191/PRE </a>du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions ;</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est affecté au Ministère de la Justice, des Affaires Pénitentiaires et Musulmanes, une parcelle de terrain d’une superficie de 3 000 mètres carrés, sise aux Salines Ouest."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Cette parcelle de terrain est destinée à l’extension de la Mosquée « AL JOUMMA »."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Dans les vingt jours qui suivent la promulgation de la présente loi, le Chef de Service des Domaines fera remise de ladite parcelle de terrain au Ministère de la Justice, des Affaires Pénitentiaires et Musulmanes.\nIl sera dressé procès-verbal de cette opération, lequel comportera évaluation du terrain affecté et détermination de ses limites."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente loi sera publiée au Journal Officiel de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

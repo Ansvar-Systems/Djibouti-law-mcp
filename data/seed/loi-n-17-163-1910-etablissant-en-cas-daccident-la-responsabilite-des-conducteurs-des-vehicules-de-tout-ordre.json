@@ -1,0 +1,36 @@
+{
+  "id": "loi-n-17-163-1910-etablissant-en-cas-daccident-la-responsabilite-des-conducteurs-des-vehicules-de-tout-ordre",
+  "type": "statute",
+  "title": "Loi n° 17-163-1910 établissant, en cas d’accident, la responsabilité des conducteurs des vehicules de tout ordre.",
+  "short_name": "Loi n° 17-163-1910 établissant, en cas d’accident, la responsabilité des…",
+  "status": "in_force",
+  "reference": "17-163-1910",
+  "issued_date": "1908-07-17",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-17-163-1910-etablissant-en-cas-daccident-la-responsabilite-des-conducteurs-des-vehicules-de-tout-ordre/",
+  "description": "établissant, en cas d'accident, la responsabilité des conducteurs des vehicules de tout ordre.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la Loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">A. FALLI&Egrave;RES.</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux,</p>\n<p style=\"margin: 0px;\">Ministre de la Justice et des Cultes,</p>\n<p style=\"margin: 0px;\">Aristide BRIAND.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": 192200,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des D&eacute;put&eacute;s ont adopt&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la Loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique, — Tout conducteur d’un véhicule quelconque qui, sachant que ce véhicule vient de causer ou d’occasionner un accident, ne se sera pas arrêté et aura ainsi tenté d’échapper à la responsabilité pénale ou civile qu’il peut avoir encourue, sera puni de six jours à deux mois de prison et d’une amende de seize francs à cinq cents francs (16 à 500 fr.), sans préjudice des peines contre les crimes ou délits qui se seraient joints à celui-ci.\n\n Dans le cas où il y aurait lieu, en outre, à l’application des articles 319 et 320 du Code pénal, les pénalités encourues aux termes de ces articles seraient portées au double.\n\n Les dispositions de l’article 463 du Code pénal sont applicables au délit prévu par la présente loi.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des Députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">A. FALLI&Egrave;RES.</p>\n<p style=\"margin: 0px;\">Le Garde des Sceaux,</p>\n<p style=\"margin: 0px;\">Ministre de la Justice et des Cultes,</p>\n<p style=\"margin: 0px;\">Aristide BRIAND.</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

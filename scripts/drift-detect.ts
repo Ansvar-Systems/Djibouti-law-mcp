@@ -2,8 +2,9 @@
 /**
  * Drift detection for Djibouti Law MCP.
  *
- * Checks if upstream Djibouti Law content has changed since last ingestion.
- * Uses the golden-hashes.json fixture to verify content integrity.
+ * Checks whether upstream content on journalofficiel.dj has changed
+ * since last ingestion. Uses the golden-hashes.json fixture to verify
+ * content integrity of a representative sample of provisions.
  */
 
 import { readFileSync } from 'fs';
@@ -46,7 +47,7 @@ async function main(): Promise<void> {
 
     try {
       const response = await fetch(hash.upstream_url, {
-        headers: { 'User-Agent': 'djiboutian-law-mcp/1.0 drift-detect' },
+        headers: { 'User-Agent': 'djibouti-law-mcp/1.0 drift-detect' },
       });
 
       if (response.status !== 200) {

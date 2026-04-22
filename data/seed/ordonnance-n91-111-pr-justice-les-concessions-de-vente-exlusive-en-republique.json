@@ -1,0 +1,36 @@
+{
+  "id": "ordonnance-n91-111-pr-justice-les-concessions-de-vente-exlusive-en-republique",
+  "type": "statute",
+  "title": "Ordonnance n° 91-111/PR/JUSTICE les concessions de vente exlusive en republique",
+  "short_name": "Ordonnance n° 91-111/PR/JUSTICE les concessions de vente exlusive en republique",
+  "status": "in_force",
+  "reference": "91-111/PR/JUSTICE",
+  "issued_date": "1991-06-06",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n91-111-pr-justice-les-concessions-de-vente-exlusive-en-republique/",
+  "description": "les concessions de vente exlusive en republique",
+  "nature": "Ordonnance",
+  "institution": "Ministère de la justice et des affaires musulmanes",
+  "visas": "<p style=\"margin: 0px;\">La president de la republique chef du gouvernement;</p>\n<p style=\"margin: 0px;\">Vu loi constitutionelle n&deg;os 1 et 2 du 27 juin 1977;</p>\n<p style=\"margin: 0px;\">Vu la loi n&deg;37/AN/88/2e L sur les concessions de vente exclusive en republiaque de djibouti;</p>\n<p style=\"margin: 0px;\">Vu le decret n&deg;91-128 en date du 25 novembre 1990 portant nomination de membre du gouvernement;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le conseil des ministre entendue en sa seance du 30 juillet 1991.</p>",
+  "signature": "",
+  "journal_issue_ids": 58088,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">La president de la republique chef du gouvernement;</p>\n<p style=\"margin: 0px;\">Vu loi constitutionelle n&deg;os 1 et 2 du 27 juin 1977;</p>\n<p style=\"margin: 0px;\">Vu la loi n&deg;37/AN/88/2e L sur les concessions de vente exclusive en republiaque de djibouti;</p>\n<p style=\"margin: 0px;\">Vu le decret n&deg;91-128 en date du 25 novembre 1990 portant nomination de membre du gouvernement;</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le conseil des ministre entendue en sa seance du 30 juillet 1991.</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "il est ajoute à l’article 4 de la loi precitee n°37/AN/88/2e L du 11 juin 1988 un deuxieme alinea ainsi redige:\n\n\nest egalement nulle et toute clause du contrat de concession de vente exclusive qui viserait à la constitution d’une situation monopolistique ou quasi monopolistique."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "la presente ordonnace entrera en viguer des sa publication selon la procedure d’urgence."
+    }
+  ]
+}

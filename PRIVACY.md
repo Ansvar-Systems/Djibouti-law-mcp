@@ -154,7 +154,7 @@ The database is read-only. No user data is written to disk.
 
 1. Use local npm package for maximum privacy
 2. General research: Cloud AI is acceptable for non-client queries
-3. Client matters: Use commercial legal databases (Djibouti Law Reports, LexisNexis East Africa)
+3. Client matters: Cross-check against the Journal Officiel de la République de Djibouti (journalofficiel.dj) and commercial legal databases where available
 
 ### For Large Firms / Corporate Legal
 

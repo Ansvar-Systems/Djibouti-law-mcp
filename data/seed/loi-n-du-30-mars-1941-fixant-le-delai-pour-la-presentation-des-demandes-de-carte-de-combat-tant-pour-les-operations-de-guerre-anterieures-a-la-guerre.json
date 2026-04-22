@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-du-30-mars-1941-fixant-le-delai-pour-la-presentation-des-demandes-de-carte-de-combat-tant-pour-les-operations-de-guerre-anterieures-a-la-guerre",
+  "type": "statute",
+  "title": "Loi n° du 30 mars 1941. fixant le délai pour la présentation des demandes de carte de combat tant pour les opérations de guerre antérieures à la guerre 1939- 1940",
+  "short_name": "Loi n° du 30 mars 1941. fixant le délai pour la présentation des demandes de…",
+  "status": "in_force",
+  "reference": "du 30 mars 1941.",
+  "issued_date": "1941-03-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-du-30-mars-1941-fixant-le-delai-pour-la-presentation-des-demandes-de-carte-de-combat-tant-pour-les-operations-de-guerre-anterieures-a-la-guerre-1939-1940/",
+  "description": "fixant le délai pour la présentation des demandes de carte de combat tant pour les opérations de guerre antérieures à la guerre 1939- 1940",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>",
+  "signature": "<p>Pn. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>Le  ie&laquo;-Pr&eacute;sidi et du Conseil, Ministre</p>\n<p>Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur &gt;t au.r</p>\n<p>affaires &eacute;tranp&egrave;crs.</p>\n<p>DARLAN.</p>\n<p>Le Ministre Secr&eacute;tairt d'Etat&nbsp;&agrave; la puerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'ariation.</p>\n<p>BERGERET.</p>\n<p>Le Secr&eacute;taire d'Etat au.r colonies.</p>\n<p>Platon.</p>",
+  "journal_issue_ids": [
+    105863
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais,</p>\n<p>Le Conseil des Ministres entendu,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — Pour être recevables, les demandes nouvelles de cartes de combattants au titre des opérations de guerre antérieures à la guerre 1939-1940 devront être présentées dans le délai de deux mois qui suivra la date de la promulgation du présent décret. lequel sera inséré au Journal officiel et exécuté comme loi d’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Pn. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France, Chef de l'Etat</p>\n<p>fran&ccedil;ais :</p>\n<p>Le  ie&laquo;-Pr&eacute;sidi et du Conseil, Ministre</p>\n<p>Secr&eacute;taire d'Etat &agrave; l'int&eacute;rieur &gt;t au.r</p>\n<p>affaires &eacute;tranp&egrave;crs.</p>\n<p>DARLAN.</p>\n<p>Le Ministre Secr&eacute;tairt d'Etat&nbsp;&agrave; la puerre.</p>\n<p>HUNTZIGER.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; l'ariation.</p>\n<p>BERGERET.</p>\n<p>Le Secr&eacute;taire d'Etat au.r colonies.</p>\n<p>Platon.</p>"
+    }
+  ]
+}

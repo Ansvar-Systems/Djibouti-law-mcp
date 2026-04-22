@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-37-modifiant-les-statuts-de-la-caisse-centrale-de-la-france-libre",
+  "type": "statute",
+  "title": "Ordonnance n° 37 modifiant les statuts de la caisse centrale de la France Libre.",
+  "short_name": "Ordonnance n° 37 modifiant les statuts de la caisse centrale de la France Libre.",
+  "status": "in_force",
+  "reference": "37",
+  "issued_date": "1942-12-28",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-37-modifiant-les-statuts-de-la-caisse-centrale-de-la-france-libre/",
+  "description": "modifiant les statuts de la caisse centrale de la France Libre.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 16 du 24 septembre&nbsp;1941 portant organisation nouvelle des pouvous publics de la France Libre ;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 21 du 2 D&eacute;cembre&nbsp;1941, instituant la Caisse Centrale de la&nbsp;France Libre ;</p>\n<p style=\"margin: 0px;\">Sur la proposition du Commissaire National aux finances, &agrave; l&rsquo;&eacute;conomie et &agrave; la Marine Marchande ;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; dans sa s&eacute;ance du 26 D&eacute;cembre 1942,</p>",
+  "signature": "<p style=\"margin: 0px;\">C. DE Gaulle.</p>\n<p style=\"margin: 0px;\">Par le Chef de la France Combattante,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire national aux finances,</p>\n<p style=\"margin: 0px;\">&agrave; l'&eacute;conomie et &agrave; la marine</p>\n<p style=\"margin: 0px;\">marchande,</p>\n<p style=\"margin: 0px;\">A. DIETHELM.</p>",
+  "journal_issue_ids": [
+    105842
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 16 du 24 septembre&nbsp;1941 portant organisation nouvelle des pouvous publics de la France Libre ;</p>\n<p style=\"margin: 0px;\">Vu l&rsquo;ordonnance n. 21 du 2 D&eacute;cembre&nbsp;1941, instituant la Caisse Centrale de la&nbsp;France Libre ;</p>\n<p style=\"margin: 0px;\">Sur la proposition du Commissaire National aux finances, &agrave; l&rsquo;&eacute;conomie et &agrave; la Marine Marchande ;</p>\n<p style=\"margin: 0px;\">Le Comit&eacute; National en ayant d&eacute;lib&eacute;r&eacute; dans sa s&eacute;ance du 26 D&eacute;cembre 1942,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. Les articles 2 et 4 des Statuts de la Caisse centrale de la France Libre, annexes à l’Ordonnance sus-visée du 2 Décembre 1941. sont modifiés et complétés comme suit :\n\n Art. 2. Les opérations de la caisse consistent :\n\n V. Aassurer à son siège, le service des caisses publiuqes, ainsi qu en tout autre lieu, désigné par le Commissaire National aux Finances, où elle possède une succursale ou une agence .\n\n La responsabilité de la caisse Centrale est limitée, en ce qui concerne le règlement des dépenses publiques.\n\n A) – la vérification de la régularité matérielle des ordonnances de payement qui lui sont adressées, et notamment du visa dont ces ordonnances doivent avoir été préalablement revêtues par les services du Commissariat National aux Finances ;\n\n B) – la validité des payements qu’elle effectue, tant en ce qui concerne l’identité des créanciers que leur capacité de donner quit tance entière et définitive.\n\n La Caisse reçoit en dépôt les deniers publics de la France Combattante. Dans le cas où elle ne peut assumer elle-même ce service, elle désigne les établissements où ces fonds pourront être déposés.\n\n Art. 4. La caisse aura une dotation initiale de 100 millions de francs, qui lui sera avancée par le Commissaire National aux Finances.\n\n Cette dotation sera portée sur lavis du Conseil de surveillance, à 250 million de frs par Décision du Commissaire National aux Finances, au fur et à mesure du développement de ses opérations.\n\n Art. 2. — Le Comissaire National aux Finances, à l’Economie et à la Mrine Marchande est chargé de l’éxécution de la présente ordonnance qui sera publiée au Journal Officiel de la France Combattante."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">C. DE Gaulle.</p>\n<p style=\"margin: 0px;\">Par le Chef de la France Combattante,</p>\n<p style=\"margin: 0px;\">Pr&eacute;sident du Comit&eacute; National&nbsp;:</p>\n<p style=\"margin: 0px;\">Le Commissaire national aux finances,</p>\n<p style=\"margin: 0px;\">&agrave; l'&eacute;conomie et &agrave; la marine</p>\n<p style=\"margin: 0px;\">marchande,</p>\n<p style=\"margin: 0px;\">A. DIETHELM.</p>"
+    }
+  ]
+}

@@ -9,10 +9,10 @@ import type Database from '@ansvar/mcp-sqlite';
 /**
  * Resolve a document identifier to a database document ID.
  * Supports:
- * - Direct ID match (e.g., "data-protection-act-2019")
- * - Act title match (e.g., "Data Protection Act 2019")
- * - Partial title match (e.g., "Data Protection", "Cybercrimes")
- * - Short name match (e.g., "DPA 2019", "CMCA 2018")
+ * - Direct ID match (e.g., "loi-192-an-25-9eme-l")
+ * - Full title match (e.g., "Loi n°192/AN/25/9ème L portant révision de la Constitution")
+ * - Partial title match (e.g., "Constitution", "code du travail")
+ * - JORD reference match (e.g., "192/AN/25")
  */
 export function resolveDocumentId(
   db: InstanceType<typeof Database>,

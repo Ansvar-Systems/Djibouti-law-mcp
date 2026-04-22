@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-n37-application-aux-colonies-francais-le-la-loi-du-1-fevrier-1927-ayant-pour-but-de-modifier-et-de-completer-larticle-106-du-code-de-commerce",
+  "type": "statute",
+  "title": "Loi n° n°37 Application aux colonies français le la loi du 1° février 1927 ayant pour but de modifier et de compléter l’article 106 du code de commerce.",
+  "short_name": "Loi n° n°37 Application aux colonies français le la loi du 1° février 1927…",
+  "status": "in_force",
+  "reference": "n°37",
+  "issued_date": "1929-10-17",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-n37-application-aux-colonies-francais-le-la-loi-du-1-fevrier-1927-ayant-pour-but-de-modifier-et-de-completer-larticle-106-du-code-de-commerce/",
+  "description": "Application aux colonies français le la loi du 1° février 1927 ayant pour but de modifier et de compléter l’article 106 du code de commerce.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;pulique fran&ccedil;aise,&nbsp;Sur le rapport du Ministre des colonies,</p>\n<p style=\"margin: 0px;\">Vu le s&eacute;nutus-consulte du 3 mai 1854;</p>\n<p style=\"margin: 0px;\">Vu la loi du 12 f&eacute;vrier 1927 ayant pour but&nbsp;de modifier et de compl&eacute;ter l'article 106 de Code de commerce relatif &agrave; a constatation de l'&eacute;tat des objets transport&eacute;s en cas de refus on de contestation &agrave; l'arriv&eacute;e,</p>",
+  "signature": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">andre maginot</p>",
+  "journal_issue_ids": [
+    106012
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;pulique fran&ccedil;aise,&nbsp;Sur le rapport du Ministre des colonies,</p>\n<p style=\"margin: 0px;\">Vu le s&eacute;nutus-consulte du 3 mai 1854;</p>\n<p style=\"margin: 0px;\">Vu la loi du 12 f&eacute;vrier 1927 ayant pour but&nbsp;de modifier et de compl&eacute;ter l'article 106 de Code de commerce relatif &agrave; a constatation de l'&eacute;tat des objets transport&eacute;s en cas de refus on de contestation &agrave; l'arriv&eacute;e,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1°. — Est rendme applicable aux colonies françaises la loi du 12 février 1927 ayant pour but de modifier et de compléter l’article 106 du Code de commerce relatif à la constatation de l’étut des objets transportés, en cas de refus onu de contestation à l’arrivée,\n\n Art. 2 — Le Ministre des colonies es chargé de l’exécution du présent décret."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">gaston doumergue</p>\n<p style=\"margin: 0px;\">par le president de la republique</p>\n<p style=\"margin: 0px;\">le ministre des colonie</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">andre maginot</p>"
+    }
+  ]
+}

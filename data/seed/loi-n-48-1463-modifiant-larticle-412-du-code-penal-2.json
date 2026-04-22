@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-48-1463-modifiant-larticle-412-du-code-penal-2",
+  "type": "statute",
+  "title": "Loi n° 48-1463 modifiant l’article 412 du Code pénal.",
+  "short_name": "Loi n° 48-1463 modifiant l’article 412 du Code pénal.",
+  "status": "in_force",
+  "reference": "48-1463",
+  "issued_date": "1948-09-22",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-48-1463-modifiant-larticle-412-du-code-penal-2/",
+  "description": "modifiant l’article 412 du Code pénal.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">L' Assembl&eacute;e nationale et le Conseil de la R&eacute;publique &raquo; ont d&eacute;lib&eacute;r&eacute;,</p>\n<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale a adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">VINCENT AURIOL.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres.</p>\n<p style=\"margin: 0px;\">Ministre des finances et des affaires &eacute;conomiques,</p>\n<p style=\"margin: 0px;\">Henri QUEUILLE.</p>\n<p style=\"margin: 0px;\">Le Vice-Pr&eacute;sident du Conseil, Garde des sceaux, Ministre de la justice,</p>\n<p style=\"margin: 0px;\">Andr&eacute; MARIE</p>",
+  "journal_issue_ids": [
+    105800
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">L' Assembl&eacute;e nationale et le Conseil de la R&eacute;publique &raquo; ont d&eacute;lib&eacute;r&eacute;,</p>\n<p style=\"margin: 0px;\">L'Assembl&eacute;e nationale a adopt&eacute;,</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Article unique. — Le deuxième alinéa de l’article 412 du Code yénal est modifié comme suit :\n\n « La même peine aura lieu contre ceux qui, par dons, promesses où ententes frauduleuses\n\n auront écarté ou tenté d’écarter les enchérisseurs, limité ou tenté de limiter les enchères\n\n ou soumissions, ainsi que contre ceux qui auront recu ces dons on accepté ces promesse. »\n\n La présente loi sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">VINCENT AURIOL.</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident du Conseil des Ministres.</p>\n<p style=\"margin: 0px;\">Ministre des finances et des affaires &eacute;conomiques,</p>\n<p style=\"margin: 0px;\">Henri QUEUILLE.</p>\n<p style=\"margin: 0px;\">Le Vice-Pr&eacute;sident du Conseil, Garde des sceaux, Ministre de la justice,</p>\n<p style=\"margin: 0px;\">Andr&eacute; MARIE</p>"
+    }
+  ]
+}

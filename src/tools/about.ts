@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Djiboutian Legal Information Portal',
-      authority: 'lawdjiboutian.com',
-      url: 'https://www.lawdjiboutian.com',
-      license: 'Government Open Data',
-      jurisdiction: 'ET',
-      languages: ['en', 'am'],
+      name: 'Journal Officiel de la République de Djibouti (JORD)',
+      authority: 'journalofficiel.dj',
+      url: 'https://www.journalofficiel.dj',
+      license: 'Public record (Journal Officiel)',
+      jurisdiction: 'DJ',
+      languages: ['fr'],
     },
   };
 }

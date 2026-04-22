@@ -1,0 +1,32 @@
+{
+  "id": "loi-n-680-sej-promulguant-la-loi-n-69-700-du-30-juin-1969-portant-amnistie",
+  "type": "statute",
+  "title": "Loi n° 680/SEJ promulguant la loi n° 69-700 du 30 juin 1969 portant amnistie",
+  "short_name": "Loi n° 680/SEJ promulguant la loi n° 69-700 du 30 juin 1969 portant amnistie",
+  "status": "in_force",
+  "reference": "680/SEJ",
+  "issued_date": "1969-07-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-680-sej-promulguant-la-loi-n-69-700-du-30-juin-1969-portant-amnistie/",
+  "description": "promulguant la loi n° 69-700 du 30 juin 1969 portant amnistie",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "",
+  "signature": "<p style=\"margin: 0px;\">Pour le Haut-Commissaire de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">et par d&eacute;l&eacute;gation,</p>\n<p style=\"margin: 0px;\">Le Haut-Commissaire adjoint,</p>\n<p style=\"margin: 0px;\">Andr&eacute; MARTIN-DELAHAYE.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "journal_issue_ids": [
+    105527
+  ],
+  "provisions": [
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er, — Est promulguée dans le Territoire Français des Afars et des Issas la loi n° 69-700 du 30 juin 1969 portant amnistie.\n\n Art. 2. — Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">Pour le Haut-Commissaire de la R&eacute;publique</p>\n<p style=\"margin: 0px;\">et par d&eacute;l&eacute;gation,</p>\n<p style=\"margin: 0px;\">Le Haut-Commissaire adjoint,</p>\n<p style=\"margin: 0px;\">Andr&eacute; MARTIN-DELAHAYE.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    }
+  ]
+}

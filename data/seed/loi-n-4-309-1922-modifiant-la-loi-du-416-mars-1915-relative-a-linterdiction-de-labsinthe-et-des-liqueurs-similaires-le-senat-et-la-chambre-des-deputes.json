@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-4-309-1922-modifiant-la-loi-du-416-mars-1915-relative-a-linterdiction-de-labsinthe-et-des-liqueurs-similaires-le-senat-et-la-chambre-des-deputes",
+  "type": "statute",
+  "title": "Loi n° 4-309-1922 modifiant la loi du 416 mars 1915 relative à l’interdiction de l’absinthe et des liqueurs similaires. Le Sénat et la Chambre des députés ont adopté,",
+  "short_name": "Loi n° 4-309-1922 modifiant la loi du 416 mars 1915 relative à l’interdiction…",
+  "status": "in_force",
+  "reference": "4-309-1922",
+  "issued_date": "1922-07-17",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-4-309-1922-modifiant-la-loi-du-416-mars-1915-relative-a-linterdiction-de-labsinthe-et-des-liqueurs-similaires-le-senat-et-la-chambre-des-deputes-ont-adopte/",
+  "description": "modifiant la loi du 416 mars 1915 relative à l'interdiction de l'absinthe et des liqueurs similaires. Le Sénat et la Chambre des députés ont adopté,",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin: 0px;\">LE. LIPPMANN.</p>\n<p style=\"margin: 0px;\">Par le Gourerneur :</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire g&eacute;n&eacute;ral du gouvernement,</p>\n<p style=\"margin: 0px;\">A. GR&Eacute;MILLET.</p>\n<p style=\"margin: 0px;\">Le Chef du service judiciaire,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">LHERMITTE.</p>",
+  "journal_issue_ids": [
+    106068
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promulgue la loi dont la teneur suit :</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er.— L’article 1er de la loi du 16 mars 1915 est modifié comme il suit :\n\n « Sont interdites la fabrication, la vente en gros et en détail, ainsi que la circulation de l’absinthe et des liqueurs similaires visées par l’article 15 de la loi du 30 janvier 1907 et l’article 17 de la loi du 26 décembre 1908,\n\n « Un décret fixera les caractères auxquels on reéconnailra qu’un spiritueux doit ètre considéré comme liqueur similaire au sens de la présente loi.\n\n « Les contraventions au paragraphe fer du présent article seront punies, à la requête de l’administration des contributions indirectes, des peines fiscales prévues à l’article 1er de la loi du 28 février 1872 et à l’article 19 de celle du 30 janvier 1907, et, à la requête du ministère public, d’une amende de 16 fr. à 500 fr.\n\n En cas de récidive, la fermeture de l’établissement pourra être prononcée par les tribunaus.\n\n « Les infractions à la présente loi seront recherchées et constatées comme en matière de fraudes et falsifications.\n\n Art. 2.— La présente loi est applicable à l’Algérie, aux colonies et aux pays de protectorat.\n\n La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">LE. LIPPMANN.</p>\n<p style=\"margin: 0px;\">Par le Gourerneur :</p>\n<p style=\"margin: 0px;\">Le Secr&eacute;taire g&eacute;n&eacute;ral du gouvernement,</p>\n<p style=\"margin: 0px;\">A. GR&Eacute;MILLET.</p>\n<p style=\"margin: 0px;\">Le Chef du service judiciaire,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">LHERMITTE.</p>"
+    }
+  ]
+}

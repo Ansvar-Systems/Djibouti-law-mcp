@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-30-juin-1943-lordonnance-relative-aux-fausses-declarations-en-matiere-de-bagages-perdus-dans-les-transports-par-chemin-de-fer",
+  "type": "statute",
+  "title": "Ordonnance n° 30 juin 1943 l’ordonnance relative aux fausses déclarations en matière de bagages perdus dans les transports par chemin de fer.",
+  "short_name": "Ordonnance n° 30 juin 1943 l’ordonnance relative aux fausses déclarations en…",
+  "status": "in_force",
+  "reference": "30 juin 1943",
+  "issued_date": "1943-06-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-30-juin-1943-lordonnance-relative-aux-fausses-declarations-en-matiere-de-bagages-perdus-dans-les-transports-par-chemin-de-fer/",
+  "description": "l’ordonnance relative aux fausses déclarations en matière de bagages perdus dans les transports par chemin de fer.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>&nbsp;Le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration Nationale.</p>",
+  "signature": "<p>ALGER, le 30 juin 1943.</p>\n<p>De Gaulle Giraud.</p>\n<p>Par le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration Nationale.</p>\n<p>Le Commissaire aux Communications et &agrave; la Marine Marchandes.</p>\n<p>RENE Mayer</p>",
+  "journal_issue_ids": [
+    105847
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>&nbsp;Le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration Nationale.</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er.– Les pénalités prévues à l’ar ticle 21 de la loi du 15 juillet 1845 sont applicables à toute personne qui. en cas de non livraison d’un colis ayant fait l’objet d’un enregistrement-bagages ou d’un dépôt en con signe aura fait. dans sa réclamation. une fausse déclaration de nature ou de valeur des objets contenus dans les dits colis. Art. 2. La présente ordonnance sera exécutée comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>ALGER, le 30 juin 1943.</p>\n<p>De Gaulle Giraud.</p>\n<p>Par le Comit&eacute; fran&ccedil;ais de la Lib&eacute;ration Nationale.</p>\n<p>Le Commissaire aux Communications et &agrave; la Marine Marchandes.</p>\n<p>RENE Mayer</p>"
+    }
+  ]
+}

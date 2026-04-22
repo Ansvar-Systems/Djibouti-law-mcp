@@ -1,0 +1,48 @@
+{
+  "id": "loi-n153-an-1re-l-fixant-la-date-de-louverture-et-la-duree-de-la-1ere-session-ordinaire-de-1985",
+  "type": "statute",
+  "title": "Loi n° 153/AN/1re L Fixant la date de l’ouverture et la durée de la 1ère session ordinaire de 1985.",
+  "short_name": "Loi n° 153/AN/1re L Fixant la date de l’ouverture et la durée de la 1ère…",
+  "status": "in_force",
+  "reference": "153/AN/1re L",
+  "issued_date": "1985-04-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n153-an-1re-l-fixant-la-date-de-louverture-et-la-duree-de-la-1ere-session-ordinaire-de-1985/",
+  "description": "Fixant la date de l'ouverture et la durée de la 1ère session ordinaire de 1985.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; R / 77-001 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la&nbsp; loi n&deg;67-521 du 3 juillet 1967, notamment en son article 28.</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">chef du Gouvernement&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Hassan Gouled Aptidon.</p>",
+  "journal_issue_ids": 58207,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; R / 77-001 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU la&nbsp; loi n&deg;67-521 du 3 juillet 1967, notamment en son article 28.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La date d’ouverture de la 1ère session ordinaire de 1985 de l’Assemblée nationale est fixée au 14 avril 1985 à 9 h 00."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La durée de cette séance ne pourra être dépasser deux mois."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "L a présente loi sera publiée au Journal officiel der la République de Djibouti, dés sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Le Pr&eacute;sident de la R&eacute;publique&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">chef du Gouvernement&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">Hassan Gouled Aptidon.</p>"
+    }
+  ]
+}

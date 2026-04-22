@@ -1,0 +1,42 @@
+{
+  "id": "ordonnance-n79-005-pr-portant-sur-la-publication-des-textes",
+  "type": "statute",
+  "title": "Ordonnance n° 79-005/PR portant sur la publication des textes.",
+  "short_name": "Ordonnance n° 79-005/PR portant sur la publication des textes.",
+  "status": "in_force",
+  "reference": "79-005/PR",
+  "issued_date": "1979-01-23",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n79-005-pr-portant-sur-la-publication-des-textes/",
+  "description": "portant sur la publication des textes.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU l'article ler du Code civil ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU la n&eacute;cessit&eacute; d'assurer la continuit&eacute; du fonctionnement des institutions de la R&eacute;publique ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu en sa s&eacute;ance du 16 janvier 1979;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58259,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg; 1 et 2 du 27 juin 1977;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU l'article ler du Code civil ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU la n&eacute;cessit&eacute; d'assurer la continuit&eacute; du fonctionnement des institutions de la R&eacute;publique ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu en sa s&eacute;ance du 16 janvier 1979;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les textes ainsi publiés seront applicables aux litiges en cours en toute matière même si ces affaires sont en appel ou font l’objet d’un pourvoi en cassation."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance sera applicable dès sa publication qui interviendra par procédure d’urgence."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"right\">Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p style=\"margin-bottom: -20px;\" align=\"right\">HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

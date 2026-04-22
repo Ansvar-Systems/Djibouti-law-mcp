@@ -1,0 +1,48 @@
+{
+  "id": "ordonnance-n77-013-sur-le-maintien-de-lordre-public-2",
+  "type": "statute",
+  "title": "Ordonnance n° 77-013 sur le maintien de l’ordre public.",
+  "short_name": "Ordonnance n° 77-013 sur le maintien de l’ordre public.",
+  "status": "in_force",
+  "reference": "77-013",
+  "issued_date": "1977-07-29",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-013-sur-le-maintien-de-lordre-public-2/",
+  "description": "sur le maintien de l'ordre public.",
+  "nature": "Ordonnance",
+  "institution": "MINISTÈRE DE LA JUSTICE ET DES AFFAIRES PÉNITENTIAIRES",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s LR/ 77-001 et 002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Consid&eacute;rant la n&eacute;cessit&eacute; d'assurer le maintien de l'ordre sur le territoire national de la R&eacute;publique, ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE Conseil des Ministres entendu.</p>",
+  "signature": "",
+  "journal_issue_ids": 58236,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s LR/ 77-001 et 002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">Consid&eacute;rant la n&eacute;cessit&eacute; d'assurer le maintien de l'ordre sur le territoire national de la R&eacute;publique, ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE Conseil des Ministres entendu.</p>"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "– Demeurent interdites toutes réunions sur la voie publique."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "– Tout participant aux manifestations, rassemblements, cortèges et défilés non autorisés visés à l’article premier ainsi que tout participant à une réunion sur la voie publique, sera puni d’un emprisonnement de 15 jours à 6 mois sans préjudice des peines propres aux organisateurs prévues par le décret du 23 octobre 1935 ou des peines plus fortes pouvant résulter l’application des articles 108 -1 et suivants du Code pénal."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "– Toutes dispositions contraires à la présente ordonnance sont abrogées."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "– La présente ordonnance sera exécutée comme loi d’État, publiée suivant la procédure d’urgence et au «Journal Officiel» de la République de Djibouti."
+    }
+  ]
+}

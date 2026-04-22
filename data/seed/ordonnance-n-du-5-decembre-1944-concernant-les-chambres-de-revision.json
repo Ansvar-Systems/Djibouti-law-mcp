@@ -1,0 +1,38 @@
+{
+  "id": "ordonnance-n-du-5-decembre-1944-concernant-les-chambres-de-revision",
+  "type": "statute",
+  "title": "Ordonnance n° du 5 décembre 1944 concernant les chambres de révision.",
+  "short_name": "Ordonnance n° du 5 décembre 1944 concernant les chambres de révision.",
+  "status": "in_force",
+  "reference": "du 5 décembre 1944",
+  "issued_date": "1944-12-05",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n-du-5-decembre-1944-concernant-les-chambres-de-revision/",
+  "description": "concernant les chambres de révision.",
+  "nature": "Ordonnance",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise.</p>\n<p>Sur le rapport du Garde des sceaux. Ministre de la justice :</p>\n<p>Vu l&rsquo;ordonnance du 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration&nbsp;nationale, ensemble les ordonnances des 3 juin&nbsp;et 4 septembre 1944;</p>\n<p>Vu l'ordonnance du 6 juillet 1943 relative &agrave;&nbsp;la l&eacute;gitimit&eacute; des actes accomplis pour la&nbsp;cause de la lib&eacute;ration de la France et &agrave; la&nbsp;r&eacute;vision des condamnations intervenues pour&nbsp;ces faits ;</p>\n<p>Vu le d&eacute;cret du 22 novembre 1944 relatif &agrave;&nbsp;l&rsquo;exercice de la pr&eacute;sidence du Gouvernement&nbsp;provisoire de la R&eacute;publique fran&ccedil;aise pendant,&nbsp;l'absence du g&eacute;n&eacute;ral de Gaulle:</p>\n<p>Le Comit&eacute; juridique entendu,</p>",
+  "signature": "<p>Jules JEANNENEY.</p>\n<p>Par le Pr&eacute;sident du Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Garde des sceaur, Ministre&nbsp;de ta justice,</p>\n<p>Fran&ccedil;ois de MENTHON.&nbsp;</p>",
+  "journal_issue_ids": [
+    105815
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise.</p>\n<p>Sur le rapport du Garde des sceaux. Ministre de la justice :</p>\n<p>Vu l&rsquo;ordonnance du 3 juin 1943 portant institution du Comit&eacute; fran&ccedil;ais de la lib&eacute;ration&nbsp;nationale, ensemble les ordonnances des 3 juin&nbsp;et 4 septembre 1944;</p>\n<p>Vu l'ordonnance du 6 juillet 1943 relative &agrave;&nbsp;la l&eacute;gitimit&eacute; des actes accomplis pour la&nbsp;cause de la lib&eacute;ration de la France et &agrave; la&nbsp;r&eacute;vision des condamnations intervenues pour&nbsp;ces faits ;</p>\n<p>Vu le d&eacute;cret du 22 novembre 1944 relatif &agrave;&nbsp;l&rsquo;exercice de la pr&eacute;sidence du Gouvernement&nbsp;provisoire de la R&eacute;publique fran&ccedil;aise pendant,&nbsp;l'absence du g&eacute;n&eacute;ral de Gaulle:</p>\n<p>Le Comit&eacute; juridique entendu,</p>"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6",
+      "content": "— Le présente ordonnance sera publiée au Journal officiel de la République française et exécuté comme loi."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Jules JEANNENEY.</p>\n<p>Par le Pr&eacute;sident du Gouvernement provisoire de la R&eacute;publique fran&ccedil;aise :</p>\n<p>Le Garde des sceaur, Ministre&nbsp;de ta justice,</p>\n<p>Fran&ccedil;ois de MENTHON.&nbsp;</p>"
+    }
+  ]
+}

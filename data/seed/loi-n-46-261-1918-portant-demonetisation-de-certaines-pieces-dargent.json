@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-46-261-1918-portant-demonetisation-de-certaines-pieces-dargent",
+  "type": "statute",
+  "title": "Loi n° 46-261-1918 portant démonétisation de certaines pièces d’argent.",
+  "short_name": "Loi n° 46-261-1918 portant démonétisation de certaines pièces d’argent.",
+  "status": "in_force",
+  "reference": "46-261-1918",
+  "issued_date": "1918-03-22",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-46-261-1918-portant-demonetisation-de-certaines-pieces-dargent/",
+  "description": "portant démonétisation de certaines pièces d'argent.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR CENTRAL",
+  "visas": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promuigue la loi dont la teneur Suit :</p>",
+  "signature": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L.L. KLOTZ.</p>",
+  "journal_issue_ids": [
+    106088
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin: 0px;\">Le S&eacute;nat et la Chambre des d&eacute;put&eacute;s ont adopt&eacute;,</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Le Pr&eacute;sident de la R&eacute;publique promuigue la loi dont la teneur Suit :</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er.— seront retrirées de la démonéticéas les pièces de 2 fr… 1 fr 50 centimes et 20 centimes à l’effigie de Napoléon III lauré.\n\n Art. 2, – Un décret lixera la date à partir de lequelle ces pièces cesseront d’avoir cours à et forcé et ne seront plus admises dans les caisses de l’Etat.\n\n Art, 3 Les dépenses nécessilées par le retrait des monnaies désignées à l’article 1er seront imputées sur le fonds d’entretien de la circulation monétaire constitué en vertu de l’article ter de la convention internationale du 4 novembre 1908.\n\n La présente loi délibérée et adoptée par le Sénalet par la Chambre des députés, sera exécutée comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p style=\"margin: 0px;\">R. Poincar&eacute;.</p>\n<p>&nbsp;</p>\n<p style=\"margin: 0px;\">Par le Pr&eacute;sident de la R&eacute;publique :</p>\n<p style=\"margin: 0px;\">Le ministre des finances,</p>\n<p style=\"margin: 0px;\">&nbsp;</p>\n<p style=\"margin: 0px;\">L.L. KLOTZ.</p>"
+    }
+  ]
+}

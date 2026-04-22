@@ -1,0 +1,38 @@
+{
+  "id": "loi-n-4-mars-1942-portant-modification-de-larticle-14-de-la-loi-du-27-mai-1885-sur-les-recidivistes",
+  "type": "statute",
+  "title": "Loi n° 4 mars 1942 portant modification de l’article 14 de la loi du 27 mai 1885 sur les récidivistes.",
+  "short_name": "Loi n° 4 mars 1942 portant modification de l’article 14 de la loi du 27 mai…",
+  "status": "in_force",
+  "reference": "4 mars 1942",
+  "issued_date": "1942-03-04",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n-4-mars-1942-portant-modification-de-larticle-14-de-la-loi-du-27-mai-1885-sur-les-recidivistes/",
+  "description": "portant modification de l’article 14 de la loi du 27 mai 1885 sur les récidivistes.",
+  "nature": "Loi",
+  "institution": "ACTES DU POUVOIR LOCAL",
+  "visas": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,</p>",
+  "signature": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte,</p>\n<p>Vice-Pr&eacute;sident du l'conseil,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la marine,</p>\n<p>DARLAN.</p>\n<p>Le Garde des sceaux,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>BARTH&Eacute;L&Eacute;MY.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; ariation.</p>\n<p>Secr&eacute;taire d'Etat aux colonies p. i.,</p>\n<p>BERGERET.</p>",
+  "journal_issue_ids": [
+    105850
+  ],
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Nous, Mar&eacute;chal de France, Chef de l'Etat fran&ccedil;ais.</p>\n<p>Le Conseil des Ministres entendu,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er. — L’article 11 de la loi du 27 mai 1885 sur les récidivistes est ainsi modifié :\n\n « Art. 14. — Le relégué qui à partir de l’expiration de sa peine se sera rendu coupable d’évasion ou de tentative d’évasion, celui qui sans autorisation sera rentré en France ou aura quitté le territoire de relégation, celui qui aura outrepassé le temps fixé par autorisation sera traduit devant le tribunal correctionnel du lieu de son arrestation ou devant celui du lieu de sa relégation et après reconnaissance de son identité sera puni d’un em prisonnement de cinq mois à un an pour la première récidive elle peine sera de un an à deux ans pour la seconde, et les suivantes de deux ans à cinq ans elle sera subie sur le territoire du lieu de relégation. » L’article 463 du Code pénal n’est pas applicable aux infractions prévues au présent article. »\n\n Art. 2. — Le présent décret sera publié au Journal officiel et exécuté comme loi de l’Etat."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>PH. P&Eacute;TAIN.</p>\n<p>Par le Mar&eacute;chal de France,</p>\n<p>Chef de l'Etat fran&ccedil;ais :</p>\n<p>L'Amiral de la flotte,</p>\n<p>Vice-Pr&eacute;sident du l'conseil,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la marine,</p>\n<p>DARLAN.</p>\n<p>Le Garde des sceaux,</p>\n<p>Ministre Secr&eacute;taire d'Etat &agrave; la justice,</p>\n<p>BARTH&Eacute;L&Eacute;MY.</p>\n<p>Le Secr&eacute;taire d'Etat &agrave; ariation.</p>\n<p>Secr&eacute;taire d'Etat aux colonies p. i.,</p>\n<p>BERGERET.</p>"
+    }
+  ]
+}

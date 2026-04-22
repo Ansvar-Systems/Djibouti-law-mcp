@@ -27,7 +27,7 @@ If you are a lawyer, legal researcher, or other legal professional:
 
 **YOU MUST VERIFY EVERYTHING.** Do not cite, quote, or rely on any provision, case law, or legal interpretation from this Tool without:
 
-1. Checking the official source (Djibouti Law Reports (djiboutianlaw.org), Djibouti Gazette)
+1. Checking the official source (Journal Officiel de la République de Djibouti (journalofficiel.dj))
 2. Verifying the provision is currently in force and has not been amended
 3. Reading the full context of cited provisions
 4. Consulting case law and preparatory works for interpretation
@@ -168,7 +168,7 @@ Using this Tool does not reduce your professional obligations to:
 ## Recommended Workflow for Professional Use
 
 1. **Initial Research**: Use Tool for preliminary research and hypothesis generation
-2. **Official Verification**: Cross-check ALL results with official sources (Djibouti Law Reports (djiboutianlaw.org), Djibouti Gazette)
+2. **Official Verification**: Cross-check ALL results with official sources (Journal Officiel de la République de Djibouti (journalofficiel.dj))
 3. **Commercial Databases**: Use professional legal databases for authoritative, annotated versions
 4. **Professional Judgment**: Apply independent legal analysis and professional judgment
 5. **Document Sources**: Cite official sources in legal work, not this Tool
