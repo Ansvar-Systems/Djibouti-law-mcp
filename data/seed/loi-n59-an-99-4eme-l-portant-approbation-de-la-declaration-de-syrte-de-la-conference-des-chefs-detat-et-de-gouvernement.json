@@ -1,0 +1,42 @@
+{
+  "id": "loi-n59-an-99-4eme-l-portant-approbation-de-la-declaration-de-syrte-de-la-conference-des-chefs-detat-et-de-gouvernement",
+  "type": "statute",
+  "title": "Loi n° 59/AN/99/4ème L portant approbation de la déclaration de Syrte de la Conférence des Chefs d’Etat et de Gouvernement.",
+  "short_name": "Loi n° 59/AN/99/4ème L portant approbation de la déclaration de Syrte de la…",
+  "status": "in_force",
+  "reference": "59/AN/99/4ème L",
+  "issued_date": "1999-10-17",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n59-an-99-4eme-l-portant-approbation-de-la-declaration-de-syrte-de-la-conference-des-chefs-detat-et-de-gouvernement/",
+  "description": "portant approbation de la déclaration de Syrte de la Conférence des Chefs d'Etat et de Gouvernement.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>VU La constitution du 15 septembre 1992 ;<br />VU Le d&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n99-0059-pre-portant-nomination-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>99-0059/PRE </a>du 12 mai 1999 portant nomination des membres du Gouvernement et fixant leurs attributions ;</p>",
+  "signature": "<p>Par le Pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />ISMA&Iuml;L OMAR GUELLEH</p>",
+  "journal_issue_ids": 57905,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>VU La constitution du 15 septembre 1992 ;<br />VU Le d&eacute;cret n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/decret-n99-0059-pre-portant-nomination-des-membres-du-gouvernement-et-fixant-leurs-attributions/'>99-0059/PRE </a>du 12 mai 1999 portant nomination des membres du Gouvernement et fixant leurs attributions ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "La déclaration de Syrte de la Conférence des Chefs d’État et de Gouvernement est approuvée telle qu’elle fût."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente déclaration sera publiée et insérée au Journal Officiel de la République de Djibouti dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le Pr&eacute;sident de la R&eacute;publique,<br />chef du Gouvernement<br />ISMA&Iuml;L OMAR GUELLEH</p>"
+    }
+  ]
+}

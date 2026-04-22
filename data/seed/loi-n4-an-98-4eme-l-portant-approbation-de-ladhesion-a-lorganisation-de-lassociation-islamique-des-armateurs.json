@@ -1,0 +1,42 @@
+{
+  "id": "loi-n4-an-98-4eme-l-portant-approbation-de-ladhesion-a-lorganisation-de-lassociation-islamique-des-armateurs",
+  "type": "statute",
+  "title": "Loi n° 4/AN/98/4ème L portant approbation de l’adhésion à l’organisation de l’Association Islamique des Armateurs.",
+  "short_name": "Loi n° 4/AN/98/4ème L portant approbation de l’adhésion à l’organisation de…",
+  "status": "in_force",
+  "reference": "4/AN/98/4ème L",
+  "issued_date": "1998-01-19",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n4-an-98-4eme-l-portant-approbation-de-ladhesion-a-lorganisation-de-lassociation-islamique-des-armateurs/",
+  "description": "portant approbation de l'adhésion à l'organisation de l'Association Islamique des Armateurs.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p><span style=\"font-family: Times New Roman;\">VU la Constitution du 15 septembre 1992 ;<br />VU le D&eacute;cret n&deg;97-O191/PRE du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions </span></p>",
+  "signature": "<p><span style=\"font-family: Times New Roman;\">Le Pr&eacute;sident de la R&eacute;publique,<br />Chef du Gouvernement<br />HASSAN GOULED APTIDON</span></p>",
+  "journal_issue_ids": 57911,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p><span style=\"font-family: Times New Roman;\">VU la Constitution du 15 septembre 1992 ;<br />VU le D&eacute;cret n&deg;97-O191/PRE du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions </span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L’Adhésion de la République de Djibouti à l’Organisation de l’Association Islamique des Armateurs est approuvée."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera exécutée comme Loi de l’État et publiée au Journal Officiel de la République dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p><span style=\"font-family: Times New Roman;\">Le Pr&eacute;sident de la R&eacute;publique,<br />Chef du Gouvernement<br />HASSAN GOULED APTIDON</span></p>"
+    }
+  ]
+}

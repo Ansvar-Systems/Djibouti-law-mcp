@@ -1,0 +1,42 @@
+{
+  "id": "loi-n9-an-98-4eme-l-portant-approbation-de-compte-administratif-de-lexercice-1995-de-lonac",
+  "type": "statute",
+  "title": "Loi n° 9/AN/98/4ème L portant approbation de Compte Administratif de l’Exercice 1995 de l’ONAC.",
+  "short_name": "Loi n° 9/AN/98/4ème L portant approbation de Compte Administratif de l’Exercice…",
+  "status": "in_force",
+  "reference": "9/AN/98/4ème L",
+  "issued_date": "1998-01-19",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n9-an-98-4eme-l-portant-approbation-de-compte-administratif-de-lexercice-1995-de-lonac/",
+  "description": "portant approbation de Compte Administratif de l'Exercice 1995 de l'ONAC.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p><span style=\"font-family: Times New Roman;\">VU la Constitution du 15 septembre 1992 ;<br />VU le D&eacute;cret n&deg;97-0191/PRE/97 du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions ;<br />VU la loi n&deg;18/78 du 30 mars portant cr&eacute;ation d'un &eacute;tablissement public d&eacute;nomm&eacute; \"Office National d'Approvisionnement et de Commercialisation\" ;</span></p>",
+  "signature": "<p><span style=\"font-family: Times New Roman;\">Le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p align=\"RIGHT\"><span style=\"font-family: Times New Roman;\">Chef du Gouvernement</span></p>\n<p align=\"RIGHT\"><span style=\"font-family: Times New Roman;\">Hassan Gouled Aptidon</span></p>",
+  "journal_issue_ids": 57911,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p><span style=\"font-family: Times New Roman;\">VU la Constitution du 15 septembre 1992 ;<br />VU le D&eacute;cret n&deg;97-0191/PRE/97 du 28 d&eacute;cembre 1997 portant remaniement des membres du Gouvernement et fixant leurs attributions ;<br />VU la loi n&deg;18/78 du 30 mars portant cr&eacute;ation d'un &eacute;tablissement public d&eacute;nomm&eacute; \"Office National d'Approvisionnement et de Commercialisation\" ;</span></p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est approuvé et rendu exécutoire le compte de l’exercice 1995 de l’Office National d’Approvisionnement et de Commercialisation qui est arrêté comme suit :\n\n\nRECETTES : 836 603 000 FD\nCHARGES : 1.077.474.000 FD\nRESULTAT NET (Perte) : 240 871 000 FD"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente Loi sera publiée au Journal Officiel de la République dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p><span style=\"font-family: Times New Roman;\">Le Pr&eacute;sident de la R&eacute;publique,</span></p>\n<p align=\"RIGHT\"><span style=\"font-family: Times New Roman;\">Chef du Gouvernement</span></p>\n<p align=\"RIGHT\"><span style=\"font-family: Times New Roman;\">Hassan Gouled Aptidon</span></p>"
+    }
+  ]
+}
