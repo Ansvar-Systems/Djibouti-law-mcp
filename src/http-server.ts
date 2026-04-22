@@ -20,9 +20,9 @@ import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/
 import { createServer as createHttpServer, IncomingMessage, ServerResponse } from 'node:http';
 import { randomUUID } from 'crypto';
 import { createHash } from 'crypto';
-import { existsSync, openSync, readSync, closeSync, readFileSync, statSync } from 'fs';
+import { existsSync, openSync, readSync, closeSync, readFileSync, statSync, copyFileSync, statfsSync } from 'fs';
 import { fileURLToPath } from 'url';
-import { dirname, join } from 'path';
+import { dirname, join, basename } from 'path';
 import Database from '@ansvar/mcp-sqlite';
 
 import { registerTools } from './tools/registry.js';
@@ -77,6 +77,26 @@ function resolveDbPath(): string {
   );
 }
 
+// /tmp must be a real tmpfs — overlay2's writable layer triggers the WASM SQLite read bug.
+// See docs/known-issues/wasm-sqlite-overlay-filesystem.md.
+function ensureReadableDb(srcPath: string): string {
+  const st = statfsSync('/tmp');
+  const TMPFS_MAGIC = 0x01021994;
+  if (Number(st.type) !== TMPFS_MAGIC) {
+    throw new Error(
+      `/tmp is not tmpfs (filesystem type 0x${Number(st.type).toString(16)}). ` +
+      `WASM SQLite (@ansvar/mcp-sqlite) cannot read overlay2-backed files, and without a tmpfs mount /tmp sits on the container's writable layer. ` +
+      `Start the container with 'docker run --tmpfs /tmp ...' or deploy via deployment/public-mcp/docker-compose.law.yml (x-law-defaults sets tmpfs: /tmp). ` +
+      `See docs/known-issues/wasm-sqlite-overlay-filesystem.md.`,
+    );
+  }
+  const tmpPath = join('/tmp', basename(srcPath));
+  if (!existsSync(tmpPath)) {
+    copyFileSync(srcPath, tmpPath);
+  }
+  return tmpPath;
+}
+
 // ---------------------------------------------------------------------------
 // Session management
 // ---------------------------------------------------------------------------
@@ -96,13 +116,14 @@ const sessions = new Map<string, StreamableHTTPServerTransport>();
 // ---------------------------------------------------------------------------
 
 async function main() {
-  const dbPath = resolveDbPath();
+  const srcPath = resolveDbPath();
+  const dbPath = ensureReadableDb(srcPath);
   const db = new Database(dbPath, { readonly: true });
   db.pragma('foreign_keys = ON');
 
   const caps = detectCapabilities(db);
   const meta = readDbMetadata(db);
-  console.error(`[${SERVER_NAME}] Database: ${dbPath}`);
+  console.error(`[${SERVER_NAME}] Database: ${dbPath} (source: ${srcPath})`);
   console.error(`[${SERVER_NAME}] Tier: ${meta.tier}, Capabilities: ${[...caps].join(', ')}`);
 
   // About context for the about tool — use partial hash to avoid loading
