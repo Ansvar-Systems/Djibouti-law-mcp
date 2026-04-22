@@ -1,0 +1,54 @@
+{
+  "id": "loi-n115-an-80-portant-controle-judiciaire",
+  "type": "statute",
+  "title": "Loi n° 115/AN/80 portant contrôle judiciaire.",
+  "short_name": "Loi n° 115/AN/80 portant contrôle judiciaire.",
+  "status": "in_force",
+  "reference": "115/AN/80",
+  "issued_date": "1980-03-30",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n115-an-80-portant-controle-judiciaire/",
+  "description": "portant contrôle judiciaire.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles N&deg;s 77-001 et et 77-002 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le Code d'Instruction Criminelle ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le rapport de Monsieur le Ministre de la Justice.</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58264,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">L'ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles N&deg;s 77-001 et et 77-002 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le Code d'Instruction Criminelle ;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">VU le rapport de Monsieur le Ministre de la Justice.</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Le chapitre VII du Livre 1er du Code d’Instruction Criminelle est complété ainsi qu’il suit :"
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Article 112",
+      "content": "1 – Le contrôle judiciaire peut être ordonné par le juge d’instruction, en tout état de l’information, si l’inculpé encourt une peine d’emprisonnement correctionnelle ou une peine plus grave.\n\n\nCe contrôle astreint l’inculpé à se soumettre, selon la décision du juge d’instruction à une ou plusieurs des obligations ci-après énumérées :\n\n\n1°/ Ne pas sortir des limites territoriales déterminées par le Juge d’instruction.\n\n\n2°/ Ne pas se rendre dans certains lieux ou ne se rendre que dans certains lieux déterminés par le juge d’instruction.\n\n\n3°/ Remettre soit au Greffe, soit à un service de police ou à une brigade de gendarmerie, tous documents justificatifs de l’identité et notamment le passeport en échange d’un récépissé valant justification de l’identité."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Article 122",
+      "content": "2 – Les pouvoirs conférés au Juge d’Instruction par l’Article 112.1 appartiennent en tout état de cause à la juridiction compétente."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Article 112",
+      "content": "5 – La mainlevée du contrôle judiciaire pourra être ordonnée par le juge d’instruction dans les conditions prévues au Chapitre VII."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera applicable dés sa promulgation. Elle sera publiée selon la procédure d’urgence et au Journal Officiel de la République."
+    }
+  ]
+}

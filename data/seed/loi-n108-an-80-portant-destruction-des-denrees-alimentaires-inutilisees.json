@@ -1,0 +1,48 @@
+{
+  "id": "loi-n108-an-80-portant-destruction-des-denrees-alimentaires-inutilisees",
+  "type": "statute",
+  "title": "Loi n° 108/AN/80 portant destruction des denrées alimentaires inutilisées.",
+  "short_name": "Loi n° 108/AN/80 portant destruction des denrées alimentaires inutilisées.",
+  "status": "in_force",
+  "reference": "108/AN/80",
+  "issued_date": "1980-03-20",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n108-an-80-portant-destruction-des-denrees-alimentaires-inutilisees/",
+  "description": "portant destruction des denrées alimentaires inutilisées.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L' ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s 1 et 2 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072 du 2 Octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58264,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">L' ASSEMBL&Eacute;E NATIONALE A ADOPT&Eacute;,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE PROMULGUE,</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">LA LOI DONT LA TENEUR SUIT :</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg;s 1 et 2 du 27 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072 du 2 Octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est interdit d’abandonner dans un lieu accessible au public des denrées servant à l’utilisation de l’homme ou des animaux."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les denrées alimentaires devront être détruites par broyage, incinération ou enfouissement à une profondeur de un mètre au moins.\n\n\nCette destruction aura lieu en présence d’un officier de police judiciaire requis à cet effet par l’intéressé.\n\n\nUn procès-verbal constatant la destruction sera dressé et transmis au procureur de la République."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Toute infraction à la présente loi sera punie d’une peine de troisième catégorie, soit de 11 jours à 3 mois de prison et de 36.000 FD à 300.000 FD d’amende."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente loi sera applicable dés sa promulgation. Elle sera enregistrée et publiée selon la procédure d’urgence et sera insérée au Journal Officiel de la République."
+    }
+  ]
+}

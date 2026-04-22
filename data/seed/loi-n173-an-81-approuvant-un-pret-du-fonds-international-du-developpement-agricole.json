@@ -1,0 +1,36 @@
+{
+  "id": "loi-n173-an-81-approuvant-un-pret-du-fonds-international-du-developpement-agricole",
+  "type": "statute",
+  "title": "Loi n° 173/AN/81 approuvant un prêt du Fonds International du Développement Agricole.",
+  "short_name": "Loi n° 173/AN/81 approuvant un prêt du Fonds International du Développement…",
+  "status": "in_force",
+  "reference": "173/AN/81",
+  "issued_date": "1981-03-02",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n173-an-81-approuvant-un-pret-du-fonds-international-du-developpement-agricole/",
+  "description": "approuvant un prêt du Fonds International du Développement Agricole.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1970 portant nomination des Membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58274,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;77-008 du 30 Juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1970 portant nomination des Membres du Gouvernement.</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est approuvé le prêt accordé par le Fonds International de Développement Agricole d’un montant de 1 230 000 Dollars (Un million Deux Cent Trente Mille) pour le Développement de la Pêche Artisanale à Djibouti."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera publiée au Journal Officiel et communiquée partout où besoin sera, dès sa promulgation."
+    }
+  ]
+}

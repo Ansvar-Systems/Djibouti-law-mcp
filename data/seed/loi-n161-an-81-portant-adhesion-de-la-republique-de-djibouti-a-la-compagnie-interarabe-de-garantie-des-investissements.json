@@ -1,0 +1,36 @@
+{
+  "id": "loi-n161-an-81-portant-adhesion-de-la-republique-de-djibouti-a-la-compagnie-interarabe-de-garantie-des-investissements",
+  "type": "statute",
+  "title": "Loi n° 161/AN/81 Portant adhésion de la République de Djibouti à la Compagnie Interarabe de Garantie des Investissements",
+  "short_name": "Loi n° 161/AN/81 Portant adhésion de la République de Djibouti à la Compagnie…",
+  "status": "in_force",
+  "reference": "161/AN/81",
+  "issued_date": "1981-02-09",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n161-an-81-portant-adhesion-de-la-republique-de-djibouti-a-la-compagnie-interarabe-de-garantie-des-investissements/",
+  "description": "Portant adhésion de la République de Djibouti à la Compagnie Interarabe de Garantie des Investissements",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 Juin 1977;</p>\n<p>VU l'ordonnance n&deg;77-008 du 80 Juin 1977;</p>\n<p>VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1978 portant nomination des membres du Gouvernement;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58272,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 Juin 1977;</p>\n<p>VU l'ordonnance n&deg;77-008 du 80 Juin 1977;</p>\n<p>VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1978 portant nomination des membres du Gouvernement;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "L’Adhésion de la République de Djibouti à la Compagnie Inter-Arabe de Garantie des Investissements est approuvée."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente loi sera exécutée comme Loi d’État et publiée au Journal Officiel de la République de Djibouti, dès sa promulgation"
+    }
+  ]
+}

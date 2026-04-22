@@ -1,0 +1,42 @@
+{
+  "id": "loi-n80-007-pr-portant-creation-dune-societe-detat-denommee-societe-hoteliere-detat-de-djibouti",
+  "type": "statute",
+  "title": "Loi n° 80-007/PR portant création d’une société d’État dénommée Société hôtelière d’État de Djibouti.",
+  "short_name": "Loi n° 80-007/PR portant création d’une société d’État dénommée Société…",
+  "status": "in_force",
+  "reference": "80-007/PR",
+  "issued_date": "1980-01-15",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n80-007-pr-portant-creation-dune-societe-detat-denommee-societe-hoteliere-detat-de-djibouti/",
+  "description": "portant création d'une société d'État dénommée Société hôtelière d'État de Djibouti.",
+  "nature": "Loi",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; 1 et n&deg; 2 du 27 juin 1977 ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 juin 1977 ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072 du 2 octobre 1978 portant nomination des membres du Gouvernement ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>",
+  "signature": "",
+  "journal_issue_ids": 58264,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\" align=\"justify\">LE PR&Eacute;SIDENT DE LA R&Eacute;PUBLIQUE, CHEF DU GOUVERNEMENT</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU les lois constitutionnelles n&deg; 1 et n&deg; 2 du 27 juin 1977 ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU l'ordonnance n&deg; 77-008 du 30 juin 1977 ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\" align=\"justify\">VU le d&eacute;cret n&deg; 78-072 du 2 octobre 1978 portant nomination des membres du Gouvernement ;&nbsp;</p>\n<p style=\"margin-bottom: -20px;\">&nbsp;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est créé une société d’État dénommée Société hôtelière d’État de Djibouti dont l’objet est la construction et l’exploitation d’un hôtel de tourisme à Djibouti."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Un décret pris en Conseil des Ministres fixera les statuts de cette société."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "La présente ordonnance sera enregistrée et publiée selon la procédure d’urgence. Elle sera également insérée au « Journal officiel » de la République."
+    }
+  ]
+}

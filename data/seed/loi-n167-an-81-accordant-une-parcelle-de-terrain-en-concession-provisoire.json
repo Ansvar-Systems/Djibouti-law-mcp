@@ -1,0 +1,48 @@
+{
+  "id": "loi-n167-an-81-accordant-une-parcelle-de-terrain-en-concession-provisoire",
+  "type": "statute",
+  "title": "Loi n° 167/AN/81 accordant une parcelle de terrain en concession provisoire.",
+  "short_name": "Loi n° 167/AN/81 accordant une parcelle de terrain en concession provisoire.",
+  "status": "in_force",
+  "reference": "167/AN/81",
+  "issued_date": "1981-02-09",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n167-an-81-accordant-une-parcelle-de-terrain-en-concession-provisoire/",
+  "description": "accordant une parcelle de terrain en concession provisoire.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p>VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p>VU la loi n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/loi-n128-an-80-portant-approbation-du-cahier-des-charges-du-lotissement-du-heron/'>128/AN/80 </a>portant approbation du Cahier des Charges du Lotissement du H&eacute;ron.</p>",
+  "signature": "",
+  "journal_issue_ids": 58272,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p>VU le d&eacute;cret n&deg;78-072/PR du 2 octobre 1978 portant nomination des membres du Gouvernement.</p>\n<p>VU la loi n&deg;<a href='https://www.journalofficiel.dj/texte-juridique/loi-n128-an-80-portant-approbation-du-cahier-des-charges-du-lotissement-du-heron/'>128/AN/80 </a>portant approbation du Cahier des Charges du Lotissement du H&eacute;ron.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Il est fait concession provisoire à titre gratuit à l’Ambassade de la République d’IRAK à Djibouti, d’une superficie de 4,225 m&sup2;, sise à Djibouti, Lotissement du Héron, Lot n° 10. Tel au surplus qu’elle figure au plan joint."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La parcelle de terrain concédée par la présente loi est destinée à la construction d’une chancellerie pour la mission diplomatique de la République d’lrak à Djibouti.\n\n\nLe concessionnaire devra se conformer sans réserve aux clauses et conditions générales du cahier des Charges adopté par délibération n’ 487i6è L du 24 Mai 1968, modifiée et complétée par délibération n°39/8è L du 27 mai 1974."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Les formalités d’enregistrement et du Timbre seront remplies au nom et à la diligence du concessionnaire dans les délais réglementaires."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "La présente loi sera enregistrée et publiée au Journal Officiel de la République de Djibouti, dès sa promulgation."
+    }
+  ]
+}

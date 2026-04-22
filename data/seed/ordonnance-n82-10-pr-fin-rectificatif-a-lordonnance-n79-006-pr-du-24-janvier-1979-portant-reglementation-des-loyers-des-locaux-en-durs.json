@@ -1,0 +1,60 @@
+{
+  "id": "ordonnance-n82-10-pr-fin-rectificatif-a-lordonnance-n79-006-pr-du-24-janvier-1979-portant-reglementation-des-loyers-des-locaux-en-durs",
+  "type": "statute",
+  "title": "Ordonnance n° 82-10/PR/FIN rectificatif à l’ordonnance n° 79-006/PR du 24 janvier 1979 portant réglementation des loyers des locaux « en durs ».",
+  "short_name": "Ordonnance n° 82-10/PR/FIN rectificatif à l’ordonnance n° 79-006/PR du 24…",
+  "status": "in_force",
+  "reference": "82-10/PR/FIN",
+  "issued_date": "1982-02-15",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n82-10-pr-fin-rectificatif-a-lordonnance-n79-006-pr-du-24-janvier-1979-portant-reglementation-des-loyers-des-locaux-en-durs/",
+  "description": "rectificatif à l'ordonnance n°79-006/PR du 24 janvier 1979 portant réglementation des loyers des locaux \"en durs\".",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement ;</p>\n<p style=\"margin-bottom: -20px;\">VU la d&eacute;lib&eacute;ration n&deg;229/7<sup>&egrave;me</sup> L du 28 d&eacute;cembre 1971;</p>\n<p style=\"margin-bottom: -20px;\">SUR Proposition du Minist&egrave;re des Finances ;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu en sa s&eacute;ance du 2 f&eacute;vrier 1982.</p>",
+  "signature": "<p>Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p>HASSAN GOULED APTIDON</p>",
+  "journal_issue_ids": 58290,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;77-001 et 77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU l'ordonnance n&deg;LR/77-008 en date du 30 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement ;</p>\n<p style=\"margin-bottom: -20px;\">VU la d&eacute;lib&eacute;ration n&deg;229/7<sup>&egrave;me</sup> L du 28 d&eacute;cembre 1971;</p>\n<p style=\"margin-bottom: -20px;\">SUR Proposition du Minist&egrave;re des Finances ;</p>\n<p style=\"margin-bottom: -20px;\">Le Conseil des Ministres entendu en sa s&eacute;ance du 2 f&eacute;vrier 1982.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Les loyers bloqués par l’ordonnance n°79-006 du 24 janvier 1979 sont relevés de 20% à compter du 1 er janvier 1982 sous réserve des dispositions de l’article 3 de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "Les propriétaires qui ont loué des locaux en dur à partir du 24 janvier 1979 aux taux applicables avant l’entrée en vigueur de l’ordonnance précitée bénéficieront de l’augmentation prévue à l’article 1 er de la présente ordonnance."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3",
+      "content": "Ne peuvent prétendre au bénéfice de ce relèvement les propriétaires qui, après le 24 janvier 1979 et malgré les dispositions de l’ordonnance du 24 janvier 1979, ont obtenu une révision en hausse des loyers de leurs immeubles ou qui les ont reloué à des taux supérieurs aux loyers pratiqués avant l’entrée en vigueur de l’ordonnance précitée."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4",
+      "content": "Toutes les dispositions contraires de la présente ordonnance seront abrogées."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5",
+      "content": "La présente ordonnance sera applicable dès sa publication qui interviendra selon la procédure d’urgence et sera également publiée au Journal Officiel."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le Pr&eacute;sident de la R&eacute;publique</p>\n<p>HASSAN GOULED APTIDON</p>"
+    }
+  ]
+}

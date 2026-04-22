@@ -1,0 +1,36 @@
+{
+  "id": "ordonnance-n81-106-pr-du-7octobre-1981-portant-octroi-de-laval-de-la-republique-de-djibouti-a-un-emprunt-de-12-750-000-francs-francais-contracte-par-e",
+  "type": "statute",
+  "title": "Ordonnance n° 81-106/PR DU 7octobre 1981 portant octroi de l’aval de la République de Djibouti à un emprunt de 12 750 000 francs français contracté par « Electricité Djibouti » auprès de la Caisse centrale de Coopération économique.",
+  "short_name": "Ordonnance n° 81-106/PR DU 7octobre 1981 portant octroi de l’aval de la…",
+  "status": "in_force",
+  "reference": "81-106/PR",
+  "issued_date": "1981-10-07",
+  "url": "https://www.journalofficiel.dj/texte-juridique/ordonnance-n81-106-pr-du-7octobre-1981-portant-octroi-de-laval-de-la-republique-de-djibouti-a-un-emprunt-de-12-750-000-francs-francais-contracte-par-electricite-djibouti-aupres-d/",
+  "description": "DU 7octobre 1981 portant octroi de l'aval de la République de Djibouti à un emprunt de 12 750 000 francs français contracté par « Electricité Djibouti » auprès de la Caisse centrale de Coopération économique.",
+  "nature": "Ordonnance",
+  "institution": "PRÉSIDENCE DE LA RÉPUBLIQUE",
+  "visas": "<p>Le pr&eacute;sident de la R&eacute;publique, chef du Gouvernement,</p>",
+  "signature": "<p>Le chef de Gouvernement p.i,<br />BARKAT GOURAD HAMADOU</p>",
+  "journal_issue_ids": 58285,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>Le pr&eacute;sident de la R&eacute;publique, chef du Gouvernement,</p>"
+    },
+    {
+      "provision_ref": "body",
+      "section": "body",
+      "title": "Corps du texte",
+      "content": "Art. 1er : La République de Djibouti donne à la Caisse centrale de Coopération économique sa garantie de bonne fin au crédit de 12 750 000 francs français qu’elle a consenti à Electricité de Djibouti, aux termes de la convention n° 52 12 80 010 signée à Djibouti le 10 août 1981.\n\n Art. 2 : Cette garantie s’exercera dans les conditions précisées par la convention d’aval et d’engagement d’autorisation de transfert passée entre la République de Djibouti et la Caisse centrale de Coopération économique.\n\n Art 3 : La présente ordonnance sera applicable dès sa publication qui interviendra selon la procédure d’urgence.\n\n Elle sera également publiée au Journal officiel de la République de Djibouti."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Le chef de Gouvernement p.i,<br />BARKAT GOURAD HAMADOU</p>"
+    }
+  ]
+}

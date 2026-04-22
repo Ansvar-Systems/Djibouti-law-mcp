@@ -1,0 +1,42 @@
+{
+  "id": "loi-n221-an-82-portant-approbation-de-ladhesion-de-la-republique-de-djibouti-a-lorganisation-de-lutte-contre-le-criquet-pelerin-dans-lest-africain",
+  "type": "statute",
+  "title": "Loi n° 221/AN/82 portant approbation de l’Adhésion de la République de Djibouti à l’Organisation de Lutte contre le Criquet Pèlerin dans l’Est Africain.",
+  "short_name": "Loi n° 221/AN/82 portant approbation de l’Adhésion de la République de Djibouti…",
+  "status": "in_force",
+  "reference": "221/AN/82",
+  "issued_date": "1982-01-25",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n221-an-82-portant-approbation-de-ladhesion-de-la-republique-de-djibouti-a-lorganisation-de-lutte-contre-le-criquet-pelerin-dans-lest-africain/",
+  "description": "portant approbation de l'Adhésion de la République de Djibouti à l'Organisation de Lutte contre le Criquet Pèlerin dans l'Est Africain.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi n&deg;6/AN/78 du 1<sup>er</sup>&nbsp;f&eacute;vrier 1978 portant approbation de l'Adh&eacute;sion de la R&eacute;publique de Djibouti &agrave; l'Organisation des Nations Unies.</p>",
+  "signature": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />HASSAN GOULED APTIDON.</p>",
+  "journal_issue_ids": 58289,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p style=\"margin-bottom: -20px;\">VU les lois constitutionnelles n&deg;LR/77-001 et LR/77-002 du 27 juin 1977 ;</p>\n<p style=\"margin-bottom: -20px;\">VU le d&eacute;cret n&deg;81-076/PR du 7 juillet 1981 portant nomination des membres du Gouvernement ;</p>\n<p style=\"margin-bottom: -20px;\">VU la loi n&deg;6/AN/78 du 1<sup>er</sup>&nbsp;f&eacute;vrier 1978 portant approbation de l'Adh&eacute;sion de la R&eacute;publique de Djibouti &agrave; l'Organisation des Nations Unies.</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "Est approuvée l’Adhésion de la République de Djibouti à l’Organisation Internationale de Lutte contre le Criquet Pèlerin dans l’Est Africain."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2",
+      "content": "La présente Loi sera exécutée comme Loi de l’ETAT ets era publiée au Journal Officiel, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p>Par le pr&eacute;sident de la R&eacute;publique,<br />HASSAN GOULED APTIDON.</p>"
+    }
+  ]
+}
