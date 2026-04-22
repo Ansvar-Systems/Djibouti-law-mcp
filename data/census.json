@@ -17534,9 +17534,9 @@
       "issued_date": "2006-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57681
     },
     {
@@ -17553,9 +17553,9 @@
       "issued_date": "2006-06-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57680
     },
     {
@@ -17572,9 +17572,9 @@
       "issued_date": "2006-06-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57680
     },
     {
@@ -17591,9 +17591,9 @@
       "issued_date": "2006-06-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57680
     },
     {
@@ -17610,9 +17610,9 @@
       "issued_date": "2006-03-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 19,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57673
     },
     {
@@ -17629,9 +17629,9 @@
       "issued_date": "2006-03-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 16,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57673
     },
     {
@@ -17648,9 +17648,9 @@
       "issued_date": "2006-03-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57673
     },
     {
@@ -17667,9 +17667,9 @@
       "issued_date": "2006-03-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57673
     },
     {
@@ -17686,9 +17686,9 @@
       "issued_date": "2006-03-11",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57673
     },
     {
@@ -17705,9 +17705,9 @@
       "issued_date": "2006-02-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57669
     },
     {
@@ -17724,9 +17724,9 @@
       "issued_date": "2006-02-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57669
     },
     {
@@ -17743,9 +17743,9 @@
       "issued_date": "2006-02-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57669
     },
     {
@@ -17762,9 +17762,9 @@
       "issued_date": "2006-02-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57669
     },
     {
@@ -17781,9 +17781,9 @@
       "issued_date": "2006-02-04",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57670
     },
     {
@@ -17800,9 +17800,9 @@
       "issued_date": "2006-02-02",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57669
     },
     {
@@ -17819,9 +17819,9 @@
       "issued_date": "2006-01-28",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 299,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57674
     },
     {
@@ -17838,9 +17838,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17857,9 +17857,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17876,9 +17876,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17895,9 +17895,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17914,9 +17914,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17933,9 +17933,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 22,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17952,9 +17952,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17971,9 +17971,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -17990,9 +17990,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -18009,9 +18009,9 @@
       "issued_date": "2005-12-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57726
     },
     {
@@ -18028,9 +18028,9 @@
       "issued_date": "2005-11-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 130,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57720
     },
     {
@@ -18047,9 +18047,9 @@
       "issued_date": "2005-11-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57721
     },
     {
@@ -18066,9 +18066,9 @@
       "issued_date": "2005-11-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57721
     },
     {
@@ -18085,9 +18085,9 @@
       "issued_date": "2005-11-01",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57721
     },
     {
@@ -18104,9 +18104,9 @@
       "issued_date": "2005-10-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57704
     },
     {
@@ -18123,9 +18123,9 @@
       "issued_date": "2005-10-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57704
     },
     {
@@ -18142,9 +18142,9 @@
       "issued_date": "2005-10-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 73,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57706
     },
     {
@@ -18161,9 +18161,9 @@
       "issued_date": "2005-10-15",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57705
     },
     {
@@ -18180,9 +18180,9 @@
       "issued_date": "2005-09-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57701
     },
     {
@@ -18199,9 +18199,9 @@
       "issued_date": "2005-09-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57701
     },
     {
@@ -18218,9 +18218,9 @@
       "issued_date": "2005-09-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57701
     },
     {
@@ -18237,9 +18237,9 @@
       "issued_date": "2005-09-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57701
     },
     {
@@ -18256,9 +18256,9 @@
       "issued_date": "2005-09-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57701
     },
     {
@@ -18275,9 +18275,9 @@
       "issued_date": "2005-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57697
     },
     {
@@ -18294,9 +18294,9 @@
       "issued_date": "2005-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57697
     },
     {
@@ -18313,9 +18313,9 @@
       "issued_date": "2005-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57697
     },
     {
@@ -18332,9 +18332,9 @@
       "issued_date": "2005-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57697
     },
     {
@@ -18351,9 +18351,9 @@
       "issued_date": "2005-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57697
     },
     {
@@ -18370,9 +18370,9 @@
       "issued_date": "2005-04-12",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57692
     },
     {
@@ -18389,9 +18389,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 105,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57690
     },
     {
@@ -18408,9 +18408,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57691
     },
     {
@@ -18427,9 +18427,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 18,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57691
     },
     {
@@ -18446,9 +18446,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57691
     },
     {
@@ -18465,9 +18465,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57691
     },
     {
@@ -18484,9 +18484,9 @@
       "issued_date": "2005-04-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57691
     },
     {
@@ -18503,9 +18503,9 @@
       "issued_date": "2005-02-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57684
     },
     {
@@ -18522,9 +18522,9 @@
       "issued_date": "2005-02-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57684
     },
     {
@@ -18541,9 +18541,9 @@
       "issued_date": "2005-02-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57684
     },
     {
@@ -18560,9 +18560,9 @@
       "issued_date": "2005-02-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57684
     },
     {
@@ -18579,9 +18579,9 @@
       "issued_date": "2005-02-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57684
     },
     {
@@ -18598,9 +18598,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57682
     },
     {
@@ -18617,9 +18617,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57682
     },
     {
@@ -18636,9 +18636,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57682
     },
     {
@@ -18655,9 +18655,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57682
     },
     {
@@ -18674,9 +18674,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57682
     },
     {
@@ -18693,9 +18693,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 68,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57683
     },
     {
@@ -18712,9 +18712,9 @@
       "issued_date": "2005-01-16",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 84,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57683
     },
     {
@@ -18731,9 +18731,9 @@
       "issued_date": "2004-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18750,9 +18750,9 @@
       "issued_date": "2004-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18769,9 +18769,9 @@
       "issued_date": "2004-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 35,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18788,9 +18788,9 @@
       "issued_date": "2004-12-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18807,9 +18807,9 @@
       "issued_date": "2004-12-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18826,9 +18826,9 @@
       "issued_date": "2004-12-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57752
     },
     {
@@ -18845,9 +18845,9 @@
       "issued_date": "2004-10-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 45,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57748
     },
     {
@@ -18864,9 +18864,9 @@
       "issued_date": "2004-10-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57748
     },
     {
@@ -18883,9 +18883,9 @@
       "issued_date": "2004-10-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 73,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57749
     },
     {
@@ -18902,9 +18902,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -18921,9 +18921,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -18940,9 +18940,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -18959,9 +18959,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -18978,9 +18978,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -18997,9 +18997,9 @@
       "issued_date": "2004-09-08",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 39,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57745
     },
     {
@@ -19016,9 +19016,9 @@
       "issued_date": "2004-07-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57741
     },
     {
@@ -19035,9 +19035,9 @@
       "issued_date": "2004-07-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57741
     },
     {
@@ -19054,9 +19054,9 @@
       "issued_date": "2004-07-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57741
     },
     {
@@ -19073,9 +19073,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19092,9 +19092,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19111,9 +19111,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19130,9 +19130,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19149,9 +19149,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19168,9 +19168,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19187,9 +19187,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19206,9 +19206,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19225,9 +19225,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19244,9 +19244,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19263,9 +19263,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19282,9 +19282,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19301,9 +19301,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57739
     },
     {
@@ -19320,9 +19320,9 @@
       "issued_date": "2004-06-21",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 84,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57740
     },
     {
@@ -19339,9 +19339,9 @@
       "issued_date": "2004-05-20",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57737
     },
     {
@@ -19358,9 +19358,9 @@
       "issued_date": "2004-05-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 52,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57737
     },
     {
@@ -19377,9 +19377,9 @@
       "issued_date": "2004-05-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57737
     },
     {
@@ -19396,9 +19396,9 @@
       "issued_date": "2004-05-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57736
     },
     {
@@ -19415,9 +19415,9 @@
       "issued_date": "2004-05-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 21,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57736
     },
     {
@@ -19434,9 +19434,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57732
     },
     {
@@ -19453,9 +19453,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 12,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57732
     },
     {
@@ -19472,9 +19472,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57732
     },
     {
@@ -19491,9 +19491,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57732
     },
     {
@@ -19510,9 +19510,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57732
     },
     {
@@ -19529,9 +19529,9 @@
       "issued_date": "2004-03-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 3,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57733
     },
     {
@@ -19548,9 +19548,9 @@
       "issued_date": "2004-03-10",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57731
     },
     {
@@ -19567,9 +19567,9 @@
       "issued_date": "2004-01-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57728
     },
     {
@@ -19586,9 +19586,9 @@
       "issued_date": "2004-01-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57728
     },
     {
@@ -19605,9 +19605,9 @@
       "issued_date": "2004-01-27",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57728
     },
     {
@@ -19624,9 +19624,9 @@
       "issued_date": "2003-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57786
     },
     {
@@ -19643,9 +19643,9 @@
       "issued_date": "2003-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 28,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57786
     },
     {
@@ -19662,9 +19662,9 @@
       "issued_date": "2003-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57786
     },
     {
@@ -19681,9 +19681,9 @@
       "issued_date": "2003-12-30",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57786
     },
     {
@@ -19700,9 +19700,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19719,9 +19719,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19738,9 +19738,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19757,9 +19757,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19776,9 +19776,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19795,9 +19795,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19814,9 +19814,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19833,9 +19833,9 @@
       "issued_date": "2003-11-19",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57784
     },
     {
@@ -19852,9 +19852,9 @@
       "issued_date": "2003-11-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57783
     },
     {
@@ -19871,9 +19871,9 @@
       "issued_date": "2003-09-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57780
     },
     {
@@ -19890,9 +19890,9 @@
       "issued_date": "2003-09-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57780
     },
     {
@@ -19909,9 +19909,9 @@
       "issued_date": "2003-09-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57780
     },
     {
@@ -19928,9 +19928,9 @@
       "issued_date": "2003-09-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57780
     },
     {
@@ -19947,9 +19947,9 @@
       "issued_date": "2003-08-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57777
     },
     {
@@ -19966,9 +19966,9 @@
       "issued_date": "2003-08-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57777
     },
     {
@@ -19985,9 +19985,9 @@
       "issued_date": "2003-08-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 8,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57777
     },
     {
@@ -20004,9 +20004,9 @@
       "issued_date": "2003-08-03",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 14,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57777
     },
     {
@@ -20023,9 +20023,9 @@
       "issued_date": "2003-07-22",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57776
     },
     {
@@ -20042,9 +20042,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 39,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20061,9 +20061,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20080,9 +20080,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20099,9 +20099,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20118,9 +20118,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20137,9 +20137,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20156,9 +20156,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20175,9 +20175,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20194,9 +20194,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20213,9 +20213,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20232,9 +20232,9 @@
       "issued_date": "2003-06-25",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57774
     },
     {
@@ -20251,9 +20251,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20270,9 +20270,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20289,9 +20289,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20308,9 +20308,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 42,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20327,9 +20327,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20346,9 +20346,9 @@
       "issued_date": "2003-03-31",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57769
     },
     {
@@ -20365,9 +20365,9 @@
       "issued_date": "2003-02-02",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57766
     },
     {
@@ -20384,9 +20384,9 @@
       "issued_date": "2003-01-14",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57755
     },
     {
@@ -20403,9 +20403,9 @@
       "issued_date": "2002-12-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57797
     },
     {
@@ -20422,9 +20422,9 @@
       "issued_date": "2002-12-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 18,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57797
     },
     {
@@ -20441,9 +20441,9 @@
       "issued_date": "2002-12-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 25,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57797
     },
     {
@@ -20460,9 +20460,9 @@
       "issued_date": "2002-12-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 17,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57797
     },
     {
@@ -20479,9 +20479,9 @@
       "issued_date": "2002-12-29",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 68,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57797
     },
     {
@@ -20498,9 +20498,9 @@
       "issued_date": "2002-11-13",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57802
     },
     {
@@ -20517,9 +20517,9 @@
       "issued_date": "2002-10-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57803
     },
     {
@@ -20536,9 +20536,9 @@
       "issued_date": "2002-10-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 51,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57803
     },
     {
@@ -20555,9 +20555,9 @@
       "issued_date": "2002-10-17",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57803
     },
     {
@@ -20574,9 +20574,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20593,9 +20593,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20612,9 +20612,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20631,9 +20631,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20650,9 +20650,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20669,9 +20669,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20688,9 +20688,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20707,9 +20707,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20726,9 +20726,9 @@
       "issued_date": "2002-09-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 49,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57806
     },
     {
@@ -20745,9 +20745,9 @@
       "issued_date": "2002-08-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57808
     },
     {
@@ -20764,9 +20764,9 @@
       "issued_date": "2002-08-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57808
     },
     {
@@ -20783,9 +20783,9 @@
       "issued_date": "2002-08-24",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 69,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57808
     },
     {
@@ -20802,9 +20802,9 @@
       "issued_date": "2002-08-14",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57809
     },
     {
@@ -20821,9 +20821,9 @@
       "issued_date": "2002-07-09",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 19,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57807
     },
     {
@@ -20840,9 +20840,9 @@
       "issued_date": "2002-07-07",
       "status": "in_force",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null,
+      "ingested": true,
+      "provision_count": 4,
+      "ingestion_date": "2026-04-22",
       "journal_officiel_ids": 57812
     },
     {
