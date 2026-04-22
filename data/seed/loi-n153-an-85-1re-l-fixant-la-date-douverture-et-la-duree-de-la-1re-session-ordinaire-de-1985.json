@@ -1,0 +1,36 @@
+{
+  "id": "loi-n153-an-85-1re-l-fixant-la-date-douverture-et-la-duree-de-la-1re-session-ordinaire-de-1985",
+  "type": "statute",
+  "title": "Loi n° 153/AN/85/1re L fixant la date d’ouverture et la durée de la 1re session ordinaire de 1985.",
+  "short_name": "Loi n° 153/AN/85/1re L fixant la date d’ouverture et la durée de la 1re session…",
+  "status": "in_force",
+  "reference": "153/AN/85/1re L",
+  "issued_date": "1985-04-11",
+  "url": "https://www.journalofficiel.dj/texte-juridique/loi-n153-an-85-1re-l-fixant-la-date-douverture-et-la-duree-de-la-1re-session-ordinaire-de-1985/",
+  "description": "fixant la date d'ouverture et la durée de la 1re session ordinaire de 1985.",
+  "nature": "Loi",
+  "institution": "ASSEMBLÉE NATIONALE",
+  "visas": "<p>L'Assembl&eacute;e nationale a adopt&eacute; ;<br />Le pr&eacute;sident de la R&eacute;publique promulgue<br />la loi dont la teneur suit ;<br />vu la loi constitutionnelle n &deg;LR /77-001 du 27 juin 1977 ;<br />Vu la loi no 67-521 du 3 juillet 1967 notamment en son article 28 ;</p>",
+  "signature": "<p class=\"Style1\" align=\"right\">Par le pr&eacute;sident de la R&eacute;publique<br />HASSAN GOULED APTIDON</p>\n<p class=\"Style1\" align=\"justify\">&nbsp;</p>",
+  "journal_issue_ids": 58208,
+  "provisions": [
+    {
+      "provision_ref": "visas",
+      "section": "visas",
+      "title": "Visas",
+      "content": "<p>L'Assembl&eacute;e nationale a adopt&eacute; ;<br />Le pr&eacute;sident de la R&eacute;publique promulgue<br />la loi dont la teneur suit ;<br />vu la loi constitutionnelle n &deg;LR /77-001 du 27 juin 1977 ;<br />Vu la loi no 67-521 du 3 juillet 1967 notamment en son article 28 ;</p>"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1",
+      "content": "– La date d’ouverture de la 1re session ordinaire de 1985 de l’Assemblée nationale est fixée au 14 avril 1985 à 9 h 00.\n\n\nArt. 2. – La durée de cette session ne pourra dépasser deux mois.\n\n\nArt. 3. – La présente loi sera publiée au Journal officiel de la République de Djibouti, dès sa promulgation."
+    },
+    {
+      "provision_ref": "signature",
+      "section": "signature",
+      "title": "Signature",
+      "content": "<p class=\"Style1\" align=\"right\">Par le pr&eacute;sident de la R&eacute;publique<br />HASSAN GOULED APTIDON</p>\n<p class=\"Style1\" align=\"justify\">&nbsp;</p>"
+    }
+  ]
+}

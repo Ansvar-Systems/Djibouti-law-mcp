@@ -13,7 +13,7 @@ sources:
     retrieval_method: "WordPress REST API (JSON)"
     api_documentation: "https://www.journalofficiel.dj/wp-json/"
     update_frequency: "Per JORD issue (typically several issues per month)"
-    last_ingested: null
+    last_ingested: "2026-04-22"
     license_or_terms:
       type: "Public record (Journal Officiel)"
       url: "https://www.journalofficiel.dj"
@@ -39,8 +39,8 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "daily"
-  last_verified: null
-  last_full_ingest: null
-  last_check: null
-  total_laws: 0
-  total_provisions: 0
+  last_verified: "2026-04-22"
+  last_full_ingest: "2026-04-22 (partial, ~1,780/2,747 acts; resume via `npm run ingest`)"
+  last_check: "2026-04-22"
+  total_laws: 1778
+  total_provisions: 22965
