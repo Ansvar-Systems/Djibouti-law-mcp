@@ -1,1 +1,103 @@
-{ "tests": [] }
+{
+  "version": "1.0",
+  "mcp_name": "Djibouti Law MCP",
+  "description": "Golden contract tests for the Djibouti Law MCP server. All assertions run against the bundled SQLite corpus (data/database.db) built from the Journal Officiel de la République de Djibouti (JORD).",
+  "tests": [
+    {
+      "id": "T001",
+      "category": "server-metadata",
+      "description": "about tool returns server + database metadata",
+      "tool": "about",
+      "input": {},
+      "assertions": {
+        "fields_present": ["server", "version", "repository", "database", "statistics", "data_source"],
+        "text_contains": ["djibouti-law-mcp", "journalofficiel.dj"]
+      }
+    },
+    {
+      "id": "T002",
+      "category": "server-metadata",
+      "description": "list_sources returns JORD as the single authoritative source",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "text_contains": ["Journal Officiel", "journalofficiel.dj"],
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "T003",
+      "category": "search",
+      "description": "search_legislation finds Constitution provisions",
+      "tool": "search_legislation",
+      "input": { "query": "Constitution", "limit": 10 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "T004",
+      "category": "search",
+      "description": "search_legislation finds mentions of 'données' (French accent)",
+      "tool": "search_legislation",
+      "input": { "query": "données", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "T005",
+      "category": "search",
+      "description": "search_legislation finds 'travail' provisions",
+      "tool": "search_legislation",
+      "input": { "query": "travail", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true
+      }
+    },
+    {
+      "id": "T006",
+      "category": "search",
+      "description": "search_legislation handles an unlikely query gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xqzzzznonexistenttoken", "limit": 5 },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "T007",
+      "category": "currency",
+      "description": "check_currency returns a graceful response for an unknown act",
+      "tool": "check_currency",
+      "input": { "document_id": "this-act-does-not-exist" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "T008",
+      "category": "citation",
+      "description": "validate_citation parses a French-style article citation",
+      "tool": "validate_citation",
+      "input": { "citation": "Article 1, Loi n°192/AN/25/9ème L" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "T009",
+      "category": "citation",
+      "description": "format_citation returns a formatted French citation",
+      "tool": "format_citation",
+      "input": {
+        "citation": "Article 25, Loi n°192/AN/25/9ème L portant révision de la Constitution",
+        "format": "short"
+      },
+      "assertions": {
+        "text_not_empty": true
+      }
+    }
+  ]
+}
